@@ -1,0 +1,1132 @@
+item_id,invoice_id,description,item_type,quantity,unit_price,amount
+1,1,Consultation fee,Consultation,1,1000.0,1000.0
+2,1,Medication dispensed (med_id 15),Pharmacy,15,150.0,2250.0
+3,1,Lab test (test_id 8),Laboratory,1,350.0,350.0
+4,2,Consultation fee,Consultation,1,1000.0,1000.0
+5,2,Medication dispensed (med_id 6),Pharmacy,30,12.0,360.0
+6,2,Medication dispensed (med_id 6),Pharmacy,10,12.0,120.0
+7,2,Medication dispensed (med_id 2),Pharmacy,90,120.0,10800.0
+8,3,Consultation fee,Consultation,1,500.0,500.0
+9,3,Medication dispensed (med_id 3),Pharmacy,20,5.0,100.0
+10,3,Medication dispensed (med_id 20),Pharmacy,90,10.0,900.0
+11,3,Lab test (test_id 15),Laboratory,1,2500.0,2500.0
+12,4,Consultation fee,Consultation,1,300.0,300.0
+13,4,Medication dispensed (med_id 2),Pharmacy,14,120.0,1680.0
+14,4,Lab test (test_id 13),Laboratory,1,500.0,500.0
+15,5,Consultation fee,Consultation,1,700.0,700.0
+16,5,Medication dispensed (med_id 16),Pharmacy,10,4.0,40.0
+17,5,Medication dispensed (med_id 3),Pharmacy,30,5.0,150.0
+18,5,Medication dispensed (med_id 9),Pharmacy,14,30.0,420.0
+19,6,Consultation fee,Consultation,1,300.0,300.0
+20,6,Medication dispensed (med_id 6),Pharmacy,42,12.0,504.0
+21,6,Medication dispensed (med_id 15),Pharmacy,60,150.0,9000.0
+22,6,Medication dispensed (med_id 5),Pharmacy,28,10.0,280.0
+23,6,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+24,7,Consultation fee,Consultation,1,1000.0,1000.0
+25,7,Medication dispensed (med_id 1),Pharmacy,15,15.0,225.0
+26,7,Medication dispensed (med_id 19),Pharmacy,6,14.0,84.0
+27,7,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+28,8,Consultation fee,Consultation,1,1000.0,1000.0
+29,8,Lab test (test_id 12),Laboratory,1,250.0,250.0
+30,9,Consultation fee,Consultation,1,700.0,700.0
+31,9,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+32,9,Lab test (test_id 6),Laboratory,1,300.0,300.0
+33,10,Consultation fee,Consultation,1,500.0,500.0
+34,10,Lab test (test_id 11),Laboratory,1,300.0,300.0
+35,11,Consultation fee,Consultation,1,700.0,700.0
+36,12,Consultation fee,Consultation,1,1000.0,1000.0
+37,12,Lab test (test_id 17),Laboratory,1,400.0,400.0
+38,13,Consultation fee,Consultation,1,300.0,300.0
+39,13,Medication dispensed (med_id 19),Pharmacy,28,14.0,392.0
+40,13,Lab test (test_id 17),Laboratory,1,400.0,400.0
+41,13,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+42,14,Consultation fee,Consultation,1,300.0,300.0
+43,14,Medication dispensed (med_id 2),Pharmacy,21,120.0,2520.0
+44,15,Consultation fee,Consultation,1,1000.0,1000.0
+45,15,Medication dispensed (med_id 15),Pharmacy,6,150.0,900.0
+46,15,Lab test (test_id 2),Laboratory,1,800.0,800.0
+47,16,Consultation fee,Consultation,1,300.0,300.0
+48,16,Medication dispensed (med_id 7),Pharmacy,28,18.0,504.0
+49,16,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+50,16,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+51,17,Consultation fee,Consultation,1,300.0,300.0
+52,17,Medication dispensed (med_id 9),Pharmacy,30,30.0,900.0
+53,17,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+54,18,Consultation fee,Consultation,1,300.0,300.0
+55,18,Medication dispensed (med_id 11),Pharmacy,28,9.0,252.0
+56,18,Medication dispensed (med_id 10),Pharmacy,21,7.0,147.0
+57,18,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+58,18,Lab test (test_id 8),Laboratory,1,350.0,350.0
+59,19,Consultation fee,Consultation,1,1000.0,1000.0
+60,19,Medication dispensed (med_id 6),Pharmacy,10,12.0,120.0
+61,19,Medication dispensed (med_id 16),Pharmacy,5,4.0,20.0
+62,19,Medication dispensed (med_id 10),Pharmacy,6,7.0,42.0
+63,19,Lab test (test_id 2),Laboratory,1,800.0,800.0
+64,20,Consultation fee,Consultation,1,1000.0,1000.0
+65,20,Lab test (test_id 2),Laboratory,1,800.0,800.0
+66,21,Consultation fee,Consultation,1,1000.0,1000.0
+67,22,Consultation fee,Consultation,1,300.0,300.0
+68,22,Medication dispensed (med_id 20),Pharmacy,15,10.0,150.0
+69,22,Medication dispensed (med_id 6),Pharmacy,10,12.0,120.0
+70,23,Consultation fee,Consultation,1,300.0,300.0
+71,23,Medication dispensed (med_id 6),Pharmacy,21,12.0,252.0
+72,23,Medication dispensed (med_id 9),Pharmacy,10,30.0,300.0
+73,23,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+74,24,Consultation fee,Consultation,1,1000.0,1000.0
+75,24,Medication dispensed (med_id 14),Pharmacy,28,0.0,0.0
+76,24,Lab test (test_id 16),Laboratory,1,600.0,600.0
+77,25,Consultation fee,Consultation,1,300.0,300.0
+78,25,Medication dispensed (med_id 13),Pharmacy,6,0.0,0.0
+79,25,Medication dispensed (med_id 15),Pharmacy,7,150.0,1050.0
+80,26,Consultation fee,Consultation,1,500.0,500.0
+81,26,Medication dispensed (med_id 20),Pharmacy,28,10.0,280.0
+82,26,Medication dispensed (med_id 3),Pharmacy,5,5.0,25.0
+83,26,Lab test (test_id 11),Laboratory,1,300.0,300.0
+84,27,Consultation fee,Consultation,1,500.0,500.0
+85,27,Medication dispensed (med_id 19),Pharmacy,10,14.0,140.0
+86,27,Medication dispensed (med_id 8),Pharmacy,21,25.0,525.0
+87,27,Medication dispensed (med_id 2),Pharmacy,3,120.0,360.0
+88,28,Consultation fee,Consultation,1,1000.0,1000.0
+89,28,Medication dispensed (med_id 3),Pharmacy,21,5.0,105.0
+90,28,Medication dispensed (med_id 5),Pharmacy,28,10.0,280.0
+91,29,Consultation fee,Consultation,1,300.0,300.0
+92,29,Medication dispensed (med_id 15),Pharmacy,10,150.0,1500.0
+93,29,Lab test (test_id 4),Laboratory,1,250.0,250.0
+94,30,Consultation fee,Consultation,1,1000.0,1000.0
+95,30,Medication dispensed (med_id 11),Pharmacy,14,9.0,126.0
+96,30,Medication dispensed (med_id 11),Pharmacy,10,9.0,90.0
+97,31,Consultation fee,Consultation,1,700.0,700.0
+98,31,Medication dispensed (med_id 9),Pharmacy,21,30.0,630.0
+99,32,Consultation fee,Consultation,1,1000.0,1000.0
+100,32,Lab test (test_id 12),Laboratory,1,250.0,250.0
+101,33,Consultation fee,Consultation,1,1000.0,1000.0
+102,33,Medication dispensed (med_id 13),Pharmacy,10,0.0,0.0
+103,33,Lab test (test_id 3),Laboratory,1,200.0,200.0
+104,34,Consultation fee,Consultation,1,700.0,700.0
+105,34,Medication dispensed (med_id 17),Pharmacy,7,6.0,42.0
+106,34,Medication dispensed (med_id 2),Pharmacy,28,120.0,3360.0
+107,34,Medication dispensed (med_id 10),Pharmacy,28,7.0,196.0
+108,34,Lab test (test_id 3),Laboratory,1,200.0,200.0
+109,34,Lab test (test_id 11),Laboratory,1,300.0,300.0
+110,35,Consultation fee,Consultation,1,500.0,500.0
+111,35,Medication dispensed (med_id 18),Pharmacy,9,8.0,72.0
+112,35,Lab test (test_id 4),Laboratory,1,250.0,250.0
+113,36,Consultation fee,Consultation,1,500.0,500.0
+114,36,Medication dispensed (med_id 15),Pharmacy,42,150.0,6300.0
+115,36,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+116,37,Consultation fee,Consultation,1,500.0,500.0
+117,37,Medication dispensed (med_id 14),Pharmacy,14,0.0,0.0
+118,37,Medication dispensed (med_id 11),Pharmacy,3,9.0,27.0
+119,38,Consultation fee,Consultation,1,500.0,500.0
+120,38,Medication dispensed (med_id 14),Pharmacy,6,0.0,0.0
+121,39,Consultation fee,Consultation,1,500.0,500.0
+122,39,Lab test (test_id 1),Laboratory,1,300.0,300.0
+123,39,Lab test (test_id 3),Laboratory,1,200.0,200.0
+124,40,Consultation fee,Consultation,1,700.0,700.0
+125,40,Medication dispensed (med_id 7),Pharmacy,28,18.0,504.0
+126,41,Consultation fee,Consultation,1,1000.0,1000.0
+127,42,Consultation fee,Consultation,1,300.0,300.0
+128,43,Consultation fee,Consultation,1,500.0,500.0
+129,43,Medication dispensed (med_id 4),Pharmacy,9,8.0,72.0
+130,43,Lab test (test_id 4),Laboratory,1,250.0,250.0
+131,44,Consultation fee,Consultation,1,500.0,500.0
+132,44,Medication dispensed (med_id 18),Pharmacy,7,8.0,56.0
+133,44,Medication dispensed (med_id 8),Pharmacy,30,25.0,750.0
+134,44,Lab test (test_id 13),Laboratory,1,500.0,500.0
+135,45,Consultation fee,Consultation,1,500.0,500.0
+136,45,Medication dispensed (med_id 7),Pharmacy,30,18.0,540.0
+137,46,Consultation fee,Consultation,1,500.0,500.0
+138,46,Medication dispensed (med_id 12),Pharmacy,20,350.0,7000.0
+139,46,Medication dispensed (med_id 15),Pharmacy,3,150.0,450.0
+140,46,Lab test (test_id 2),Laboratory,1,800.0,800.0
+141,46,Lab test (test_id 7),Laboratory,1,400.0,400.0
+142,47,Consultation fee,Consultation,1,500.0,500.0
+143,47,Medication dispensed (med_id 1),Pharmacy,21,15.0,315.0
+144,47,Medication dispensed (med_id 5),Pharmacy,5,10.0,50.0
+145,47,Lab test (test_id 11),Laboratory,1,300.0,300.0
+146,47,Lab test (test_id 11),Laboratory,1,300.0,300.0
+147,48,Consultation fee,Consultation,1,300.0,300.0
+148,49,Consultation fee,Consultation,1,300.0,300.0
+149,49,Medication dispensed (med_id 2),Pharmacy,9,120.0,1080.0
+150,49,Medication dispensed (med_id 12),Pharmacy,28,350.0,9800.0
+151,49,Lab test (test_id 5),Laboratory,1,0.0,0.0
+152,49,Lab test (test_id 11),Laboratory,1,300.0,300.0
+153,50,Consultation fee,Consultation,1,700.0,700.0
+154,50,Lab test (test_id 17),Laboratory,1,400.0,400.0
+155,50,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+156,51,Consultation fee,Consultation,1,700.0,700.0
+157,51,Medication dispensed (med_id 5),Pharmacy,90,10.0,900.0
+158,51,Medication dispensed (med_id 4),Pharmacy,5,8.0,40.0
+159,51,Medication dispensed (med_id 10),Pharmacy,30,7.0,210.0
+160,51,Lab test (test_id 5),Laboratory,1,0.0,0.0
+161,52,Consultation fee,Consultation,1,1000.0,1000.0
+162,52,Medication dispensed (med_id 1),Pharmacy,6,15.0,90.0
+163,52,Medication dispensed (med_id 2),Pharmacy,30,120.0,3600.0
+164,52,Lab test (test_id 4),Laboratory,1,250.0,250.0
+165,53,Consultation fee,Consultation,1,1000.0,1000.0
+166,53,Medication dispensed (med_id 15),Pharmacy,30,150.0,4500.0
+167,53,Lab test (test_id 3),Laboratory,1,200.0,200.0
+168,54,Consultation fee,Consultation,1,1000.0,1000.0
+169,54,Medication dispensed (med_id 4),Pharmacy,20,8.0,160.0
+170,54,Medication dispensed (med_id 5),Pharmacy,15,10.0,150.0
+171,54,Medication dispensed (med_id 8),Pharmacy,30,25.0,750.0
+172,54,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+173,55,Consultation fee,Consultation,1,700.0,700.0
+174,55,Lab test (test_id 2),Laboratory,1,800.0,800.0
+175,55,Lab test (test_id 12),Laboratory,1,250.0,250.0
+176,56,Consultation fee,Consultation,1,300.0,300.0
+177,56,Medication dispensed (med_id 11),Pharmacy,60,9.0,540.0
+178,56,Medication dispensed (med_id 5),Pharmacy,14,10.0,140.0
+179,56,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+180,57,Consultation fee,Consultation,1,500.0,500.0
+181,57,Medication dispensed (med_id 2),Pharmacy,60,120.0,7200.0
+182,58,Consultation fee,Consultation,1,1000.0,1000.0
+183,58,Medication dispensed (med_id 1),Pharmacy,15,15.0,225.0
+184,58,Medication dispensed (med_id 6),Pharmacy,20,12.0,240.0
+185,58,Medication dispensed (med_id 16),Pharmacy,7,4.0,28.0
+186,59,Consultation fee,Consultation,1,300.0,300.0
+187,59,Medication dispensed (med_id 7),Pharmacy,30,18.0,540.0
+188,59,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+189,60,Consultation fee,Consultation,1,1000.0,1000.0
+190,60,Medication dispensed (med_id 17),Pharmacy,14,6.0,84.0
+191,60,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+192,61,Consultation fee,Consultation,1,500.0,500.0
+193,61,Medication dispensed (med_id 9),Pharmacy,6,30.0,180.0
+194,61,Medication dispensed (med_id 18),Pharmacy,5,8.0,40.0
+195,61,Lab test (test_id 2),Laboratory,1,800.0,800.0
+196,62,Consultation fee,Consultation,1,700.0,700.0
+197,62,Medication dispensed (med_id 10),Pharmacy,20,7.0,140.0
+198,62,Lab test (test_id 7),Laboratory,1,400.0,400.0
+199,63,Consultation fee,Consultation,1,300.0,300.0
+200,63,Medication dispensed (med_id 17),Pharmacy,10,6.0,60.0
+201,63,Medication dispensed (med_id 5),Pharmacy,30,10.0,300.0
+202,63,Medication dispensed (med_id 12),Pharmacy,42,350.0,14700.0
+203,64,Consultation fee,Consultation,1,700.0,700.0
+204,64,Medication dispensed (med_id 12),Pharmacy,14,350.0,4900.0
+205,64,Medication dispensed (med_id 12),Pharmacy,5,350.0,1750.0
+206,65,Consultation fee,Consultation,1,300.0,300.0
+207,65,Medication dispensed (med_id 13),Pharmacy,14,0.0,0.0
+208,65,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+209,66,Consultation fee,Consultation,1,1000.0,1000.0
+210,67,Consultation fee,Consultation,1,1000.0,1000.0
+211,67,Medication dispensed (med_id 6),Pharmacy,10,12.0,120.0
+212,67,Lab test (test_id 5),Laboratory,1,0.0,0.0
+213,68,Consultation fee,Consultation,1,300.0,300.0
+214,68,Medication dispensed (med_id 7),Pharmacy,10,18.0,180.0
+215,68,Lab test (test_id 13),Laboratory,1,500.0,500.0
+216,69,Consultation fee,Consultation,1,300.0,300.0
+217,69,Medication dispensed (med_id 9),Pharmacy,10,30.0,300.0
+218,69,Medication dispensed (med_id 7),Pharmacy,10,18.0,180.0
+219,69,Medication dispensed (med_id 1),Pharmacy,30,15.0,450.0
+220,69,Lab test (test_id 7),Laboratory,1,400.0,400.0
+221,70,Consultation fee,Consultation,1,1000.0,1000.0
+222,70,Medication dispensed (med_id 20),Pharmacy,10,10.0,100.0
+223,70,Medication dispensed (med_id 4),Pharmacy,42,8.0,336.0
+224,71,Consultation fee,Consultation,1,500.0,500.0
+225,72,Consultation fee,Consultation,1,300.0,300.0
+226,72,Medication dispensed (med_id 16),Pharmacy,7,4.0,28.0
+227,72,Medication dispensed (med_id 3),Pharmacy,90,5.0,450.0
+228,72,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+229,73,Consultation fee,Consultation,1,300.0,300.0
+230,73,Medication dispensed (med_id 16),Pharmacy,60,4.0,240.0
+231,73,Lab test (test_id 5),Laboratory,1,0.0,0.0
+232,74,Consultation fee,Consultation,1,300.0,300.0
+233,74,Medication dispensed (med_id 9),Pharmacy,90,30.0,2700.0
+234,74,Medication dispensed (med_id 17),Pharmacy,14,6.0,84.0
+235,74,Lab test (test_id 8),Laboratory,1,350.0,350.0
+236,74,Lab test (test_id 16),Laboratory,1,600.0,600.0
+237,75,Consultation fee,Consultation,1,700.0,700.0
+238,75,Lab test (test_id 2),Laboratory,1,800.0,800.0
+239,76,Consultation fee,Consultation,1,700.0,700.0
+240,77,Consultation fee,Consultation,1,1000.0,1000.0
+241,77,Medication dispensed (med_id 8),Pharmacy,28,25.0,700.0
+242,77,Medication dispensed (med_id 9),Pharmacy,9,30.0,270.0
+243,77,Lab test (test_id 5),Laboratory,1,0.0,0.0
+244,77,Lab test (test_id 16),Laboratory,1,600.0,600.0
+245,78,Consultation fee,Consultation,1,1000.0,1000.0
+246,78,Medication dispensed (med_id 20),Pharmacy,20,10.0,200.0
+247,78,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+248,79,Consultation fee,Consultation,1,300.0,300.0
+249,79,Medication dispensed (med_id 15),Pharmacy,30,150.0,4500.0
+250,79,Medication dispensed (med_id 13),Pharmacy,90,0.0,0.0
+251,79,Lab test (test_id 13),Laboratory,1,500.0,500.0
+252,80,Consultation fee,Consultation,1,300.0,300.0
+253,80,Medication dispensed (med_id 14),Pharmacy,9,0.0,0.0
+254,81,Consultation fee,Consultation,1,700.0,700.0
+255,81,Lab test (test_id 8),Laboratory,1,350.0,350.0
+256,82,Consultation fee,Consultation,1,300.0,300.0
+257,82,Medication dispensed (med_id 18),Pharmacy,60,8.0,480.0
+258,82,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+259,83,Consultation fee,Consultation,1,700.0,700.0
+260,83,Medication dispensed (med_id 4),Pharmacy,30,8.0,240.0
+261,83,Medication dispensed (med_id 20),Pharmacy,30,10.0,300.0
+262,84,Consultation fee,Consultation,1,300.0,300.0
+263,84,Medication dispensed (med_id 16),Pharmacy,14,4.0,56.0
+264,85,Consultation fee,Consultation,1,700.0,700.0
+265,85,Medication dispensed (med_id 6),Pharmacy,7,12.0,84.0
+266,85,Medication dispensed (med_id 19),Pharmacy,21,14.0,294.0
+267,85,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+268,86,Consultation fee,Consultation,1,1000.0,1000.0
+269,86,Medication dispensed (med_id 2),Pharmacy,15,120.0,1800.0
+270,86,Lab test (test_id 1),Laboratory,1,300.0,300.0
+271,87,Consultation fee,Consultation,1,1000.0,1000.0
+272,88,Consultation fee,Consultation,1,700.0,700.0
+273,88,Medication dispensed (med_id 8),Pharmacy,5,25.0,125.0
+274,88,Medication dispensed (med_id 5),Pharmacy,6,10.0,60.0
+275,89,Consultation fee,Consultation,1,1000.0,1000.0
+276,89,Medication dispensed (med_id 13),Pharmacy,60,0.0,0.0
+277,89,Medication dispensed (med_id 14),Pharmacy,14,0.0,0.0
+278,89,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+279,90,Consultation fee,Consultation,1,500.0,500.0
+280,90,Lab test (test_id 7),Laboratory,1,400.0,400.0
+281,91,Consultation fee,Consultation,1,1000.0,1000.0
+282,91,Lab test (test_id 8),Laboratory,1,350.0,350.0
+283,92,Consultation fee,Consultation,1,1000.0,1000.0
+284,92,Medication dispensed (med_id 17),Pharmacy,60,6.0,360.0
+285,92,Medication dispensed (med_id 4),Pharmacy,14,8.0,112.0
+286,92,Medication dispensed (med_id 15),Pharmacy,21,150.0,3150.0
+287,93,Consultation fee,Consultation,1,700.0,700.0
+288,93,Medication dispensed (med_id 16),Pharmacy,28,4.0,112.0
+289,93,Medication dispensed (med_id 1),Pharmacy,28,15.0,420.0
+290,93,Lab test (test_id 1),Laboratory,1,300.0,300.0
+291,93,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+292,94,Consultation fee,Consultation,1,300.0,300.0
+293,94,Medication dispensed (med_id 16),Pharmacy,30,4.0,120.0
+294,94,Medication dispensed (med_id 3),Pharmacy,60,5.0,300.0
+295,95,Consultation fee,Consultation,1,300.0,300.0
+296,95,Medication dispensed (med_id 1),Pharmacy,90,15.0,1350.0
+297,95,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+298,96,Consultation fee,Consultation,1,700.0,700.0
+299,96,Medication dispensed (med_id 5),Pharmacy,10,10.0,100.0
+300,96,Medication dispensed (med_id 18),Pharmacy,90,8.0,720.0
+301,96,Lab test (test_id 8),Laboratory,1,350.0,350.0
+302,97,Consultation fee,Consultation,1,300.0,300.0
+303,97,Medication dispensed (med_id 17),Pharmacy,10,6.0,60.0
+304,97,Medication dispensed (med_id 1),Pharmacy,14,15.0,210.0
+305,97,Lab test (test_id 4),Laboratory,1,250.0,250.0
+306,98,Consultation fee,Consultation,1,1000.0,1000.0
+307,98,Medication dispensed (med_id 3),Pharmacy,14,5.0,70.0
+308,98,Medication dispensed (med_id 6),Pharmacy,30,12.0,360.0
+309,99,Consultation fee,Consultation,1,300.0,300.0
+310,99,Medication dispensed (med_id 9),Pharmacy,10,30.0,300.0
+311,99,Lab test (test_id 1),Laboratory,1,300.0,300.0
+312,100,Consultation fee,Consultation,1,700.0,700.0
+313,100,Medication dispensed (med_id 8),Pharmacy,21,25.0,525.0
+314,100,Lab test (test_id 7),Laboratory,1,400.0,400.0
+315,101,Consultation fee,Consultation,1,500.0,500.0
+316,101,Medication dispensed (med_id 5),Pharmacy,28,10.0,280.0
+317,101,Medication dispensed (med_id 15),Pharmacy,30,150.0,4500.0
+318,102,Consultation fee,Consultation,1,1000.0,1000.0
+319,102,Medication dispensed (med_id 11),Pharmacy,30,9.0,270.0
+320,103,Consultation fee,Consultation,1,300.0,300.0
+321,103,Medication dispensed (med_id 4),Pharmacy,90,8.0,720.0
+322,103,Medication dispensed (med_id 8),Pharmacy,7,25.0,175.0
+323,104,Consultation fee,Consultation,1,700.0,700.0
+324,105,Consultation fee,Consultation,1,1000.0,1000.0
+325,105,Medication dispensed (med_id 3),Pharmacy,90,5.0,450.0
+326,105,Medication dispensed (med_id 18),Pharmacy,30,8.0,240.0
+327,105,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+328,106,Consultation fee,Consultation,1,1000.0,1000.0
+329,106,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+330,107,Consultation fee,Consultation,1,700.0,700.0
+331,107,Medication dispensed (med_id 2),Pharmacy,14,120.0,1680.0
+332,107,Medication dispensed (med_id 13),Pharmacy,10,0.0,0.0
+333,107,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+334,107,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+335,108,Consultation fee,Consultation,1,500.0,500.0
+336,109,Consultation fee,Consultation,1,700.0,700.0
+337,109,Medication dispensed (med_id 11),Pharmacy,10,9.0,90.0
+338,109,Lab test (test_id 1),Laboratory,1,300.0,300.0
+339,110,Consultation fee,Consultation,1,700.0,700.0
+340,110,Medication dispensed (med_id 13),Pharmacy,3,0.0,0.0
+341,110,Medication dispensed (med_id 20),Pharmacy,60,10.0,600.0
+342,110,Medication dispensed (med_id 7),Pharmacy,90,18.0,1620.0
+343,110,Lab test (test_id 3),Laboratory,1,200.0,200.0
+344,111,Consultation fee,Consultation,1,1000.0,1000.0
+345,111,Medication dispensed (med_id 14),Pharmacy,20,0.0,0.0
+346,111,Medication dispensed (med_id 16),Pharmacy,21,4.0,84.0
+347,112,Consultation fee,Consultation,1,700.0,700.0
+348,112,Lab test (test_id 2),Laboratory,1,800.0,800.0
+349,113,Consultation fee,Consultation,1,500.0,500.0
+350,113,Lab test (test_id 5),Laboratory,1,0.0,0.0
+351,114,Consultation fee,Consultation,1,500.0,500.0
+352,114,Medication dispensed (med_id 10),Pharmacy,28,7.0,196.0
+353,115,Consultation fee,Consultation,1,1000.0,1000.0
+354,115,Medication dispensed (med_id 7),Pharmacy,9,18.0,162.0
+355,115,Lab test (test_id 11),Laboratory,1,300.0,300.0
+356,116,Consultation fee,Consultation,1,1000.0,1000.0
+357,116,Medication dispensed (med_id 16),Pharmacy,10,4.0,40.0
+358,117,Consultation fee,Consultation,1,1000.0,1000.0
+359,117,Lab test (test_id 7),Laboratory,1,400.0,400.0
+360,118,Consultation fee,Consultation,1,700.0,700.0
+361,118,Medication dispensed (med_id 3),Pharmacy,30,5.0,150.0
+362,119,Consultation fee,Consultation,1,300.0,300.0
+363,119,Medication dispensed (med_id 15),Pharmacy,30,150.0,4500.0
+364,119,Medication dispensed (med_id 17),Pharmacy,5,6.0,30.0
+365,120,Consultation fee,Consultation,1,1000.0,1000.0
+366,120,Medication dispensed (med_id 2),Pharmacy,20,120.0,2400.0
+367,121,Consultation fee,Consultation,1,300.0,300.0
+368,121,Lab test (test_id 1),Laboratory,1,300.0,300.0
+369,122,Consultation fee,Consultation,1,1000.0,1000.0
+370,122,Medication dispensed (med_id 1),Pharmacy,10,15.0,150.0
+371,122,Medication dispensed (med_id 13),Pharmacy,14,0.0,0.0
+372,122,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+373,123,Consultation fee,Consultation,1,500.0,500.0
+374,123,Lab test (test_id 12),Laboratory,1,250.0,250.0
+375,123,Lab test (test_id 1),Laboratory,1,300.0,300.0
+376,124,Consultation fee,Consultation,1,500.0,500.0
+377,124,Medication dispensed (med_id 16),Pharmacy,42,4.0,168.0
+378,124,Medication dispensed (med_id 20),Pharmacy,20,10.0,200.0
+379,125,Consultation fee,Consultation,1,500.0,500.0
+380,125,Medication dispensed (med_id 6),Pharmacy,20,12.0,240.0
+381,125,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+382,126,Consultation fee,Consultation,1,500.0,500.0
+383,126,Medication dispensed (med_id 14),Pharmacy,7,0.0,0.0
+384,126,Lab test (test_id 3),Laboratory,1,200.0,200.0
+385,127,Consultation fee,Consultation,1,300.0,300.0
+386,127,Medication dispensed (med_id 13),Pharmacy,20,0.0,0.0
+387,128,Consultation fee,Consultation,1,1000.0,1000.0
+388,128,Medication dispensed (med_id 20),Pharmacy,14,10.0,140.0
+389,128,Medication dispensed (med_id 12),Pharmacy,60,350.0,21000.0
+390,128,Medication dispensed (med_id 5),Pharmacy,10,10.0,100.0
+391,129,Consultation fee,Consultation,1,300.0,300.0
+392,129,Medication dispensed (med_id 20),Pharmacy,10,10.0,100.0
+393,130,Consultation fee,Consultation,1,500.0,500.0
+394,130,Medication dispensed (med_id 6),Pharmacy,60,12.0,720.0
+395,131,Consultation fee,Consultation,1,700.0,700.0
+396,131,Lab test (test_id 17),Laboratory,1,400.0,400.0
+397,132,Consultation fee,Consultation,1,300.0,300.0
+398,132,Medication dispensed (med_id 7),Pharmacy,30,18.0,540.0
+399,133,Consultation fee,Consultation,1,500.0,500.0
+400,133,Medication dispensed (med_id 4),Pharmacy,14,8.0,112.0
+401,133,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+402,134,Consultation fee,Consultation,1,300.0,300.0
+403,134,Medication dispensed (med_id 9),Pharmacy,30,30.0,900.0
+404,134,Medication dispensed (med_id 15),Pharmacy,3,150.0,450.0
+405,134,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+406,135,Consultation fee,Consultation,1,300.0,300.0
+407,135,Medication dispensed (med_id 16),Pharmacy,5,4.0,20.0
+408,135,Lab test (test_id 12),Laboratory,1,250.0,250.0
+409,136,Consultation fee,Consultation,1,700.0,700.0
+410,136,Medication dispensed (med_id 19),Pharmacy,14,14.0,196.0
+411,136,Medication dispensed (med_id 16),Pharmacy,90,4.0,360.0
+412,136,Medication dispensed (med_id 3),Pharmacy,7,5.0,35.0
+413,137,Consultation fee,Consultation,1,1000.0,1000.0
+414,137,Medication dispensed (med_id 5),Pharmacy,9,10.0,90.0
+415,137,Medication dispensed (med_id 10),Pharmacy,30,7.0,210.0
+416,138,Consultation fee,Consultation,1,700.0,700.0
+417,138,Medication dispensed (med_id 17),Pharmacy,6,6.0,36.0
+418,139,Consultation fee,Consultation,1,500.0,500.0
+419,139,Lab test (test_id 4),Laboratory,1,250.0,250.0
+420,140,Consultation fee,Consultation,1,1000.0,1000.0
+421,140,Medication dispensed (med_id 10),Pharmacy,14,7.0,98.0
+422,140,Lab test (test_id 1),Laboratory,1,300.0,300.0
+423,140,Lab test (test_id 6),Laboratory,1,300.0,300.0
+424,141,Consultation fee,Consultation,1,500.0,500.0
+425,141,Lab test (test_id 16),Laboratory,1,600.0,600.0
+426,141,Lab test (test_id 17),Laboratory,1,400.0,400.0
+427,142,Consultation fee,Consultation,1,1000.0,1000.0
+428,142,Medication dispensed (med_id 9),Pharmacy,14,30.0,420.0
+429,142,Medication dispensed (med_id 9),Pharmacy,6,30.0,180.0
+430,142,Medication dispensed (med_id 17),Pharmacy,3,6.0,18.0
+431,143,Consultation fee,Consultation,1,500.0,500.0
+432,143,Medication dispensed (med_id 6),Pharmacy,7,12.0,84.0
+433,144,Consultation fee,Consultation,1,1000.0,1000.0
+434,144,Medication dispensed (med_id 11),Pharmacy,30,9.0,270.0
+435,144,Medication dispensed (med_id 2),Pharmacy,30,120.0,3600.0
+436,144,Lab test (test_id 2),Laboratory,1,800.0,800.0
+437,145,Consultation fee,Consultation,1,500.0,500.0
+438,146,Consultation fee,Consultation,1,300.0,300.0
+439,146,Medication dispensed (med_id 3),Pharmacy,6,5.0,30.0
+440,146,Medication dispensed (med_id 2),Pharmacy,30,120.0,3600.0
+441,146,Lab test (test_id 13),Laboratory,1,500.0,500.0
+442,146,Lab test (test_id 2),Laboratory,1,800.0,800.0
+443,147,Consultation fee,Consultation,1,500.0,500.0
+444,147,Medication dispensed (med_id 7),Pharmacy,10,18.0,180.0
+445,147,Medication dispensed (med_id 16),Pharmacy,21,4.0,84.0
+446,148,Consultation fee,Consultation,1,300.0,300.0
+447,148,Medication dispensed (med_id 18),Pharmacy,14,8.0,112.0
+448,149,Consultation fee,Consultation,1,300.0,300.0
+449,150,Consultation fee,Consultation,1,500.0,500.0
+450,150,Medication dispensed (med_id 12),Pharmacy,30,350.0,10500.0
+451,151,Consultation fee,Consultation,1,1000.0,1000.0
+452,152,Consultation fee,Consultation,1,300.0,300.0
+453,152,Medication dispensed (med_id 15),Pharmacy,9,150.0,1350.0
+454,152,Medication dispensed (med_id 19),Pharmacy,21,14.0,294.0
+455,152,Lab test (test_id 17),Laboratory,1,400.0,400.0
+456,153,Consultation fee,Consultation,1,1000.0,1000.0
+457,153,Medication dispensed (med_id 16),Pharmacy,21,4.0,84.0
+458,154,Consultation fee,Consultation,1,300.0,300.0
+459,154,Lab test (test_id 11),Laboratory,1,300.0,300.0
+460,154,Lab test (test_id 11),Laboratory,1,300.0,300.0
+461,155,Consultation fee,Consultation,1,1000.0,1000.0
+462,156,Consultation fee,Consultation,1,500.0,500.0
+463,156,Medication dispensed (med_id 15),Pharmacy,20,150.0,3000.0
+464,156,Lab test (test_id 7),Laboratory,1,400.0,400.0
+465,156,Lab test (test_id 11),Laboratory,1,300.0,300.0
+466,157,Consultation fee,Consultation,1,300.0,300.0
+467,157,Medication dispensed (med_id 5),Pharmacy,20,10.0,200.0
+468,157,Medication dispensed (med_id 6),Pharmacy,15,12.0,180.0
+469,157,Medication dispensed (med_id 4),Pharmacy,6,8.0,48.0
+470,157,Lab test (test_id 4),Laboratory,1,250.0,250.0
+471,158,Consultation fee,Consultation,1,500.0,500.0
+472,158,Medication dispensed (med_id 18),Pharmacy,7,8.0,56.0
+473,158,Lab test (test_id 8),Laboratory,1,350.0,350.0
+474,158,Lab test (test_id 3),Laboratory,1,200.0,200.0
+475,159,Consultation fee,Consultation,1,1000.0,1000.0
+476,160,Consultation fee,Consultation,1,500.0,500.0
+477,160,Medication dispensed (med_id 3),Pharmacy,21,5.0,105.0
+478,160,Medication dispensed (med_id 5),Pharmacy,15,10.0,150.0
+479,160,Medication dispensed (med_id 14),Pharmacy,10,0.0,0.0
+480,160,Lab test (test_id 11),Laboratory,1,300.0,300.0
+481,161,Consultation fee,Consultation,1,1000.0,1000.0
+482,162,Consultation fee,Consultation,1,700.0,700.0
+483,162,Medication dispensed (med_id 20),Pharmacy,30,10.0,300.0
+484,162,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+485,162,Lab test (test_id 17),Laboratory,1,400.0,400.0
+486,163,Consultation fee,Consultation,1,1000.0,1000.0
+487,163,Medication dispensed (med_id 16),Pharmacy,3,4.0,12.0
+488,163,Lab test (test_id 17),Laboratory,1,400.0,400.0
+489,164,Consultation fee,Consultation,1,300.0,300.0
+490,164,Medication dispensed (med_id 7),Pharmacy,21,18.0,378.0
+491,164,Lab test (test_id 16),Laboratory,1,600.0,600.0
+492,165,Consultation fee,Consultation,1,1000.0,1000.0
+493,165,Medication dispensed (med_id 16),Pharmacy,21,4.0,84.0
+494,165,Medication dispensed (med_id 7),Pharmacy,10,18.0,180.0
+495,166,Consultation fee,Consultation,1,300.0,300.0
+496,166,Medication dispensed (med_id 20),Pharmacy,5,10.0,50.0
+497,166,Medication dispensed (med_id 1),Pharmacy,21,15.0,315.0
+498,166,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+499,167,Consultation fee,Consultation,1,700.0,700.0
+500,167,Medication dispensed (med_id 7),Pharmacy,21,18.0,378.0
+501,167,Lab test (test_id 5),Laboratory,1,0.0,0.0
+502,168,Consultation fee,Consultation,1,1000.0,1000.0
+503,168,Medication dispensed (med_id 5),Pharmacy,30,10.0,300.0
+504,169,Consultation fee,Consultation,1,700.0,700.0
+505,169,Medication dispensed (med_id 11),Pharmacy,6,9.0,54.0
+506,170,Consultation fee,Consultation,1,300.0,300.0
+507,170,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+508,171,Consultation fee,Consultation,1,500.0,500.0
+509,171,Medication dispensed (med_id 11),Pharmacy,10,9.0,90.0
+510,171,Medication dispensed (med_id 10),Pharmacy,21,7.0,147.0
+511,172,Consultation fee,Consultation,1,1000.0,1000.0
+512,172,Medication dispensed (med_id 2),Pharmacy,90,120.0,10800.0
+513,172,Medication dispensed (med_id 3),Pharmacy,3,5.0,15.0
+514,172,Lab test (test_id 8),Laboratory,1,350.0,350.0
+515,173,Consultation fee,Consultation,1,1000.0,1000.0
+516,173,Medication dispensed (med_id 8),Pharmacy,6,25.0,150.0
+517,173,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+518,173,Lab test (test_id 2),Laboratory,1,800.0,800.0
+519,174,Consultation fee,Consultation,1,1000.0,1000.0
+520,174,Lab test (test_id 4),Laboratory,1,250.0,250.0
+521,175,Consultation fee,Consultation,1,1000.0,1000.0
+522,175,Medication dispensed (med_id 3),Pharmacy,20,5.0,100.0
+523,175,Lab test (test_id 2),Laboratory,1,800.0,800.0
+524,175,Lab test (test_id 7),Laboratory,1,400.0,400.0
+525,176,Consultation fee,Consultation,1,700.0,700.0
+526,176,Medication dispensed (med_id 13),Pharmacy,30,0.0,0.0
+527,176,Lab test (test_id 1),Laboratory,1,300.0,300.0
+528,177,Consultation fee,Consultation,1,1000.0,1000.0
+529,177,Medication dispensed (med_id 15),Pharmacy,5,150.0,750.0
+530,177,Medication dispensed (med_id 8),Pharmacy,9,25.0,225.0
+531,178,Consultation fee,Consultation,1,1000.0,1000.0
+532,178,Lab test (test_id 11),Laboratory,1,300.0,300.0
+533,179,Consultation fee,Consultation,1,300.0,300.0
+534,179,Medication dispensed (med_id 13),Pharmacy,9,0.0,0.0
+535,180,Consultation fee,Consultation,1,700.0,700.0
+536,181,Consultation fee,Consultation,1,500.0,500.0
+537,181,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+538,182,Consultation fee,Consultation,1,300.0,300.0
+539,182,Medication dispensed (med_id 19),Pharmacy,21,14.0,294.0
+540,182,Medication dispensed (med_id 7),Pharmacy,15,18.0,270.0
+541,183,Consultation fee,Consultation,1,500.0,500.0
+542,184,Consultation fee,Consultation,1,700.0,700.0
+543,184,Medication dispensed (med_id 10),Pharmacy,90,7.0,630.0
+544,184,Medication dispensed (med_id 12),Pharmacy,10,350.0,3500.0
+545,185,Consultation fee,Consultation,1,1000.0,1000.0
+546,185,Medication dispensed (med_id 1),Pharmacy,7,15.0,105.0
+547,185,Lab test (test_id 17),Laboratory,1,400.0,400.0
+548,186,Consultation fee,Consultation,1,700.0,700.0
+549,186,Medication dispensed (med_id 8),Pharmacy,9,25.0,225.0
+550,187,Consultation fee,Consultation,1,300.0,300.0
+551,187,Medication dispensed (med_id 20),Pharmacy,3,10.0,30.0
+552,187,Medication dispensed (med_id 10),Pharmacy,20,7.0,140.0
+553,187,Lab test (test_id 2),Laboratory,1,800.0,800.0
+554,188,Consultation fee,Consultation,1,500.0,500.0
+555,189,Consultation fee,Consultation,1,1000.0,1000.0
+556,189,Lab test (test_id 17),Laboratory,1,400.0,400.0
+557,190,Consultation fee,Consultation,1,500.0,500.0
+558,190,Medication dispensed (med_id 14),Pharmacy,60,0.0,0.0
+559,190,Medication dispensed (med_id 14),Pharmacy,30,0.0,0.0
+560,190,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+561,191,Consultation fee,Consultation,1,1000.0,1000.0
+562,191,Medication dispensed (med_id 10),Pharmacy,10,7.0,70.0
+563,191,Medication dispensed (med_id 4),Pharmacy,90,8.0,720.0
+564,192,Consultation fee,Consultation,1,300.0,300.0
+565,193,Consultation fee,Consultation,1,700.0,700.0
+566,193,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+567,193,Lab test (test_id 6),Laboratory,1,300.0,300.0
+568,194,Consultation fee,Consultation,1,500.0,500.0
+569,194,Medication dispensed (med_id 15),Pharmacy,42,150.0,6300.0
+570,194,Medication dispensed (med_id 9),Pharmacy,9,30.0,270.0
+571,194,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+572,195,Consultation fee,Consultation,1,700.0,700.0
+573,195,Medication dispensed (med_id 7),Pharmacy,6,18.0,108.0
+574,195,Medication dispensed (med_id 2),Pharmacy,20,120.0,2400.0
+575,195,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+576,195,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+577,196,Consultation fee,Consultation,1,300.0,300.0
+578,196,Lab test (test_id 15),Laboratory,1,2500.0,2500.0
+579,197,Consultation fee,Consultation,1,500.0,500.0
+580,197,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+581,198,Consultation fee,Consultation,1,700.0,700.0
+582,198,Medication dispensed (med_id 15),Pharmacy,9,150.0,1350.0
+583,199,Consultation fee,Consultation,1,300.0,300.0
+584,199,Medication dispensed (med_id 12),Pharmacy,90,350.0,31500.0
+585,200,Consultation fee,Consultation,1,500.0,500.0
+586,200,Medication dispensed (med_id 12),Pharmacy,10,350.0,3500.0
+587,201,Consultation fee,Consultation,1,300.0,300.0
+588,201,Medication dispensed (med_id 12),Pharmacy,7,350.0,2450.0
+589,201,Lab test (test_id 13),Laboratory,1,500.0,500.0
+590,201,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+591,202,Consultation fee,Consultation,1,500.0,500.0
+592,202,Lab test (test_id 13),Laboratory,1,500.0,500.0
+593,203,Consultation fee,Consultation,1,500.0,500.0
+594,204,Consultation fee,Consultation,1,700.0,700.0
+595,204,Medication dispensed (med_id 5),Pharmacy,28,10.0,280.0
+596,204,Lab test (test_id 8),Laboratory,1,350.0,350.0
+597,204,Lab test (test_id 5),Laboratory,1,0.0,0.0
+598,205,Consultation fee,Consultation,1,1000.0,1000.0
+599,205,Medication dispensed (med_id 19),Pharmacy,5,14.0,70.0
+600,205,Medication dispensed (med_id 14),Pharmacy,9,0.0,0.0
+601,205,Lab test (test_id 10),Laboratory,1,1500.0,1500.0
+602,206,Consultation fee,Consultation,1,700.0,700.0
+603,206,Medication dispensed (med_id 19),Pharmacy,6,14.0,84.0
+604,207,Consultation fee,Consultation,1,500.0,500.0
+605,207,Medication dispensed (med_id 11),Pharmacy,10,9.0,90.0
+606,207,Medication dispensed (med_id 18),Pharmacy,30,8.0,240.0
+607,208,Consultation fee,Consultation,1,700.0,700.0
+608,208,Medication dispensed (med_id 14),Pharmacy,30,0.0,0.0
+609,208,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+610,209,Consultation fee,Consultation,1,300.0,300.0
+611,210,Consultation fee,Consultation,1,300.0,300.0
+612,210,Medication dispensed (med_id 10),Pharmacy,15,7.0,105.0
+613,210,Medication dispensed (med_id 1),Pharmacy,3,15.0,45.0
+614,210,Lab test (test_id 12),Laboratory,1,250.0,250.0
+615,211,Consultation fee,Consultation,1,700.0,700.0
+616,211,Medication dispensed (med_id 3),Pharmacy,6,5.0,30.0
+617,211,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+618,212,Consultation fee,Consultation,1,1000.0,1000.0
+619,213,Consultation fee,Consultation,1,1000.0,1000.0
+620,213,Medication dispensed (med_id 19),Pharmacy,9,14.0,126.0
+621,213,Medication dispensed (med_id 16),Pharmacy,14,4.0,56.0
+622,213,Lab test (test_id 1),Laboratory,1,300.0,300.0
+623,214,Consultation fee,Consultation,1,700.0,700.0
+624,214,Medication dispensed (med_id 3),Pharmacy,20,5.0,100.0
+625,214,Medication dispensed (med_id 3),Pharmacy,15,5.0,75.0
+626,214,Lab test (test_id 17),Laboratory,1,400.0,400.0
+627,215,Consultation fee,Consultation,1,500.0,500.0
+628,216,Consultation fee,Consultation,1,1000.0,1000.0
+629,216,Medication dispensed (med_id 19),Pharmacy,30,14.0,420.0
+630,216,Medication dispensed (med_id 3),Pharmacy,14,5.0,70.0
+631,216,Lab test (test_id 8),Laboratory,1,350.0,350.0
+632,217,Consultation fee,Consultation,1,300.0,300.0
+633,218,Consultation fee,Consultation,1,300.0,300.0
+634,218,Medication dispensed (med_id 5),Pharmacy,3,10.0,30.0
+635,218,Lab test (test_id 13),Laboratory,1,500.0,500.0
+636,219,Consultation fee,Consultation,1,700.0,700.0
+637,219,Medication dispensed (med_id 13),Pharmacy,90,0.0,0.0
+638,219,Lab test (test_id 3),Laboratory,1,200.0,200.0
+639,220,Consultation fee,Consultation,1,500.0,500.0
+640,220,Lab test (test_id 1),Laboratory,1,300.0,300.0
+641,221,Consultation fee,Consultation,1,500.0,500.0
+642,221,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+643,222,Consultation fee,Consultation,1,700.0,700.0
+644,222,Medication dispensed (med_id 19),Pharmacy,10,14.0,140.0
+645,223,Consultation fee,Consultation,1,300.0,300.0
+646,223,Medication dispensed (med_id 20),Pharmacy,14,10.0,140.0
+647,223,Lab test (test_id 15),Laboratory,1,2500.0,2500.0
+648,224,Consultation fee,Consultation,1,700.0,700.0
+649,224,Medication dispensed (med_id 4),Pharmacy,20,8.0,160.0
+650,224,Medication dispensed (med_id 14),Pharmacy,42,0.0,0.0
+651,224,Lab test (test_id 15),Laboratory,1,2500.0,2500.0
+652,224,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+653,225,Consultation fee,Consultation,1,300.0,300.0
+654,225,Lab test (test_id 13),Laboratory,1,500.0,500.0
+655,225,Lab test (test_id 5),Laboratory,1,0.0,0.0
+656,226,Consultation fee,Consultation,1,300.0,300.0
+657,226,Medication dispensed (med_id 12),Pharmacy,20,350.0,7000.0
+658,227,Consultation fee,Consultation,1,1000.0,1000.0
+659,227,Medication dispensed (med_id 5),Pharmacy,3,10.0,30.0
+660,228,Consultation fee,Consultation,1,700.0,700.0
+661,228,Medication dispensed (med_id 16),Pharmacy,9,4.0,36.0
+662,228,Lab test (test_id 2),Laboratory,1,800.0,800.0
+663,228,Lab test (test_id 9),Laboratory,1,1500.0,1500.0
+664,229,Consultation fee,Consultation,1,500.0,500.0
+665,229,Medication dispensed (med_id 17),Pharmacy,3,6.0,18.0
+666,229,Lab test (test_id 3),Laboratory,1,200.0,200.0
+667,230,Consultation fee,Consultation,1,300.0,300.0
+668,230,Medication dispensed (med_id 7),Pharmacy,15,18.0,270.0
+669,230,Medication dispensed (med_id 16),Pharmacy,5,4.0,20.0
+670,231,Consultation fee,Consultation,1,1000.0,1000.0
+671,231,Medication dispensed (med_id 14),Pharmacy,6,0.0,0.0
+672,231,Medication dispensed (med_id 13),Pharmacy,3,0.0,0.0
+673,231,Lab test (test_id 11),Laboratory,1,300.0,300.0
+674,232,Consultation fee,Consultation,1,500.0,500.0
+675,232,Medication dispensed (med_id 8),Pharmacy,30,25.0,750.0
+676,233,Consultation fee,Consultation,1,700.0,700.0
+677,233,Medication dispensed (med_id 13),Pharmacy,14,0.0,0.0
+678,233,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+679,233,Lab test (test_id 6),Laboratory,1,300.0,300.0
+680,234,Consultation fee,Consultation,1,500.0,500.0
+681,234,Medication dispensed (med_id 20),Pharmacy,14,10.0,140.0
+682,235,Consultation fee,Consultation,1,700.0,700.0
+683,235,Medication dispensed (med_id 9),Pharmacy,14,30.0,420.0
+684,235,Lab test (test_id 4),Laboratory,1,250.0,250.0
+685,236,Consultation fee,Consultation,1,700.0,700.0
+686,236,Medication dispensed (med_id 7),Pharmacy,21,18.0,378.0
+687,236,Medication dispensed (med_id 9),Pharmacy,28,30.0,840.0
+688,236,Medication dispensed (med_id 10),Pharmacy,15,7.0,105.0
+689,236,Lab test (test_id 8),Laboratory,1,350.0,350.0
+690,236,Lab test (test_id 7),Laboratory,1,400.0,400.0
+691,237,Consultation fee,Consultation,1,1000.0,1000.0
+692,238,Consultation fee,Consultation,1,1000.0,1000.0
+693,238,Medication dispensed (med_id 11),Pharmacy,15,9.0,135.0
+694,238,Lab test (test_id 16),Laboratory,1,600.0,600.0
+695,239,Consultation fee,Consultation,1,700.0,700.0
+696,240,Consultation fee,Consultation,1,500.0,500.0
+697,240,Medication dispensed (med_id 9),Pharmacy,28,30.0,840.0
+698,241,Consultation fee,Consultation,1,700.0,700.0
+699,242,Consultation fee,Consultation,1,1000.0,1000.0
+700,242,Medication dispensed (med_id 9),Pharmacy,6,30.0,180.0
+701,242,Medication dispensed (med_id 1),Pharmacy,3,15.0,45.0
+702,243,Consultation fee,Consultation,1,500.0,500.0
+703,243,Lab test (test_id 4),Laboratory,1,250.0,250.0
+704,244,Consultation fee,Consultation,1,1000.0,1000.0
+705,244,Medication dispensed (med_id 2),Pharmacy,3,120.0,360.0
+706,244,Medication dispensed (med_id 18),Pharmacy,28,8.0,224.0
+707,245,Consultation fee,Consultation,1,300.0,300.0
+708,245,Medication dispensed (med_id 14),Pharmacy,5,0.0,0.0
+709,245,Medication dispensed (med_id 1),Pharmacy,6,15.0,90.0
+710,245,Medication dispensed (med_id 10),Pharmacy,10,7.0,70.0
+711,245,Lab test (test_id 8),Laboratory,1,350.0,350.0
+712,246,Consultation fee,Consultation,1,700.0,700.0
+713,246,Medication dispensed (med_id 19),Pharmacy,21,14.0,294.0
+714,246,Medication dispensed (med_id 5),Pharmacy,9,10.0,90.0
+715,247,Consultation fee,Consultation,1,500.0,500.0
+716,247,Medication dispensed (med_id 4),Pharmacy,3,8.0,24.0
+717,247,Medication dispensed (med_id 8),Pharmacy,30,25.0,750.0
+718,247,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+719,248,Consultation fee,Consultation,1,1000.0,1000.0
+720,248,Medication dispensed (med_id 9),Pharmacy,3,30.0,90.0
+721,248,Medication dispensed (med_id 14),Pharmacy,42,0.0,0.0
+722,248,Medication dispensed (med_id 7),Pharmacy,5,18.0,90.0
+723,248,Lab test (test_id 1),Laboratory,1,300.0,300.0
+724,249,Consultation fee,Consultation,1,700.0,700.0
+725,249,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+726,250,Consultation fee,Consultation,1,700.0,700.0
+727,250,Medication dispensed (med_id 3),Pharmacy,30,5.0,150.0
+728,250,Medication dispensed (med_id 19),Pharmacy,14,14.0,196.0
+729,250,Lab test (test_id 6),Laboratory,1,300.0,300.0
+730,251,Consultation fee,Consultation,1,500.0,500.0
+731,251,Medication dispensed (med_id 9),Pharmacy,14,30.0,420.0
+732,252,Consultation fee,Consultation,1,700.0,700.0
+733,252,Medication dispensed (med_id 6),Pharmacy,9,12.0,108.0
+734,252,Medication dispensed (med_id 9),Pharmacy,9,30.0,270.0
+735,253,Consultation fee,Consultation,1,500.0,500.0
+736,253,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+737,254,Consultation fee,Consultation,1,700.0,700.0
+738,254,Medication dispensed (med_id 16),Pharmacy,10,4.0,40.0
+739,254,Lab test (test_id 6),Laboratory,1,300.0,300.0
+740,254,Lab test (test_id 2),Laboratory,1,800.0,800.0
+741,255,Consultation fee,Consultation,1,300.0,300.0
+742,255,Medication dispensed (med_id 7),Pharmacy,42,18.0,756.0
+743,255,Medication dispensed (med_id 4),Pharmacy,7,8.0,56.0
+744,255,Lab test (test_id 8),Laboratory,1,350.0,350.0
+745,256,Consultation fee,Consultation,1,1000.0,1000.0
+746,256,Medication dispensed (med_id 18),Pharmacy,21,8.0,168.0
+747,256,Medication dispensed (med_id 18),Pharmacy,5,8.0,40.0
+748,257,Consultation fee,Consultation,1,300.0,300.0
+749,257,Lab test (test_id 5),Laboratory,1,0.0,0.0
+750,257,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+751,258,Consultation fee,Consultation,1,700.0,700.0
+752,258,Medication dispensed (med_id 12),Pharmacy,28,350.0,9800.0
+753,258,Medication dispensed (med_id 15),Pharmacy,15,150.0,2250.0
+754,258,Lab test (test_id 2),Laboratory,1,800.0,800.0
+755,259,Consultation fee,Consultation,1,1000.0,1000.0
+756,259,Medication dispensed (med_id 19),Pharmacy,90,14.0,1260.0
+757,259,Medication dispensed (med_id 17),Pharmacy,10,6.0,60.0
+758,260,Consultation fee,Consultation,1,700.0,700.0
+759,260,Lab test (test_id 20),Laboratory,1,2500.0,2500.0
+760,261,Consultation fee,Consultation,1,300.0,300.0
+761,261,Lab test (test_id 18),Laboratory,1,2000.0,2000.0
+762,262,Consultation fee,Consultation,1,500.0,500.0
+763,262,Medication dispensed (med_id 10),Pharmacy,9,7.0,63.0
+764,262,Medication dispensed (med_id 13),Pharmacy,14,0.0,0.0
+765,262,Medication dispensed (med_id 16),Pharmacy,5,4.0,20.0
+766,263,Consultation fee,Consultation,1,700.0,700.0
+767,263,Medication dispensed (med_id 9),Pharmacy,20,30.0,600.0
+768,263,Medication dispensed (med_id 12),Pharmacy,10,350.0,3500.0
+769,263,Medication dispensed (med_id 2),Pharmacy,5,120.0,600.0
+770,263,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+771,264,Consultation fee,Consultation,1,700.0,700.0
+772,264,Medication dispensed (med_id 12),Pharmacy,20,350.0,7000.0
+773,264,Lab test (test_id 5),Laboratory,1,0.0,0.0
+774,265,Consultation fee,Consultation,1,500.0,500.0
+775,265,Lab test (test_id 8),Laboratory,1,350.0,350.0
+776,266,Consultation fee,Consultation,1,500.0,500.0
+777,266,Medication dispensed (med_id 10),Pharmacy,14,7.0,98.0
+778,266,Lab test (test_id 12),Laboratory,1,250.0,250.0
+779,267,Consultation fee,Consultation,1,300.0,300.0
+780,267,Medication dispensed (med_id 9),Pharmacy,3,30.0,90.0
+781,267,Medication dispensed (med_id 17),Pharmacy,7,6.0,42.0
+782,267,Lab test (test_id 15),Laboratory,1,2500.0,2500.0
+783,268,Consultation fee,Consultation,1,300.0,300.0
+784,268,Medication dispensed (med_id 20),Pharmacy,20,10.0,200.0
+785,269,Consultation fee,Consultation,1,1000.0,1000.0
+786,269,Medication dispensed (med_id 2),Pharmacy,42,120.0,5040.0
+787,269,Lab test (test_id 6),Laboratory,1,300.0,300.0
+788,270,Consultation fee,Consultation,1,1000.0,1000.0
+789,270,Medication dispensed (med_id 14),Pharmacy,14,0.0,0.0
+790,270,Medication dispensed (med_id 5),Pharmacy,20,10.0,200.0
+791,271,Consultation fee,Consultation,1,300.0,300.0
+792,271,Lab test (test_id 13),Laboratory,1,500.0,500.0
+793,271,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+794,272,Consultation fee,Consultation,1,300.0,300.0
+795,272,Medication dispensed (med_id 7),Pharmacy,10,18.0,180.0
+796,273,Consultation fee,Consultation,1,500.0,500.0
+797,273,Lab test (test_id 19),Laboratory,1,1500.0,1500.0
+798,274,Consultation fee,Consultation,1,700.0,700.0
+799,274,Medication dispensed (med_id 9),Pharmacy,42,30.0,1260.0
+800,274,Medication dispensed (med_id 11),Pharmacy,14,9.0,126.0
+801,274,Medication dispensed (med_id 20),Pharmacy,5,10.0,50.0
+802,274,Lab test (test_id 11),Laboratory,1,300.0,300.0
+803,275,Consultation fee,Consultation,1,700.0,700.0
+804,275,Medication dispensed (med_id 11),Pharmacy,28,9.0,252.0
+805,276,Consultation fee,Consultation,1,1000.0,1000.0
+806,276,Lab test (test_id 13),Laboratory,1,500.0,500.0
+807,276,Lab test (test_id 8),Laboratory,1,350.0,350.0
+808,277,Consultation fee,Consultation,1,500.0,500.0
+809,277,Medication dispensed (med_id 9),Pharmacy,3,30.0,90.0
+810,278,Consultation fee,Consultation,1,500.0,500.0
+811,278,Medication dispensed (med_id 8),Pharmacy,10,25.0,250.0
+812,278,Medication dispensed (med_id 18),Pharmacy,28,8.0,224.0
+813,279,Consultation fee,Consultation,1,300.0,300.0
+814,279,Medication dispensed (med_id 11),Pharmacy,7,9.0,63.0
+815,279,Lab test (test_id 17),Laboratory,1,400.0,400.0
+816,279,Lab test (test_id 1),Laboratory,1,300.0,300.0
+817,280,Consultation fee,Consultation,1,1000.0,1000.0
+818,280,Medication dispensed (med_id 3),Pharmacy,7,5.0,35.0
+819,280,Medication dispensed (med_id 14),Pharmacy,10,0.0,0.0
+820,280,Lab test (test_id 13),Laboratory,1,500.0,500.0
+821,281,Consultation fee,Consultation,1,1000.0,1000.0
+822,282,Consultation fee,Consultation,1,1000.0,1000.0
+823,282,Medication dispensed (med_id 10),Pharmacy,10,7.0,70.0
+824,282,Lab test (test_id 16),Laboratory,1,600.0,600.0
+825,283,Consultation fee,Consultation,1,300.0,300.0
+826,284,Consultation fee,Consultation,1,500.0,500.0
+827,284,Medication dispensed (med_id 20),Pharmacy,21,10.0,210.0
+828,285,Consultation fee,Consultation,1,300.0,300.0
+829,285,Lab test (test_id 2),Laboratory,1,800.0,800.0
+830,286,Consultation fee,Consultation,1,300.0,300.0
+831,286,Medication dispensed (med_id 5),Pharmacy,28,10.0,280.0
+832,286,Medication dispensed (med_id 5),Pharmacy,3,10.0,30.0
+833,287,Consultation fee,Consultation,1,1000.0,1000.0
+834,287,Lab test (test_id 3),Laboratory,1,200.0,200.0
+835,288,Consultation fee,Consultation,1,300.0,300.0
+836,288,Medication dispensed (med_id 12),Pharmacy,90,350.0,31500.0
+837,289,Consultation fee,Consultation,1,500.0,500.0
+838,290,Consultation fee,Consultation,1,300.0,300.0
+839,290,Medication dispensed (med_id 11),Pharmacy,3,9.0,27.0
+840,290,Medication dispensed (med_id 2),Pharmacy,14,120.0,1680.0
+841,290,Lab test (test_id 7),Laboratory,1,400.0,400.0
+842,291,Consultation fee,Consultation,1,1000.0,1000.0
+843,291,Medication dispensed (med_id 16),Pharmacy,6,4.0,24.0
+844,291,Medication dispensed (med_id 20),Pharmacy,14,10.0,140.0
+845,291,Lab test (test_id 14),Laboratory,1,1800.0,1800.0
+846,291,Lab test (test_id 17),Laboratory,1,400.0,400.0
+847,292,Bed charges,Admission,1,1500.0,1500.0
+848,292,Nursing care,Admission,1,2000.0,2000.0
+849,292,Doctor's rounds,Consultation,1,500.0,500.0
+850,293,Bed charges,Admission,14,1500.0,21000.0
+851,293,Nursing care,Admission,1,2000.0,2000.0
+852,293,Doctor's rounds,Consultation,14,500.0,7000.0
+853,294,Bed charges,Admission,14,1500.0,21000.0
+854,294,Nursing care,Admission,1,2000.0,2000.0
+855,294,Doctor's rounds,Consultation,14,500.0,7000.0
+856,295,Bed charges,Admission,2,1500.0,3000.0
+857,295,Nursing care,Admission,1,2000.0,2000.0
+858,295,Doctor's rounds,Consultation,2,500.0,1000.0
+859,296,Bed charges,Admission,411,1500.0,616500.0
+860,296,Nursing care,Admission,1,2000.0,2000.0
+861,296,Doctor's rounds,Consultation,411,500.0,205500.0
+862,297,Bed charges,Admission,14,1500.0,21000.0
+863,297,Nursing care,Admission,1,2000.0,2000.0
+864,297,Doctor's rounds,Consultation,14,500.0,7000.0
+865,298,Bed charges,Admission,2,1500.0,3000.0
+866,298,Nursing care,Admission,1,2000.0,2000.0
+867,298,Doctor's rounds,Consultation,2,500.0,1000.0
+868,299,Bed charges,Admission,14,1500.0,21000.0
+869,299,Nursing care,Admission,1,2000.0,2000.0
+870,299,Doctor's rounds,Consultation,14,500.0,7000.0
+871,300,Bed charges,Admission,10,1500.0,15000.0
+872,300,Nursing care,Admission,1,2000.0,2000.0
+873,300,Doctor's rounds,Consultation,10,500.0,5000.0
+874,301,Bed charges,Admission,551,1500.0,826500.0
+875,301,Nursing care,Admission,1,2000.0,2000.0
+876,301,Doctor's rounds,Consultation,551,500.0,275500.0
+877,302,Bed charges,Admission,2,1500.0,3000.0
+878,302,Nursing care,Admission,1,2000.0,2000.0
+879,302,Doctor's rounds,Consultation,2,500.0,1000.0
+880,303,Bed charges,Admission,4,1500.0,6000.0
+881,303,Nursing care,Admission,1,2000.0,2000.0
+882,303,Doctor's rounds,Consultation,4,500.0,2000.0
+883,304,Bed charges,Admission,1,1500.0,1500.0
+884,304,Nursing care,Admission,1,2000.0,2000.0
+885,304,Doctor's rounds,Consultation,1,500.0,500.0
+886,305,Bed charges,Admission,3,1500.0,4500.0
+887,305,Nursing care,Admission,1,2000.0,2000.0
+888,305,Doctor's rounds,Consultation,3,500.0,1500.0
+889,306,Bed charges,Admission,2,1500.0,3000.0
+890,306,Nursing care,Admission,1,2000.0,2000.0
+891,306,Doctor's rounds,Consultation,2,500.0,1000.0
+892,307,Bed charges,Admission,5,1500.0,7500.0
+893,307,Nursing care,Admission,1,2000.0,2000.0
+894,307,Doctor's rounds,Consultation,5,500.0,2500.0
+895,308,Bed charges,Admission,4,1500.0,6000.0
+896,308,Nursing care,Admission,1,2000.0,2000.0
+897,308,Doctor's rounds,Consultation,4,500.0,2000.0
+898,309,Bed charges,Admission,1,1500.0,1500.0
+899,309,Nursing care,Admission,1,2000.0,2000.0
+900,309,Doctor's rounds,Consultation,1,500.0,500.0
+901,310,Bed charges,Admission,1,1500.0,1500.0
+902,310,Nursing care,Admission,1,2000.0,2000.0
+903,310,Doctor's rounds,Consultation,1,500.0,500.0
+904,311,Bed charges,Admission,1,1500.0,1500.0
+905,311,Nursing care,Admission,1,2000.0,2000.0
+906,311,Doctor's rounds,Consultation,1,500.0,500.0
+907,312,Bed charges,Admission,7,1500.0,10500.0
+908,312,Nursing care,Admission,1,2000.0,2000.0
+909,312,Doctor's rounds,Consultation,7,500.0,3500.0
+910,313,Bed charges,Admission,7,1500.0,10500.0
+911,313,Nursing care,Admission,1,2000.0,2000.0
+912,313,Doctor's rounds,Consultation,7,500.0,3500.0
+913,314,Bed charges,Admission,4,1500.0,6000.0
+914,314,Nursing care,Admission,1,2000.0,2000.0
+915,314,Doctor's rounds,Consultation,4,500.0,2000.0
+916,315,Bed charges,Admission,4,1500.0,6000.0
+917,315,Nursing care,Admission,1,2000.0,2000.0
+918,315,Doctor's rounds,Consultation,4,500.0,2000.0
+919,316,Bed charges,Admission,2,1500.0,3000.0
+920,316,Nursing care,Admission,1,2000.0,2000.0
+921,316,Doctor's rounds,Consultation,2,500.0,1000.0
+922,317,Bed charges,Admission,1,1500.0,1500.0
+923,317,Nursing care,Admission,1,2000.0,2000.0
+924,317,Doctor's rounds,Consultation,1,500.0,500.0
+925,318,Bed charges,Admission,124,1500.0,186000.0
+926,318,Nursing care,Admission,1,2000.0,2000.0
+927,318,Doctor's rounds,Consultation,124,500.0,62000.0
+928,319,Bed charges,Admission,2,1500.0,3000.0
+929,319,Nursing care,Admission,1,2000.0,2000.0
+930,319,Doctor's rounds,Consultation,2,500.0,1000.0
+931,320,Bed charges,Admission,5,1500.0,7500.0
+932,320,Nursing care,Admission,1,2000.0,2000.0
+933,320,Doctor's rounds,Consultation,5,500.0,2500.0
+934,321,Bed charges,Admission,10,1500.0,15000.0
+935,321,Nursing care,Admission,1,2000.0,2000.0
+936,321,Doctor's rounds,Consultation,10,500.0,5000.0
+937,322,Bed charges,Admission,14,1500.0,21000.0
+938,322,Nursing care,Admission,1,2000.0,2000.0
+939,322,Doctor's rounds,Consultation,14,500.0,7000.0
+940,323,Bed charges,Admission,5,1500.0,7500.0
+941,323,Nursing care,Admission,1,2000.0,2000.0
+942,323,Doctor's rounds,Consultation,5,500.0,2500.0
+943,324,Bed charges,Admission,5,1500.0,7500.0
+944,324,Nursing care,Admission,1,2000.0,2000.0
+945,324,Doctor's rounds,Consultation,5,500.0,2500.0
+946,325,Bed charges,Admission,14,1500.0,21000.0
+947,325,Nursing care,Admission,1,2000.0,2000.0
+948,325,Doctor's rounds,Consultation,14,500.0,7000.0
+949,326,Bed charges,Admission,1,1500.0,1500.0
+950,326,Nursing care,Admission,1,2000.0,2000.0
+951,326,Doctor's rounds,Consultation,1,500.0,500.0
+952,327,Bed charges,Admission,2,1500.0,3000.0
+953,327,Nursing care,Admission,1,2000.0,2000.0
+954,327,Doctor's rounds,Consultation,2,500.0,1000.0
+955,328,Bed charges,Admission,2,1500.0,3000.0
+956,328,Nursing care,Admission,1,2000.0,2000.0
+957,328,Doctor's rounds,Consultation,2,500.0,1000.0
+958,329,Bed charges,Admission,2,1500.0,3000.0
+959,329,Nursing care,Admission,1,2000.0,2000.0
+960,329,Doctor's rounds,Consultation,2,500.0,1000.0
+961,330,Bed charges,Admission,10,1500.0,15000.0
+962,330,Nursing care,Admission,1,2000.0,2000.0
+963,330,Doctor's rounds,Consultation,10,500.0,5000.0
+964,331,Bed charges,Admission,10,1500.0,15000.0
+965,331,Nursing care,Admission,1,2000.0,2000.0
+966,331,Doctor's rounds,Consultation,10,500.0,5000.0
+967,332,Bed charges,Admission,10,1500.0,15000.0
+968,332,Nursing care,Admission,1,2000.0,2000.0
+969,332,Doctor's rounds,Consultation,10,500.0,5000.0
+970,333,Bed charges,Admission,2,1500.0,3000.0
+971,333,Nursing care,Admission,1,2000.0,2000.0
+972,333,Doctor's rounds,Consultation,2,500.0,1000.0
+973,334,Bed charges,Admission,1,1500.0,1500.0
+974,334,Nursing care,Admission,1,2000.0,2000.0
+975,334,Doctor's rounds,Consultation,1,500.0,500.0
+976,335,Bed charges,Admission,1,1500.0,1500.0
+977,335,Nursing care,Admission,1,2000.0,2000.0
+978,335,Doctor's rounds,Consultation,1,500.0,500.0
+979,336,Bed charges,Admission,1,1500.0,1500.0
+980,336,Nursing care,Admission,1,2000.0,2000.0
+981,336,Doctor's rounds,Consultation,1,500.0,500.0
+982,337,Bed charges,Admission,14,1500.0,21000.0
+983,337,Nursing care,Admission,1,2000.0,2000.0
+984,337,Doctor's rounds,Consultation,14,500.0,7000.0
+985,338,Bed charges,Admission,14,1500.0,21000.0
+986,338,Nursing care,Admission,1,2000.0,2000.0
+987,338,Doctor's rounds,Consultation,14,500.0,7000.0
+988,339,Bed charges,Admission,2,1500.0,3000.0
+989,339,Nursing care,Admission,1,2000.0,2000.0
+990,339,Doctor's rounds,Consultation,2,500.0,1000.0
+991,340,Bed charges,Admission,2,1500.0,3000.0
+992,340,Nursing care,Admission,1,2000.0,2000.0
+993,340,Doctor's rounds,Consultation,2,500.0,1000.0
+994,341,Bed charges,Admission,5,1500.0,7500.0
+995,341,Nursing care,Admission,1,2000.0,2000.0
+996,341,Doctor's rounds,Consultation,5,500.0,2500.0
+997,342,Bed charges,Admission,7,1500.0,10500.0
+998,342,Nursing care,Admission,1,2000.0,2000.0
+999,342,Doctor's rounds,Consultation,7,500.0,3500.0
+1000,343,Bed charges,Admission,323,1500.0,484500.0
+1001,343,Nursing care,Admission,1,2000.0,2000.0
+1002,343,Doctor's rounds,Consultation,323,500.0,161500.0
+1003,344,Bed charges,Admission,5,1500.0,7500.0
+1004,344,Nursing care,Admission,1,2000.0,2000.0
+1005,344,Doctor's rounds,Consultation,5,500.0,2500.0
+1006,345,Bed charges,Admission,10,1500.0,15000.0
+1007,345,Nursing care,Admission,1,2000.0,2000.0
+1008,345,Doctor's rounds,Consultation,10,500.0,5000.0
+1009,346,Bed charges,Admission,10,1500.0,15000.0
+1010,346,Nursing care,Admission,1,2000.0,2000.0
+1011,346,Doctor's rounds,Consultation,10,500.0,5000.0
+1012,347,Bed charges,Admission,2,1500.0,3000.0
+1013,347,Nursing care,Admission,1,2000.0,2000.0
+1014,347,Doctor's rounds,Consultation,2,500.0,1000.0
+1015,348,Bed charges,Admission,379,1500.0,568500.0
+1016,348,Nursing care,Admission,1,2000.0,2000.0
+1017,348,Doctor's rounds,Consultation,379,500.0,189500.0
+1018,349,Bed charges,Admission,2,1500.0,3000.0
+1019,349,Nursing care,Admission,1,2000.0,2000.0
+1020,349,Doctor's rounds,Consultation,2,500.0,1000.0
+1021,350,Bed charges,Admission,1,1500.0,1500.0
+1022,350,Nursing care,Admission,1,2000.0,2000.0
+1023,350,Doctor's rounds,Consultation,1,500.0,500.0
+1024,351,Bed charges,Admission,382,1500.0,573000.0
+1025,351,Nursing care,Admission,1,2000.0,2000.0
+1026,351,Doctor's rounds,Consultation,382,500.0,191000.0
+1027,352,Bed charges,Admission,2,1500.0,3000.0
+1028,352,Nursing care,Admission,1,2000.0,2000.0
+1029,352,Doctor's rounds,Consultation,2,500.0,1000.0
+1030,353,Bed charges,Admission,433,1500.0,649500.0
+1031,353,Nursing care,Admission,1,2000.0,2000.0
+1032,353,Doctor's rounds,Consultation,433,500.0,216500.0
+1033,354,Bed charges,Admission,2,1500.0,3000.0
+1034,354,Nursing care,Admission,1,2000.0,2000.0
+1035,354,Doctor's rounds,Consultation,2,500.0,1000.0
+1036,355,Bed charges,Admission,7,1500.0,10500.0
+1037,355,Nursing care,Admission,1,2000.0,2000.0
+1038,355,Doctor's rounds,Consultation,7,500.0,3500.0
+1039,356,Bed charges,Admission,2,1500.0,3000.0
+1040,356,Nursing care,Admission,1,2000.0,2000.0
+1041,356,Doctor's rounds,Consultation,2,500.0,1000.0
+1042,357,Bed charges,Admission,250,1500.0,375000.0
+1043,357,Nursing care,Admission,1,2000.0,2000.0
+1044,357,Doctor's rounds,Consultation,250,500.0,125000.0
+1045,358,Bed charges,Admission,1,1500.0,1500.0
+1046,358,Nursing care,Admission,1,2000.0,2000.0
+1047,358,Doctor's rounds,Consultation,1,500.0,500.0
+1048,359,Bed charges,Admission,14,1500.0,21000.0
+1049,359,Nursing care,Admission,1,2000.0,2000.0
+1050,359,Doctor's rounds,Consultation,14,500.0,7000.0
+1051,360,Bed charges,Admission,4,1500.0,6000.0
+1052,360,Nursing care,Admission,1,2000.0,2000.0
+1053,360,Doctor's rounds,Consultation,4,500.0,2000.0
+1054,361,Bed charges,Admission,3,1500.0,4500.0
+1055,361,Nursing care,Admission,1,2000.0,2000.0
+1056,361,Doctor's rounds,Consultation,3,500.0,1500.0
+1057,362,Bed charges,Admission,1,1500.0,1500.0
+1058,362,Nursing care,Admission,1,2000.0,2000.0
+1059,362,Doctor's rounds,Consultation,1,500.0,500.0
+1060,363,Bed charges,Admission,2,1500.0,3000.0
+1061,363,Nursing care,Admission,1,2000.0,2000.0
+1062,363,Doctor's rounds,Consultation,2,500.0,1000.0
+1063,364,Bed charges,Admission,3,1500.0,4500.0
+1064,364,Nursing care,Admission,1,2000.0,2000.0
+1065,364,Doctor's rounds,Consultation,3,500.0,1500.0
+1066,365,Bed charges,Admission,10,1500.0,15000.0
+1067,365,Nursing care,Admission,1,2000.0,2000.0
+1068,365,Doctor's rounds,Consultation,10,500.0,5000.0
+1069,366,Bed charges,Admission,2,1500.0,3000.0
+1070,366,Nursing care,Admission,1,2000.0,2000.0
+1071,366,Doctor's rounds,Consultation,2,500.0,1000.0
+1072,367,Bed charges,Admission,2,1500.0,3000.0
+1073,367,Nursing care,Admission,1,2000.0,2000.0
+1074,367,Doctor's rounds,Consultation,2,500.0,1000.0
+1075,368,Bed charges,Admission,2,1500.0,3000.0
+1076,368,Nursing care,Admission,1,2000.0,2000.0
+1077,368,Doctor's rounds,Consultation,2,500.0,1000.0
+1078,369,Bed charges,Admission,7,1500.0,10500.0
+1079,369,Nursing care,Admission,1,2000.0,2000.0
+1080,369,Doctor's rounds,Consultation,7,500.0,3500.0
+1081,370,Bed charges,Admission,14,1500.0,21000.0
+1082,370,Nursing care,Admission,1,2000.0,2000.0
+1083,370,Doctor's rounds,Consultation,14,500.0,7000.0
+1084,371,Bed charges,Admission,5,1500.0,7500.0
+1085,371,Nursing care,Admission,1,2000.0,2000.0
+1086,371,Doctor's rounds,Consultation,5,500.0,2500.0
+1087,372,Bed charges,Admission,4,1500.0,6000.0
+1088,372,Nursing care,Admission,1,2000.0,2000.0
+1089,372,Doctor's rounds,Consultation,4,500.0,2000.0
+1090,373,Bed charges,Admission,5,1500.0,7500.0
+1091,373,Nursing care,Admission,1,2000.0,2000.0
+1092,373,Doctor's rounds,Consultation,5,500.0,2500.0
+1093,374,Bed charges,Admission,10,1500.0,15000.0
+1094,374,Nursing care,Admission,1,2000.0,2000.0
+1095,374,Doctor's rounds,Consultation,10,500.0,5000.0
+1096,375,Bed charges,Admission,3,1500.0,4500.0
+1097,375,Nursing care,Admission,1,2000.0,2000.0
+1098,375,Doctor's rounds,Consultation,3,500.0,1500.0
+1099,376,Bed charges,Admission,1,1500.0,1500.0
+1100,376,Nursing care,Admission,1,2000.0,2000.0
+1101,376,Doctor's rounds,Consultation,1,500.0,500.0
+1102,377,Bed charges,Admission,1,1500.0,1500.0
+1103,377,Nursing care,Admission,1,2000.0,2000.0
+1104,377,Doctor's rounds,Consultation,1,500.0,500.0
+1105,378,Bed charges,Admission,10,1500.0,15000.0
+1106,378,Nursing care,Admission,1,2000.0,2000.0
+1107,378,Doctor's rounds,Consultation,10,500.0,5000.0
+1108,379,Bed charges,Admission,14,1500.0,21000.0
+1109,379,Nursing care,Admission,1,2000.0,2000.0
+1110,379,Doctor's rounds,Consultation,14,500.0,7000.0
+1111,380,Bed charges,Admission,1,1500.0,1500.0
+1112,380,Nursing care,Admission,1,2000.0,2000.0
+1113,380,Doctor's rounds,Consultation,1,500.0,500.0
+1114,381,Bed charges,Admission,5,1500.0,7500.0
+1115,381,Nursing care,Admission,1,2000.0,2000.0
+1116,381,Doctor's rounds,Consultation,5,500.0,2500.0
+1117,382,Bed charges,Admission,2,1500.0,3000.0
+1118,382,Nursing care,Admission,1,2000.0,2000.0
+1119,382,Doctor's rounds,Consultation,2,500.0,1000.0
+1120,383,Bed charges,Admission,1,1500.0,1500.0
+1121,383,Nursing care,Admission,1,2000.0,2000.0
+1122,383,Doctor's rounds,Consultation,1,500.0,500.0
+1123,384,Bed charges,Admission,1,1500.0,1500.0
+1124,384,Nursing care,Admission,1,2000.0,2000.0
+1125,384,Doctor's rounds,Consultation,1,500.0,500.0
+1126,385,Bed charges,Admission,5,1500.0,7500.0
+1127,385,Nursing care,Admission,1,2000.0,2000.0
+1128,385,Doctor's rounds,Consultation,5,500.0,2500.0
+1129,386,Bed charges,Admission,14,1500.0,21000.0
+1130,386,Nursing care,Admission,1,2000.0,2000.0
+1131,386,Doctor's rounds,Consultation,14,500.0,7000.0

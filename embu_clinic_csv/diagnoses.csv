@@ -1,0 +1,505 @@
+diagnosis_id,visit_id,icd_code,description,is_chronic,diagnosis_date
+1,1,B24,HIV disease,0,2026-06-18
+2,1,K29.7,"Gastritis, unspecified",0,2026-06-18
+3,2,K29.7,"Gastritis, unspecified",0,2025-12-04
+4,2,H10.9,Conjunctivitis,0,2025-12-04
+5,3,J18.9,"Pneumonia, unspecified",0,2025-03-11
+6,4,H10.9,Conjunctivitis,0,2025-04-20
+7,5,L23.9,Allergic contact dermatitis,0,2025-08-26
+8,6,M54.5,Low back pain,0,2025-08-20
+9,7,J06.9,Acute upper respiratory infection,0,2025-04-03
+10,8,S00-T88,Injury (unspecified),0,2026-02-28
+11,8,K29.7,"Gastritis, unspecified",0,2026-02-28
+12,9,L23.9,Allergic contact dermatitis,0,2025-04-27
+13,10,E11.9,Type 2 diabetes mellitus,0,2026-07-18
+14,11,L23.9,Allergic contact dermatitis,0,2025-07-05
+15,12,E11.9,Type 2 diabetes mellitus,1,2026-07-15
+16,13,B24,HIV disease,1,2026-04-12
+17,15,E11.9,Type 2 diabetes mellitus,1,2025-10-16
+18,16,O80,Normal delivery,0,2025-12-29
+19,17,H10.9,Conjunctivitis,0,2026-07-02
+20,17,A09,Gastroenteritis,0,2026-07-02
+21,18,L23.9,Allergic contact dermatitis,0,2025-02-02
+22,19,J45.9,Asthma,0,2025-11-06
+23,20,J18.9,"Pneumonia, unspecified",0,2026-05-11
+24,23,I10,Essential hypertension,0,2026-07-10
+25,25,R50.9,"Fever, unspecified",0,2025-05-15
+26,25,L23.9,Allergic contact dermatitis,0,2025-05-15
+27,26,R50.9,"Fever, unspecified",0,2025-12-26
+28,27,K29.7,"Gastritis, unspecified",0,2026-01-29
+29,28,J18.9,"Pneumonia, unspecified",0,2025-12-17
+30,29,B24,HIV disease,1,2025-03-05
+31,30,B54,"Malaria, unspecified",0,2025-05-23
+32,32,H10.9,Conjunctivitis,0,2026-03-24
+33,32,L23.9,Allergic contact dermatitis,0,2026-03-24
+34,33,L23.9,Allergic contact dermatitis,0,2025-10-29
+35,34,S00-T88,Injury (unspecified),0,2025-10-15
+36,35,I10,Essential hypertension,0,2026-04-03
+37,36,F32.9,Depressive episode,0,2026-06-25
+38,38,N18.9,Chronic kidney disease,1,2025-05-29
+39,38,E86,Volume depletion / dehydration,0,2025-05-29
+40,39,R50.9,"Fever, unspecified",0,2025-12-10
+41,40,I10,Essential hypertension,1,2025-12-26
+42,41,J18.9,"Pneumonia, unspecified",0,2025-07-09
+43,42,S00-T88,Injury (unspecified),0,2025-10-11
+44,43,N18.9,Chronic kidney disease,1,2026-01-27
+45,44,F32.9,Depressive episode,0,2025-05-28
+46,45,L23.9,Allergic contact dermatitis,0,2025-04-16
+47,45,A15.0,Pulmonary tuberculosis,0,2025-04-16
+48,46,B24,HIV disease,0,2026-05-25
+49,47,B54,"Malaria, unspecified",0,2026-02-18
+50,47,O80,Normal delivery,0,2026-02-18
+51,48,N39.0,Urinary tract infection,0,2025-12-08
+52,49,E86,Volume depletion / dehydration,0,2025-07-15
+53,50,M54.5,Low back pain,0,2026-03-25
+54,51,J18.9,"Pneumonia, unspecified",0,2025-01-15
+55,52,S00-T88,Injury (unspecified),0,2026-07-13
+56,53,I10,Essential hypertension,1,2025-03-06
+57,54,E86,Volume depletion / dehydration,0,2026-07-21
+58,54,J18.9,"Pneumonia, unspecified",0,2026-07-21
+59,55,N39.0,Urinary tract infection,0,2026-05-27
+60,55,E11.9,Type 2 diabetes mellitus,1,2026-05-27
+61,56,F32.9,Depressive episode,0,2025-08-02
+62,57,A09,Gastroenteritis,0,2025-06-30
+63,58,B54,"Malaria, unspecified",0,2025-02-23
+64,59,J45.9,Asthma,0,2025-11-30
+65,59,E86,Volume depletion / dehydration,0,2025-11-30
+66,61,A09,Gastroenteritis,0,2025-05-11
+67,61,M54.5,Low back pain,0,2025-05-11
+68,62,N18.9,Chronic kidney disease,1,2026-03-05
+69,63,E11.9,Type 2 diabetes mellitus,0,2026-04-30
+70,64,J18.9,"Pneumonia, unspecified",0,2025-12-10
+71,65,J18.9,"Pneumonia, unspecified",0,2025-02-11
+72,66,L23.9,Allergic contact dermatitis,0,2025-12-28
+73,67,J06.9,Acute upper respiratory infection,0,2025-06-29
+74,68,N39.0,Urinary tract infection,0,2026-03-28
+75,68,J18.9,"Pneumonia, unspecified",0,2026-03-28
+76,69,J06.9,Acute upper respiratory infection,0,2025-01-26
+77,69,K29.7,"Gastritis, unspecified",0,2025-01-26
+78,70,B24,HIV disease,1,2026-07-19
+79,71,H10.9,Conjunctivitis,0,2026-01-01
+80,72,F32.9,Depressive episode,0,2026-02-12
+81,73,J06.9,Acute upper respiratory infection,0,2026-03-31
+82,74,B24,HIV disease,0,2025-03-30
+83,77,F32.9,Depressive episode,0,2025-09-22
+84,78,J45.9,Asthma,1,2025-06-16
+85,79,B54,"Malaria, unspecified",0,2025-04-09
+86,79,A09,Gastroenteritis,0,2025-04-09
+87,80,N18.9,Chronic kidney disease,1,2026-05-12
+88,81,O80,Normal delivery,0,2025-01-18
+89,81,N39.0,Urinary tract infection,0,2025-01-18
+90,82,S00-T88,Injury (unspecified),0,2025-05-12
+91,83,S00-T88,Injury (unspecified),0,2026-03-12
+92,83,A15.0,Pulmonary tuberculosis,0,2026-03-12
+93,85,J06.9,Acute upper respiratory infection,0,2025-10-12
+94,86,O80,Normal delivery,0,2025-04-12
+95,86,A09,Gastroenteritis,0,2025-04-12
+96,87,S00-T88,Injury (unspecified),0,2026-01-05
+97,88,O80,Normal delivery,0,2025-10-25
+98,89,B54,"Malaria, unspecified",0,2026-01-08
+99,90,N39.0,Urinary tract infection,0,2026-07-08
+100,91,N18.9,Chronic kidney disease,1,2025-06-18
+101,92,F32.9,Depressive episode,0,2025-03-04
+102,93,I10,Essential hypertension,0,2025-02-27
+103,94,A15.0,Pulmonary tuberculosis,0,2025-11-09
+104,94,S00-T88,Injury (unspecified),0,2025-11-09
+105,95,R50.9,"Fever, unspecified",0,2026-04-17
+106,96,J45.9,Asthma,1,2025-12-11
+107,99,A15.0,Pulmonary tuberculosis,0,2025-11-04
+108,99,L23.9,Allergic contact dermatitis,0,2025-11-04
+109,100,B24,HIV disease,1,2025-10-01
+110,100,K29.7,"Gastritis, unspecified",0,2025-10-01
+111,102,B24,HIV disease,1,2025-10-07
+112,103,R50.9,"Fever, unspecified",0,2026-05-13
+113,104,S00-T88,Injury (unspecified),0,2026-07-01
+114,105,S00-T88,Injury (unspecified),0,2025-02-05
+115,105,L23.9,Allergic contact dermatitis,0,2025-02-05
+116,106,A09,Gastroenteritis,0,2025-11-05
+117,107,F32.9,Depressive episode,0,2026-02-21
+118,108,L23.9,Allergic contact dermatitis,0,2025-12-07
+119,110,N39.0,Urinary tract infection,0,2025-07-23
+120,111,L23.9,Allergic contact dermatitis,0,2025-01-22
+121,112,H10.9,Conjunctivitis,0,2025-05-02
+122,113,N39.0,Urinary tract infection,0,2026-01-27
+123,114,N39.0,Urinary tract infection,0,2026-03-05
+124,114,S00-T88,Injury (unspecified),0,2026-03-05
+125,115,B24,HIV disease,1,2026-04-28
+126,117,K29.7,"Gastritis, unspecified",0,2026-06-28
+127,118,I10,Essential hypertension,1,2025-07-13
+128,119,J18.9,"Pneumonia, unspecified",0,2025-06-17
+129,120,E86,Volume depletion / dehydration,0,2025-04-06
+130,120,B24,HIV disease,1,2025-04-06
+131,121,A09,Gastroenteritis,0,2025-04-19
+132,122,J06.9,Acute upper respiratory infection,0,2025-10-03
+133,122,B24,HIV disease,0,2025-10-03
+134,123,J45.9,Asthma,1,2025-04-02
+135,125,J45.9,Asthma,1,2025-02-18
+136,126,J45.9,Asthma,1,2025-04-07
+137,127,A15.0,Pulmonary tuberculosis,0,2025-04-27
+138,128,M54.5,Low back pain,0,2025-12-16
+139,128,B24,HIV disease,1,2025-12-16
+140,129,K29.7,"Gastritis, unspecified",0,2026-03-21
+141,130,B54,"Malaria, unspecified",0,2026-01-05
+142,130,A09,Gastroenteritis,0,2026-01-05
+143,131,F32.9,Depressive episode,0,2025-04-25
+144,133,S00-T88,Injury (unspecified),0,2026-03-09
+145,135,A09,Gastroenteritis,0,2026-07-25
+146,136,K29.7,"Gastritis, unspecified",0,2026-05-31
+147,138,R50.9,"Fever, unspecified",0,2025-06-07
+148,139,E11.9,Type 2 diabetes mellitus,0,2025-01-07
+149,140,J06.9,Acute upper respiratory infection,0,2025-09-30
+150,140,E86,Volume depletion / dehydration,0,2025-09-30
+151,142,L23.9,Allergic contact dermatitis,0,2026-07-07
+152,144,J45.9,Asthma,1,2025-01-06
+153,145,N18.9,Chronic kidney disease,0,2025-12-02
+154,146,E86,Volume depletion / dehydration,0,2026-02-26
+155,147,B24,HIV disease,1,2026-02-23
+156,147,L23.9,Allergic contact dermatitis,0,2026-02-23
+157,149,O80,Normal delivery,0,2025-05-27
+158,151,N18.9,Chronic kidney disease,1,2025-04-02
+159,151,S00-T88,Injury (unspecified),0,2025-04-02
+160,152,K29.7,"Gastritis, unspecified",0,2026-05-03
+161,153,J45.9,Asthma,1,2026-03-24
+162,153,N39.0,Urinary tract infection,0,2026-03-24
+163,154,J45.9,Asthma,1,2025-09-21
+164,154,F32.9,Depressive episode,0,2025-09-21
+165,156,R50.9,"Fever, unspecified",0,2025-11-24
+166,157,J45.9,Asthma,1,2025-01-30
+167,157,J18.9,"Pneumonia, unspecified",0,2025-01-30
+168,158,A09,Gastroenteritis,0,2025-05-26
+169,159,K29.7,"Gastritis, unspecified",0,2025-10-07
+170,160,S00-T88,Injury (unspecified),0,2025-06-15
+171,161,A15.0,Pulmonary tuberculosis,0,2026-07-24
+172,162,J06.9,Acute upper respiratory infection,0,2025-09-25
+173,164,S00-T88,Injury (unspecified),0,2025-07-20
+174,165,J06.9,Acute upper respiratory infection,0,2026-07-20
+175,167,S00-T88,Injury (unspecified),0,2025-01-03
+176,168,N18.9,Chronic kidney disease,0,2026-06-15
+177,170,L23.9,Allergic contact dermatitis,0,2025-06-18
+178,171,B24,HIV disease,0,2026-03-19
+179,173,E86,Volume depletion / dehydration,0,2025-04-15
+180,174,A09,Gastroenteritis,0,2025-05-21
+181,175,O80,Normal delivery,0,2025-11-15
+182,176,S00-T88,Injury (unspecified),0,2026-01-13
+183,177,B24,HIV disease,0,2025-07-19
+184,178,H10.9,Conjunctivitis,0,2025-08-13
+185,179,F32.9,Depressive episode,0,2025-07-20
+186,180,J06.9,Acute upper respiratory infection,0,2025-04-24
+187,181,L23.9,Allergic contact dermatitis,0,2025-02-17
+188,181,J06.9,Acute upper respiratory infection,0,2025-02-17
+189,182,A09,Gastroenteritis,0,2025-05-10
+190,183,J18.9,"Pneumonia, unspecified",0,2026-06-16
+191,184,H10.9,Conjunctivitis,0,2025-08-13
+192,185,J18.9,"Pneumonia, unspecified",0,2026-01-22
+193,185,B54,"Malaria, unspecified",0,2026-01-22
+194,186,S00-T88,Injury (unspecified),0,2025-10-30
+195,186,I10,Essential hypertension,1,2025-10-30
+196,187,E11.9,Type 2 diabetes mellitus,0,2025-10-07
+197,188,R50.9,"Fever, unspecified",0,2025-08-22
+198,191,N39.0,Urinary tract infection,0,2026-07-26
+199,191,F32.9,Depressive episode,0,2026-07-26
+200,192,M54.5,Low back pain,0,2026-05-27
+201,193,I10,Essential hypertension,1,2025-11-30
+202,194,O80,Normal delivery,0,2025-12-03
+203,195,M54.5,Low back pain,0,2026-05-16
+204,195,F32.9,Depressive episode,0,2026-05-16
+205,196,S00-T88,Injury (unspecified),0,2025-12-01
+206,197,B24,HIV disease,0,2025-03-12
+207,198,E11.9,Type 2 diabetes mellitus,1,2025-02-14
+208,199,S00-T88,Injury (unspecified),0,2026-02-13
+209,201,E11.9,Type 2 diabetes mellitus,1,2025-10-29
+210,202,A09,Gastroenteritis,0,2026-03-28
+211,202,A15.0,Pulmonary tuberculosis,0,2026-03-28
+212,203,O80,Normal delivery,0,2025-01-05
+213,204,J45.9,Asthma,1,2025-04-04
+214,206,E86,Volume depletion / dehydration,0,2025-10-13
+215,207,M54.5,Low back pain,0,2025-04-15
+216,208,K29.7,"Gastritis, unspecified",0,2025-01-22
+217,209,A09,Gastroenteritis,0,2025-08-23
+218,210,N39.0,Urinary tract infection,0,2025-08-16
+219,210,A15.0,Pulmonary tuberculosis,0,2025-08-16
+220,211,L23.9,Allergic contact dermatitis,0,2025-06-27
+221,211,N18.9,Chronic kidney disease,0,2025-06-27
+222,212,R50.9,"Fever, unspecified",0,2025-11-15
+223,213,J45.9,Asthma,1,2025-10-20
+224,213,E86,Volume depletion / dehydration,0,2025-10-20
+225,214,N18.9,Chronic kidney disease,1,2026-01-20
+226,215,N39.0,Urinary tract infection,0,2025-06-08
+227,216,N18.9,Chronic kidney disease,1,2025-03-14
+228,217,N18.9,Chronic kidney disease,1,2026-01-30
+229,218,N18.9,Chronic kidney disease,0,2026-06-15
+230,219,N39.0,Urinary tract infection,0,2025-06-22
+231,220,E86,Volume depletion / dehydration,0,2026-03-18
+232,220,S00-T88,Injury (unspecified),0,2026-03-18
+233,221,A09,Gastroenteritis,0,2025-03-02
+234,222,O80,Normal delivery,0,2025-06-20
+235,224,E11.9,Type 2 diabetes mellitus,1,2026-01-15
+236,224,E86,Volume depletion / dehydration,0,2026-01-15
+237,225,B24,HIV disease,0,2025-12-31
+238,225,J06.9,Acute upper respiratory infection,0,2025-12-31
+239,227,H10.9,Conjunctivitis,0,2025-08-05
+240,228,S00-T88,Injury (unspecified),0,2026-01-22
+241,229,F32.9,Depressive episode,0,2025-03-31
+242,230,K29.7,"Gastritis, unspecified",0,2025-08-04
+243,231,R50.9,"Fever, unspecified",0,2025-06-13
+244,232,S00-T88,Injury (unspecified),0,2026-02-05
+245,233,F32.9,Depressive episode,0,2026-03-29
+246,234,J06.9,Acute upper respiratory infection,0,2025-12-31
+247,235,O80,Normal delivery,0,2025-06-02
+248,235,I10,Essential hypertension,0,2025-06-02
+249,236,E11.9,Type 2 diabetes mellitus,1,2025-10-09
+250,236,L23.9,Allergic contact dermatitis,0,2025-10-09
+251,237,N39.0,Urinary tract infection,0,2026-05-16
+252,238,J45.9,Asthma,0,2025-01-21
+253,239,I10,Essential hypertension,1,2025-05-01
+254,240,H10.9,Conjunctivitis,0,2025-03-28
+255,241,M54.5,Low back pain,0,2025-02-15
+256,242,O80,Normal delivery,0,2026-07-20
+257,243,O80,Normal delivery,0,2025-04-02
+258,244,I10,Essential hypertension,0,2026-04-14
+259,245,O80,Normal delivery,0,2026-03-15
+260,245,H10.9,Conjunctivitis,0,2026-03-15
+261,246,O80,Normal delivery,0,2025-11-17
+262,248,J18.9,"Pneumonia, unspecified",0,2025-06-22
+263,249,N39.0,Urinary tract infection,0,2025-09-13
+264,249,F32.9,Depressive episode,0,2025-09-13
+265,250,E86,Volume depletion / dehydration,0,2025-08-07
+266,250,N39.0,Urinary tract infection,0,2025-08-07
+267,252,S00-T88,Injury (unspecified),0,2025-12-29
+268,253,N39.0,Urinary tract infection,0,2025-05-07
+269,254,B54,"Malaria, unspecified",0,2026-02-09
+270,255,A09,Gastroenteritis,0,2026-03-26
+271,255,S00-T88,Injury (unspecified),0,2026-03-26
+272,256,H10.9,Conjunctivitis,0,2025-07-23
+273,256,S00-T88,Injury (unspecified),0,2025-07-23
+274,257,J45.9,Asthma,0,2026-05-29
+275,260,E11.9,Type 2 diabetes mellitus,0,2025-06-02
+276,260,I10,Essential hypertension,1,2025-06-02
+277,261,J18.9,"Pneumonia, unspecified",0,2025-10-03
+278,263,B54,"Malaria, unspecified",0,2025-12-09
+279,264,J45.9,Asthma,1,2026-01-05
+280,265,E86,Volume depletion / dehydration,0,2025-07-15
+281,265,A09,Gastroenteritis,0,2025-07-15
+282,266,B24,HIV disease,0,2026-05-01
+283,267,N18.9,Chronic kidney disease,0,2026-05-10
+284,268,A09,Gastroenteritis,0,2025-07-31
+285,269,R50.9,"Fever, unspecified",0,2026-05-31
+286,269,L23.9,Allergic contact dermatitis,0,2026-05-31
+287,270,B54,"Malaria, unspecified",0,2026-07-20
+288,270,J06.9,Acute upper respiratory infection,0,2026-07-20
+289,271,F32.9,Depressive episode,0,2025-02-10
+290,273,I10,Essential hypertension,1,2026-03-29
+291,274,O80,Normal delivery,0,2026-04-02
+292,275,L23.9,Allergic contact dermatitis,0,2025-07-05
+293,276,A09,Gastroenteritis,0,2025-10-16
+294,277,J45.9,Asthma,1,2025-05-27
+295,278,N18.9,Chronic kidney disease,0,2025-05-16
+296,280,J06.9,Acute upper respiratory infection,0,2025-04-16
+297,280,J18.9,"Pneumonia, unspecified",0,2025-04-16
+298,281,I10,Essential hypertension,1,2025-06-03
+299,281,J06.9,Acute upper respiratory infection,0,2025-06-03
+300,282,A09,Gastroenteritis,0,2025-09-29
+301,283,A09,Gastroenteritis,0,2026-02-04
+302,284,M54.5,Low back pain,0,2025-05-29
+303,285,K29.7,"Gastritis, unspecified",0,2026-01-06
+304,286,O80,Normal delivery,0,2025-04-23
+305,287,E11.9,Type 2 diabetes mellitus,1,2025-05-28
+306,288,A15.0,Pulmonary tuberculosis,0,2026-01-10
+307,289,E11.9,Type 2 diabetes mellitus,1,2025-12-12
+308,290,O80,Normal delivery,0,2025-06-27
+309,291,O80,Normal delivery,0,2025-02-25
+310,292,A15.0,Pulmonary tuberculosis,0,2026-01-07
+311,293,H10.9,Conjunctivitis,0,2025-08-05
+312,294,S00-T88,Injury (unspecified),0,2025-07-28
+313,295,M54.5,Low back pain,0,2025-06-06
+314,296,F32.9,Depressive episode,0,2025-05-14
+315,297,I10,Essential hypertension,1,2025-11-01
+316,298,R50.9,"Fever, unspecified",0,2025-10-09
+317,298,E11.9,Type 2 diabetes mellitus,1,2025-10-09
+318,299,L23.9,Allergic contact dermatitis,0,2026-04-16
+319,300,A15.0,Pulmonary tuberculosis,0,2025-07-04
+320,301,F32.9,Depressive episode,0,2026-02-05
+321,302,N39.0,Urinary tract infection,0,2026-05-14
+322,304,N39.0,Urinary tract infection,0,2025-02-02
+323,305,N39.0,Urinary tract infection,0,2025-06-12
+324,308,I10,Essential hypertension,1,2025-10-02
+325,309,B24,HIV disease,1,2026-07-19
+326,310,N18.9,Chronic kidney disease,0,2025-07-17
+327,311,J18.9,"Pneumonia, unspecified",0,2025-04-16
+328,312,A09,Gastroenteritis,0,2026-04-02
+329,313,S00-T88,Injury (unspecified),0,2026-03-16
+330,314,J18.9,"Pneumonia, unspecified",0,2025-06-21
+331,315,M54.5,Low back pain,0,2026-06-28
+332,316,H10.9,Conjunctivitis,0,2025-11-27
+333,317,A09,Gastroenteritis,0,2025-08-09
+334,318,E86,Volume depletion / dehydration,0,2025-01-10
+335,319,N18.9,Chronic kidney disease,1,2025-11-26
+336,320,S00-T88,Injury (unspecified),0,2026-06-24
+337,321,N39.0,Urinary tract infection,0,2026-03-08
+338,321,M54.5,Low back pain,0,2026-03-08
+339,322,S00-T88,Injury (unspecified),0,2025-02-20
+340,323,A15.0,Pulmonary tuberculosis,0,2025-05-03
+341,325,K29.7,"Gastritis, unspecified",0,2025-10-19
+342,325,F32.9,Depressive episode,0,2025-10-19
+343,327,N39.0,Urinary tract infection,0,2025-10-09
+344,328,R50.9,"Fever, unspecified",0,2026-05-21
+345,328,N18.9,Chronic kidney disease,1,2026-05-21
+346,329,A15.0,Pulmonary tuberculosis,0,2025-05-05
+347,330,F32.9,Depressive episode,0,2025-01-11
+348,330,O80,Normal delivery,0,2025-01-11
+349,331,N18.9,Chronic kidney disease,1,2025-06-24
+350,331,E11.9,Type 2 diabetes mellitus,1,2025-06-24
+351,332,J06.9,Acute upper respiratory infection,0,2025-09-23
+352,332,A15.0,Pulmonary tuberculosis,0,2025-09-23
+353,333,E11.9,Type 2 diabetes mellitus,0,2025-09-28
+354,334,I10,Essential hypertension,1,2026-04-17
+355,335,O80,Normal delivery,0,2026-04-03
+356,336,A15.0,Pulmonary tuberculosis,0,2025-10-15
+357,336,E86,Volume depletion / dehydration,0,2025-10-15
+358,338,O80,Normal delivery,0,2025-03-21
+359,339,K29.7,"Gastritis, unspecified",0,2025-08-10
+360,340,J45.9,Asthma,0,2025-12-15
+361,341,S00-T88,Injury (unspecified),0,2026-06-01
+362,342,J18.9,"Pneumonia, unspecified",0,2026-04-09
+363,343,R50.9,"Fever, unspecified",0,2026-03-10
+364,344,S00-T88,Injury (unspecified),0,2026-04-18
+365,345,H10.9,Conjunctivitis,0,2025-07-11
+366,346,J18.9,"Pneumonia, unspecified",0,2025-09-29
+367,347,B24,HIV disease,0,2025-06-04
+368,349,A15.0,Pulmonary tuberculosis,0,2026-03-09
+369,350,L23.9,Allergic contact dermatitis,0,2025-10-10
+370,350,R50.9,"Fever, unspecified",0,2025-10-10
+371,351,M54.5,Low back pain,0,2025-04-24
+372,352,N18.9,Chronic kidney disease,1,2025-09-02
+373,353,I10,Essential hypertension,1,2026-02-06
+374,353,K29.7,"Gastritis, unspecified",0,2026-02-06
+375,354,A09,Gastroenteritis,0,2025-07-30
+376,355,R50.9,"Fever, unspecified",0,2025-01-04
+377,356,K29.7,"Gastritis, unspecified",0,2025-09-02
+378,356,E11.9,Type 2 diabetes mellitus,1,2025-09-02
+379,358,J06.9,Acute upper respiratory infection,0,2025-12-09
+380,359,I10,Essential hypertension,1,2025-01-10
+381,360,R50.9,"Fever, unspecified",0,2025-09-11
+382,361,S00-T88,Injury (unspecified),0,2025-08-22
+383,363,L23.9,Allergic contact dermatitis,0,2025-09-17
+384,363,I10,Essential hypertension,1,2025-09-17
+385,364,J18.9,"Pneumonia, unspecified",0,2025-12-08
+386,365,J06.9,Acute upper respiratory infection,0,2026-02-25
+387,366,J18.9,"Pneumonia, unspecified",0,2025-09-08
+388,367,R50.9,"Fever, unspecified",0,2026-01-22
+389,368,A09,Gastroenteritis,0,2025-09-29
+390,368,I10,Essential hypertension,1,2025-09-29
+391,369,R50.9,"Fever, unspecified",0,2025-11-13
+392,370,A09,Gastroenteritis,0,2026-03-20
+393,371,R50.9,"Fever, unspecified",0,2026-05-26
+394,372,B54,"Malaria, unspecified",0,2025-11-07
+395,373,N39.0,Urinary tract infection,0,2026-04-10
+396,374,J18.9,"Pneumonia, unspecified",0,2026-05-16
+397,375,H10.9,Conjunctivitis,0,2025-02-21
+398,376,S00-T88,Injury (unspecified),0,2025-03-30
+399,377,J45.9,Asthma,0,2025-10-25
+400,379,L23.9,Allergic contact dermatitis,0,2025-11-15
+401,380,R50.9,"Fever, unspecified",0,2025-09-14
+402,381,J06.9,Acute upper respiratory infection,0,2025-11-09
+403,381,E11.9,Type 2 diabetes mellitus,1,2025-11-09
+404,382,N18.9,Chronic kidney disease,1,2026-01-20
+405,382,N39.0,Urinary tract infection,0,2026-01-20
+406,383,H10.9,Conjunctivitis,0,2026-05-31
+407,383,L23.9,Allergic contact dermatitis,0,2026-05-31
+408,385,J18.9,"Pneumonia, unspecified",0,2025-04-01
+409,386,H10.9,Conjunctivitis,0,2026-07-11
+410,386,M54.5,Low back pain,0,2026-07-11
+411,388,M54.5,Low back pain,0,2025-10-04
+412,389,B24,HIV disease,1,2026-05-09
+413,390,A09,Gastroenteritis,0,2026-06-13
+414,391,I10,Essential hypertension,1,2025-11-05
+415,392,H10.9,Conjunctivitis,0,2025-03-10
+416,393,B54,"Malaria, unspecified",0,2025-09-11
+417,394,M54.5,Low back pain,0,2026-02-05
+418,395,J45.9,Asthma,0,2025-07-08
+419,396,J06.9,Acute upper respiratory infection,0,2026-03-19
+420,397,E11.9,Type 2 diabetes mellitus,0,2025-06-24
+421,398,L23.9,Allergic contact dermatitis,0,2025-04-13
+422,399,M54.5,Low back pain,0,2025-04-20
+423,399,H10.9,Conjunctivitis,0,2025-04-20
+424,400,K29.7,"Gastritis, unspecified",0,2025-10-18
+425,401,F32.9,Depressive episode,0,2025-11-07
+426,401,N18.9,Chronic kidney disease,1,2025-11-07
+427,403,E11.9,Type 2 diabetes mellitus,1,2026-05-28
+428,404,J18.9,"Pneumonia, unspecified",0,2025-06-28
+429,405,J06.9,Acute upper respiratory infection,0,2025-05-24
+430,406,A15.0,Pulmonary tuberculosis,0,2026-01-21
+431,407,A09,Gastroenteritis,0,2025-11-28
+432,408,N39.0,Urinary tract infection,0,2025-06-12
+433,409,J06.9,Acute upper respiratory infection,0,2025-11-28
+434,410,L23.9,Allergic contact dermatitis,0,2026-03-07
+435,410,J18.9,"Pneumonia, unspecified",0,2026-03-07
+436,411,N18.9,Chronic kidney disease,1,2025-02-08
+437,412,F32.9,Depressive episode,0,2025-11-25
+438,413,K29.7,"Gastritis, unspecified",0,2025-07-20
+439,414,B54,"Malaria, unspecified",0,2025-07-26
+440,415,S00-T88,Injury (unspecified),0,2025-01-25
+441,416,L23.9,Allergic contact dermatitis,0,2026-01-04
+442,417,I10,Essential hypertension,1,2025-07-14
+443,418,E86,Volume depletion / dehydration,0,2026-07-27
+444,419,I10,Essential hypertension,1,2025-03-14
+445,420,L23.9,Allergic contact dermatitis,0,2025-05-01
+446,421,L23.9,Allergic contact dermatitis,0,2025-08-18
+447,422,N39.0,Urinary tract infection,0,2025-06-11
+448,423,E86,Volume depletion / dehydration,0,2026-02-13
+449,424,B24,HIV disease,1,2025-01-31
+450,425,B24,HIV disease,1,2025-12-09
+451,426,E86,Volume depletion / dehydration,0,2025-08-30
+452,427,N18.9,Chronic kidney disease,1,2025-03-14
+453,427,L23.9,Allergic contact dermatitis,0,2025-03-14
+454,428,R50.9,"Fever, unspecified",0,2025-10-05
+455,429,J45.9,Asthma,1,2025-12-25
+456,430,M54.5,Low back pain,0,2025-02-26
+457,431,E11.9,Type 2 diabetes mellitus,0,2026-07-20
+458,431,H10.9,Conjunctivitis,0,2026-07-20
+459,432,J45.9,Asthma,1,2026-03-17
+460,433,N39.0,Urinary tract infection,0,2026-01-12
+461,434,N18.9,Chronic kidney disease,0,2025-09-01
+462,435,J45.9,Asthma,0,2026-02-27
+463,437,F32.9,Depressive episode,0,2025-11-18
+464,438,A15.0,Pulmonary tuberculosis,0,2026-05-06
+465,439,H10.9,Conjunctivitis,0,2026-05-22
+466,440,A09,Gastroenteritis,0,2026-07-19
+467,441,N18.9,Chronic kidney disease,1,2026-07-09
+468,442,L23.9,Allergic contact dermatitis,0,2025-10-14
+469,443,A09,Gastroenteritis,0,2026-07-21
+470,444,A15.0,Pulmonary tuberculosis,0,2025-08-29
+471,445,S00-T88,Injury (unspecified),0,2025-02-04
+472,446,R50.9,"Fever, unspecified",0,2025-03-28
+473,446,J45.9,Asthma,1,2025-03-28
+474,447,J18.9,"Pneumonia, unspecified",0,2025-01-20
+475,449,J18.9,"Pneumonia, unspecified",0,2025-02-02
+476,450,I10,Essential hypertension,0,2025-08-10
+477,451,R50.9,"Fever, unspecified",0,2025-02-28
+478,452,M54.5,Low back pain,0,2026-06-16
+479,453,L23.9,Allergic contact dermatitis,0,2025-05-16
+480,454,N39.0,Urinary tract infection,0,2026-07-10
+481,454,B24,HIV disease,0,2026-07-10
+482,455,B24,HIV disease,1,2025-10-08
+483,456,K29.7,"Gastritis, unspecified",0,2025-11-11
+484,457,S00-T88,Injury (unspecified),0,2025-01-18
+485,457,H10.9,Conjunctivitis,0,2025-01-18
+486,458,H10.9,Conjunctivitis,0,2026-05-07
+487,459,I10,Essential hypertension,1,2026-07-19
+488,461,H10.9,Conjunctivitis,0,2025-05-31
+489,461,I10,Essential hypertension,1,2025-05-31
+490,463,L23.9,Allergic contact dermatitis,0,2025-09-23
+491,464,L23.9,Allergic contact dermatitis,0,2025-12-25
+492,464,O80,Normal delivery,0,2025-12-25
+493,465,E86,Volume depletion / dehydration,0,2026-06-08
+494,466,E86,Volume depletion / dehydration,0,2026-03-02
+495,467,J06.9,Acute upper respiratory infection,0,2025-12-01
+496,468,L23.9,Allergic contact dermatitis,0,2025-10-29
+497,469,B24,HIV disease,1,2025-06-03
+498,469,K29.7,"Gastritis, unspecified",0,2025-06-03
+499,470,J06.9,Acute upper respiratory infection,0,2026-06-08
+500,471,A09,Gastroenteritis,0,2026-01-26
+501,471,R50.9,"Fever, unspecified",0,2026-01-26
+502,472,O80,Normal delivery,0,2026-06-25
+503,473,I10,Essential hypertension,1,2025-10-03
+504,473,H10.9,Conjunctivitis,0,2025-10-03

@@ -1,0 +1,7 @@
+ward_id,name,department_id,capacity
+1,General Male Ward,5,20
+2,General Female Ward,5,20
+3,Maternity Ward,2,15
+4,Paediatric Ward,3,12
+5,High Dependency Unit,5,6
+6,Private Wing,5,8

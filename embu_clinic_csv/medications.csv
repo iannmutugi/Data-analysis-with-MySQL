@@ -1,0 +1,21 @@
+medication_id,name,generic_name,category,unit_price,unit
+1,Amoxicillin 500mg,Amoxicillin,Antibiotic,15.0,capsule
+2,Artemether/Lumefantrine,Coartem,Antimalarial,120.0,tablet
+3,Paracetamol 500mg,Paracetamol,Analgesic,5.0,tablet
+4,Ibuprofen 400mg,Ibuprofen,NSAID,8.0,tablet
+5,Metformin 500mg,Metformin,Antidiabetic,10.0,tablet
+6,Amlodipine 5mg,Amlodipine,Antihypertensive,12.0,tablet
+7,Omeprazole 20mg,Omeprazole,PPI,18.0,capsule
+8,Ciprofloxacin 500mg,Ciprofloxacin,Antibiotic,25.0,tablet
+9,ORS Sachet,Oral Rehydration Salts,Rehydration,30.0,sachet
+10,Zinc Sulphate,Zinc Sulphate,Supplement,7.0,tablet
+11,Cetirizine 10mg,Cetirizine,Antihistamine,9.0,tablet
+12,Salbutamol Inhaler,Salbutamol,Bronchodilator,350.0,inhaler
+13,Rifampicin/Isoniazid,RH Combo,Anti-TB,0.0,tablet
+14,ARV Combo (TDF/3TC/DTG),TLD,Antiretroviral,0.0,tablet
+15,Diclofenac Gel,Diclofenac,NSAID Topical,150.0,tube
+16,Folic Acid 5mg,Folic Acid,Supplement,4.0,tablet
+17,Ferrous Sulphate,Ferrous Sulphate,Supplement,6.0,tablet
+18,Hydrochlorothiazide 25mg,HCTZ,Antihypertensive,8.0,tablet
+19,Doxycycline 100mg,Doxycycline,Antibiotic,14.0,capsule
+20,Loperamide 2mg,Loperamide,Antidiarrheal,10.0,tablet

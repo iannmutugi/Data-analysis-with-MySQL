@@ -1,0 +1,21 @@
+test_id,name,category,price,turnaround_hours
+1,Malaria Rapid Test,Parasitology,300.0,1
+2,Full Haemogram (FBC),Haematology,800.0,4
+3,Random Blood Sugar,Chemistry,200.0,1
+4,Fasting Blood Sugar,Chemistry,250.0,1
+5,HIV Test (Rapid),Serology,0.0,1
+6,Urinalysis,Microbiology,300.0,2
+7,Widal Test,Serology,400.0,2
+8,Stool Analysis,Microbiology,350.0,3
+9,Liver Function Test,Chemistry,1500.0,6
+10,Renal Function Test,Chemistry,1500.0,6
+11,Blood Grouping,Haematology,300.0,1
+12,Pregnancy Test (HCG),Serology,250.0,1
+13,Sputum AFB (TB),Microbiology,500.0,24
+14,Lipid Profile,Chemistry,1800.0,6
+15,Thyroid Function Test,Chemistry,2500.0,24
+16,Hepatitis B Surface Antigen,Serology,600.0,2
+17,ESR,Haematology,400.0,2
+18,Blood Culture,Microbiology,2000.0,48
+19,Chest X-Ray,Radiology,1500.0,2
+20,Ultrasound - Obstetric,Radiology,2500.0,1

@@ -1,0 +1,474 @@
+visit_id,patient_id,staff_id,department_id,appointment_id,visit_date,visit_type,chief_complaint,notes
+1,71,33,7,2.0,2026-06-18,Scheduled,Fatigue,Reviewed patient for: immunization.
+2,79,25,5,3.0,2025-12-04,Scheduled,Cough,Reviewed patient for: chronic disease review.
+3,75,10,6,5.0,2025-03-11,Scheduled,Cough,Reviewed patient for: new complaint.
+4,141,6,4,7.0,2025-04-20,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+5,314,9,4,8.0,2025-08-26,Scheduled,Headache,Reviewed patient for: routine check-up.
+6,71,10,4,10.0,2025-08-20,Scheduled,Skin rash,Reviewed patient for: new complaint.
+7,73,32,8,17.0,2025-04-03,Scheduled,Fever,Reviewed patient for: referral.
+8,300,2,7,18.0,2026-02-28,Scheduled,Back pain,Reviewed patient for: follow-up.
+9,84,1,2,20.0,2025-04-27,Scheduled,Skin rash,Reviewed patient for: immunization.
+10,197,10,7,21.0,2026-07-18,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+11,159,29,5,23.0,2025-07-05,Scheduled,Joint pain,Reviewed patient for: routine check-up.
+12,41,5,4,26.0,2026-07-15,Scheduled,Difficulty breathing,Reviewed patient for: follow-up.
+13,83,11,3,29.0,2026-04-12,Scheduled,Routine antenatal check,Reviewed patient for: referral.
+14,310,11,7,33.0,2025-11-21,Scheduled,Back pain,Reviewed patient for: immunization.
+15,109,5,4,37.0,2025-10-16,Scheduled,Vomiting,Reviewed patient for: new complaint.
+16,10,22,6,42.0,2025-12-29,Scheduled,Abdominal pain,Reviewed patient for: referral.
+17,16,14,7,43.0,2026-07-02,Scheduled,Difficulty breathing,Reviewed patient for: immunization.
+18,60,12,6,44.0,2025-02-02,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+19,122,17,8,45.0,2025-11-06,Scheduled,Abdominal pain,Reviewed patient for: routine check-up.
+20,79,21,6,47.0,2026-05-11,Scheduled,Vomiting,Reviewed patient for: follow-up.
+21,268,1,1,49.0,2025-11-15,Scheduled,Fever,Reviewed patient for: antenatal visit.
+22,24,35,5,50.0,2025-01-24,Scheduled,Routine antenatal check,Reviewed patient for: follow-up.
+23,264,35,4,53.0,2026-07-10,Scheduled,Fatigue,Reviewed patient for: follow-up.
+24,45,25,7,56.0,2025-07-03,Scheduled,Cough,Reviewed patient for: new complaint.
+25,102,33,8,57.0,2025-05-15,Scheduled,Skin rash,Reviewed patient for: antenatal visit.
+26,34,34,2,60.0,2025-12-26,Scheduled,Diarrhea,Reviewed patient for: new complaint.
+27,281,10,8,63.0,2026-01-29,Scheduled,Vomiting,Reviewed patient for: referral.
+28,303,25,7,64.0,2025-12-17,Scheduled,Follow-up review,Reviewed patient for: chronic disease review.
+29,207,2,5,70.0,2025-03-05,Scheduled,Headache,Reviewed patient for: chronic disease review.
+30,109,15,8,73.0,2025-05-23,Scheduled,Headache,Reviewed patient for: referral.
+31,214,6,5,74.0,2025-05-09,Scheduled,Chest pain,Reviewed patient for: chronic disease review.
+32,9,6,8,75.0,2026-03-24,Scheduled,Joint pain,Reviewed patient for: chronic disease review.
+33,170,23,6,83.0,2025-10-29,Scheduled,Vomiting,Reviewed patient for: chronic disease review.
+34,143,7,3,86.0,2025-10-15,Scheduled,Diarrhea,Reviewed patient for: chronic disease review.
+35,58,15,3,87.0,2026-04-03,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+36,121,36,3,88.0,2026-06-25,Scheduled,Follow-up review,Reviewed patient for: follow-up.
+37,86,22,6,90.0,2025-02-25,Scheduled,Vomiting,Reviewed patient for: follow-up.
+38,200,34,5,92.0,2025-05-29,Scheduled,Difficulty breathing,Reviewed patient for: new complaint.
+39,182,25,5,94.0,2025-12-10,Scheduled,Skin rash,Reviewed patient for: new complaint.
+40,269,35,8,97.0,2025-12-26,Scheduled,Back pain,Reviewed patient for: follow-up.
+41,45,2,7,99.0,2025-07-09,Scheduled,Wound dressing,Reviewed patient for: new complaint.
+42,240,31,8,100.0,2025-10-11,Scheduled,Cough,Reviewed patient for: follow-up.
+43,38,9,1,101.0,2026-01-27,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+44,92,36,2,103.0,2025-05-28,Scheduled,Chest pain,Reviewed patient for: immunization.
+45,55,29,5,104.0,2025-04-16,Scheduled,Joint pain,Reviewed patient for: immunization.
+46,129,29,1,105.0,2026-05-25,Scheduled,Headache,Reviewed patient for: chronic disease review.
+47,252,34,7,107.0,2026-02-18,Scheduled,Vomiting,Reviewed patient for: antenatal visit.
+48,247,1,6,108.0,2025-12-08,Scheduled,Fatigue,Reviewed patient for: chronic disease review.
+49,91,26,7,110.0,2025-07-15,Scheduled,Abdominal pain,Reviewed patient for: chronic disease review.
+50,184,36,2,111.0,2026-03-25,Scheduled,Fever,Reviewed patient for: follow-up.
+51,24,4,3,116.0,2025-01-15,Scheduled,Vomiting,Reviewed patient for: referral.
+52,206,13,2,119.0,2026-07-13,Scheduled,Skin rash,Reviewed patient for: referral.
+53,24,15,6,120.0,2025-03-06,Scheduled,Headache,Reviewed patient for: referral.
+54,213,10,6,121.0,2026-07-21,Scheduled,Fatigue,Reviewed patient for: immunization.
+55,90,26,3,125.0,2026-05-27,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+56,277,3,8,127.0,2025-08-02,Scheduled,Follow-up review,Reviewed patient for: routine check-up.
+57,77,34,8,128.0,2025-06-30,Scheduled,Difficulty breathing,Reviewed patient for: chronic disease review.
+58,233,26,2,130.0,2025-02-23,Scheduled,Diarrhea,Reviewed patient for: referral.
+59,167,23,4,132.0,2025-11-30,Scheduled,Skin rash,Reviewed patient for: follow-up.
+60,51,4,7,133.0,2025-07-24,Scheduled,Diarrhea,Reviewed patient for: antenatal visit.
+61,139,21,6,136.0,2025-05-11,Scheduled,Headache,Reviewed patient for: follow-up.
+62,57,32,8,137.0,2026-03-05,Scheduled,Dizziness,Reviewed patient for: new complaint.
+63,268,36,4,139.0,2026-04-30,Scheduled,Back pain,Reviewed patient for: chronic disease review.
+64,278,22,2,148.0,2025-12-10,Scheduled,Back pain,Reviewed patient for: routine check-up.
+65,197,17,8,149.0,2025-02-11,Scheduled,Headache,Reviewed patient for: chronic disease review.
+66,148,30,3,161.0,2025-12-28,Scheduled,Headache,Reviewed patient for: immunization.
+67,83,11,3,162.0,2025-06-29,Scheduled,Diarrhea,Reviewed patient for: routine check-up.
+68,22,13,3,163.0,2026-03-28,Scheduled,Follow-up review,Reviewed patient for: follow-up.
+69,84,12,2,165.0,2025-01-26,Scheduled,Dizziness,Reviewed patient for: antenatal visit.
+70,246,26,3,168.0,2026-07-19,Scheduled,Fatigue,Reviewed patient for: antenatal visit.
+71,317,3,8,169.0,2026-01-01,Scheduled,Dizziness,Reviewed patient for: immunization.
+72,262,30,6,172.0,2026-02-12,Scheduled,Follow-up review,Reviewed patient for: antenatal visit.
+73,288,33,4,174.0,2026-03-31,Scheduled,Vomiting,Reviewed patient for: follow-up.
+74,218,23,3,175.0,2025-03-30,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+75,140,23,3,177.0,2026-07-24,Scheduled,Fatigue,Reviewed patient for: follow-up.
+76,238,3,1,179.0,2025-01-03,Scheduled,Cough,Reviewed patient for: chronic disease review.
+77,186,34,7,182.0,2025-09-22,Scheduled,Back pain,Reviewed patient for: immunization.
+78,295,24,5,183.0,2025-06-16,Scheduled,Skin rash,Reviewed patient for: antenatal visit.
+79,155,9,6,187.0,2025-04-09,Scheduled,Routine antenatal check,Reviewed patient for: routine check-up.
+80,71,11,6,188.0,2026-05-12,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+81,40,1,3,190.0,2025-01-18,Scheduled,Vomiting,Reviewed patient for: chronic disease review.
+82,15,1,4,192.0,2025-05-12,Scheduled,Follow-up review,Reviewed patient for: follow-up.
+83,108,2,2,193.0,2026-03-12,Scheduled,Back pain,Reviewed patient for: referral.
+84,304,30,8,195.0,2025-05-02,Scheduled,Difficulty breathing,Reviewed patient for: new complaint.
+85,15,33,3,197.0,2025-10-12,Scheduled,Back pain,Reviewed patient for: referral.
+86,145,10,1,199.0,2025-04-12,Scheduled,Headache,Reviewed patient for: chronic disease review.
+87,267,2,8,202.0,2026-01-05,Scheduled,Wound dressing,Reviewed patient for: new complaint.
+88,228,3,7,204.0,2025-10-25,Scheduled,Follow-up review,Reviewed patient for: referral.
+89,53,10,2,207.0,2026-01-08,Scheduled,Dizziness,Reviewed patient for: immunization.
+90,252,7,6,214.0,2026-07-08,Scheduled,Cough,Reviewed patient for: antenatal visit.
+91,17,15,5,216.0,2025-06-18,Scheduled,Cough,Reviewed patient for: new complaint.
+92,181,11,6,219.0,2025-03-04,Scheduled,Chest pain,Reviewed patient for: referral.
+93,183,23,6,221.0,2025-02-27,Scheduled,Fever,Reviewed patient for: chronic disease review.
+94,160,33,2,222.0,2025-11-09,Scheduled,Vomiting,Reviewed patient for: routine check-up.
+95,276,13,1,223.0,2026-04-17,Scheduled,Abdominal pain,Reviewed patient for: routine check-up.
+96,251,35,4,225.0,2025-12-11,Scheduled,Skin rash,Reviewed patient for: immunization.
+97,281,15,1,231.0,2026-06-13,Scheduled,Routine antenatal check,Reviewed patient for: chronic disease review.
+98,240,9,7,232.0,2025-03-03,Scheduled,Diarrhea,Reviewed patient for: antenatal visit.
+99,76,4,3,233.0,2025-11-04,Scheduled,Routine antenatal check,Reviewed patient for: referral.
+100,33,22,7,234.0,2025-10-01,Scheduled,Headache,Reviewed patient for: chronic disease review.
+101,308,4,7,235.0,2025-09-02,Scheduled,Chest pain,Reviewed patient for: routine check-up.
+102,19,21,3,237.0,2025-10-07,Scheduled,Routine antenatal check,Reviewed patient for: referral.
+103,143,15,1,238.0,2026-05-13,Scheduled,Follow-up review,Reviewed patient for: new complaint.
+104,302,30,8,243.0,2026-07-01,Scheduled,Headache,Reviewed patient for: immunization.
+105,189,12,1,245.0,2025-02-05,Scheduled,Back pain,Reviewed patient for: immunization.
+106,5,19,5,247.0,2025-11-05,Scheduled,Follow-up review,Reviewed patient for: follow-up.
+107,83,29,6,248.0,2026-02-21,Scheduled,Follow-up review,Reviewed patient for: referral.
+108,252,34,7,249.0,2025-12-07,Scheduled,Follow-up review,Reviewed patient for: chronic disease review.
+109,67,23,6,253.0,2026-04-08,Scheduled,Abdominal pain,Reviewed patient for: follow-up.
+110,304,13,5,254.0,2025-07-23,Scheduled,Headache,Reviewed patient for: follow-up.
+111,202,18,4,255.0,2025-01-22,Scheduled,Diarrhea,Reviewed patient for: antenatal visit.
+112,223,32,8,258.0,2025-05-02,Scheduled,Abdominal pain,Reviewed patient for: referral.
+113,137,11,8,259.0,2026-01-27,Scheduled,Routine antenatal check,Reviewed patient for: immunization.
+114,111,11,4,260.0,2026-03-05,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+115,27,14,4,264.0,2026-04-28,Scheduled,Joint pain,Reviewed patient for: new complaint.
+116,298,15,5,266.0,2025-06-23,Scheduled,Routine antenatal check,Reviewed patient for: antenatal visit.
+117,68,33,6,267.0,2026-06-28,Scheduled,Difficulty breathing,Reviewed patient for: routine check-up.
+118,78,29,1,270.0,2025-07-13,Scheduled,Headache,Reviewed patient for: follow-up.
+119,19,34,5,271.0,2025-06-17,Scheduled,Difficulty breathing,Reviewed patient for: antenatal visit.
+120,76,1,6,273.0,2025-04-06,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+121,63,19,6,276.0,2025-04-19,Scheduled,Fatigue,Reviewed patient for: routine check-up.
+122,236,34,8,277.0,2025-10-03,Scheduled,Joint pain,Reviewed patient for: chronic disease review.
+123,92,4,7,280.0,2025-04-02,Scheduled,Fatigue,Reviewed patient for: antenatal visit.
+124,238,3,3,285.0,2026-05-23,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+125,128,25,5,287.0,2025-02-18,Scheduled,Dizziness,Reviewed patient for: immunization.
+126,56,25,7,288.0,2025-04-07,Scheduled,Follow-up review,Reviewed patient for: new complaint.
+127,300,33,1,289.0,2025-04-27,Scheduled,Cough,Reviewed patient for: referral.
+128,233,29,5,291.0,2025-12-16,Scheduled,Vomiting,Reviewed patient for: routine check-up.
+129,310,7,2,292.0,2026-03-21,Scheduled,Fatigue,Reviewed patient for: antenatal visit.
+130,309,36,5,294.0,2026-01-05,Scheduled,Vomiting,Reviewed patient for: follow-up.
+131,70,5,4,295.0,2025-04-25,Scheduled,Joint pain,Reviewed patient for: follow-up.
+132,247,6,4,296.0,2026-03-23,Scheduled,Difficulty breathing,Reviewed patient for: new complaint.
+133,238,6,8,297.0,2026-03-09,Scheduled,Cough,Reviewed patient for: follow-up.
+134,228,36,8,298.0,2025-01-21,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+135,156,4,4,308.0,2026-07-25,Scheduled,Cough,Reviewed patient for: new complaint.
+136,183,10,3,309.0,2026-05-31,Scheduled,Back pain,Reviewed patient for: antenatal visit.
+137,59,3,2,310.0,2026-07-30,Scheduled,Wound dressing,Reviewed patient for: new complaint.
+138,260,36,2,314.0,2025-06-07,Scheduled,Fatigue,Reviewed patient for: routine check-up.
+139,104,29,7,315.0,2025-01-07,Scheduled,Joint pain,Reviewed patient for: new complaint.
+140,259,10,2,316.0,2025-09-30,Scheduled,Cough,Reviewed patient for: chronic disease review.
+141,265,31,2,319.0,2025-12-13,Scheduled,Joint pain,Reviewed patient for: antenatal visit.
+142,82,24,1,325.0,2026-07-07,Scheduled,Fever,Reviewed patient for: chronic disease review.
+143,217,1,1,326.0,2026-01-17,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+144,64,29,5,327.0,2025-01-06,Scheduled,Dizziness,Reviewed patient for: referral.
+145,267,4,2,329.0,2025-12-02,Scheduled,Dizziness,Reviewed patient for: antenatal visit.
+146,51,6,7,330.0,2026-02-26,Scheduled,Diarrhea,Reviewed patient for: antenatal visit.
+147,287,17,2,335.0,2026-02-23,Scheduled,Headache,Reviewed patient for: immunization.
+148,149,26,3,336.0,2025-05-01,Scheduled,Vomiting,Reviewed patient for: new complaint.
+149,151,36,1,337.0,2025-05-27,Scheduled,Headache,Reviewed patient for: new complaint.
+150,35,26,7,339.0,2026-05-08,Scheduled,Dizziness,Reviewed patient for: referral.
+151,230,6,6,341.0,2025-04-02,Scheduled,Routine antenatal check,Reviewed patient for: antenatal visit.
+152,296,30,4,344.0,2026-05-03,Scheduled,Headache,Reviewed patient for: chronic disease review.
+153,252,24,6,347.0,2026-03-24,Scheduled,Skin rash,Reviewed patient for: referral.
+154,271,13,7,348.0,2025-09-21,Scheduled,Follow-up review,Reviewed patient for: immunization.
+155,87,11,3,349.0,2025-07-07,Scheduled,Wound dressing,Reviewed patient for: new complaint.
+156,153,18,2,351.0,2025-11-24,Scheduled,Joint pain,Reviewed patient for: new complaint.
+157,209,31,8,354.0,2025-01-30,Scheduled,Dizziness,Reviewed patient for: new complaint.
+158,229,33,4,356.0,2025-05-26,Scheduled,Diarrhea,Reviewed patient for: immunization.
+159,1,30,8,358.0,2025-10-07,Scheduled,Cough,Reviewed patient for: referral.
+160,109,11,1,359.0,2025-06-15,Scheduled,Headache,Reviewed patient for: routine check-up.
+161,203,1,3,360.0,2026-07-24,Scheduled,Wound dressing,Reviewed patient for: immunization.
+162,259,13,6,361.0,2025-09-25,Scheduled,Difficulty breathing,Reviewed patient for: chronic disease review.
+163,64,32,6,366.0,2025-07-17,Scheduled,Skin rash,Reviewed patient for: chronic disease review.
+164,311,22,1,369.0,2025-07-20,Scheduled,Diarrhea,Reviewed patient for: immunization.
+165,257,36,3,370.0,2026-07-20,Scheduled,Joint pain,Reviewed patient for: immunization.
+166,66,31,3,371.0,2025-09-23,Scheduled,Back pain,Reviewed patient for: referral.
+167,12,7,8,372.0,2025-01-03,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+168,209,9,2,373.0,2026-06-15,Scheduled,Fatigue,Reviewed patient for: immunization.
+169,23,3,1,374.0,2025-10-12,Scheduled,Fatigue,Reviewed patient for: routine check-up.
+170,39,4,4,376.0,2025-06-18,Scheduled,Diarrhea,Reviewed patient for: chronic disease review.
+171,50,24,8,377.0,2026-03-19,Scheduled,Wound dressing,Reviewed patient for: follow-up.
+172,122,31,8,379.0,2025-04-08,Scheduled,Back pain,Reviewed patient for: routine check-up.
+173,155,25,2,381.0,2025-04-15,Scheduled,Routine antenatal check,Reviewed patient for: referral.
+174,228,15,4,386.0,2025-05-21,Scheduled,Fever,Reviewed patient for: new complaint.
+175,300,25,6,387.0,2025-11-15,Scheduled,Joint pain,Reviewed patient for: antenatal visit.
+176,159,14,5,388.0,2026-01-13,Scheduled,Headache,Reviewed patient for: follow-up.
+177,73,11,8,395.0,2025-07-19,Scheduled,Vomiting,Reviewed patient for: follow-up.
+178,102,11,3,396.0,2025-08-13,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+179,284,4,3,397.0,2025-07-20,Scheduled,Difficulty breathing,Reviewed patient for: routine check-up.
+180,11,2,7,398.0,2025-04-24,Scheduled,Fever,Reviewed patient for: antenatal visit.
+181,163,25,4,401.0,2025-02-17,Scheduled,Vomiting,Reviewed patient for: new complaint.
+182,127,30,5,402.0,2025-05-10,Scheduled,Follow-up review,Reviewed patient for: chronic disease review.
+183,261,17,8,404.0,2026-06-16,Scheduled,Vomiting,Reviewed patient for: chronic disease review.
+184,299,26,4,406.0,2025-08-13,Scheduled,Fatigue,Reviewed patient for: antenatal visit.
+185,112,12,7,407.0,2026-01-22,Scheduled,Difficulty breathing,Reviewed patient for: immunization.
+186,44,2,2,408.0,2025-10-30,Scheduled,Abdominal pain,Reviewed patient for: immunization.
+187,189,36,6,410.0,2025-10-07,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+188,280,33,5,412.0,2025-08-22,Scheduled,Dizziness,Reviewed patient for: new complaint.
+189,20,21,6,413.0,2025-07-21,Scheduled,Fever,Reviewed patient for: chronic disease review.
+190,141,21,3,414.0,2026-07-11,Scheduled,Follow-up review,Reviewed patient for: new complaint.
+191,108,29,8,418.0,2026-07-26,Scheduled,Vomiting,Reviewed patient for: immunization.
+192,66,12,1,419.0,2026-05-27,Scheduled,Follow-up review,Reviewed patient for: antenatal visit.
+193,218,19,5,420.0,2025-11-30,Scheduled,Abdominal pain,Reviewed patient for: follow-up.
+194,97,34,2,422.0,2025-12-03,Scheduled,Cough,Reviewed patient for: follow-up.
+195,54,15,1,423.0,2026-05-16,Scheduled,Joint pain,Reviewed patient for: routine check-up.
+196,189,5,3,425.0,2025-12-01,Scheduled,Joint pain,Reviewed patient for: routine check-up.
+197,67,23,8,426.0,2025-03-12,Scheduled,Wound dressing,Reviewed patient for: referral.
+198,94,35,7,432.0,2025-02-14,Scheduled,Diarrhea,Reviewed patient for: chronic disease review.
+199,237,18,6,436.0,2026-02-13,Scheduled,Routine antenatal check,Reviewed patient for: routine check-up.
+200,43,4,8,438.0,2025-05-24,Scheduled,Joint pain,Reviewed patient for: follow-up.
+201,10,35,3,439.0,2025-10-29,Scheduled,Back pain,Reviewed patient for: routine check-up.
+202,6,9,3,440.0,2026-03-28,Scheduled,Joint pain,Reviewed patient for: chronic disease review.
+203,158,29,1,442.0,2025-01-05,Scheduled,Joint pain,Reviewed patient for: follow-up.
+204,192,4,4,443.0,2025-04-04,Scheduled,Fever,Reviewed patient for: routine check-up.
+205,278,19,7,446.0,2025-05-04,Scheduled,Back pain,Reviewed patient for: new complaint.
+206,235,3,2,448.0,2025-10-13,Scheduled,Back pain,Reviewed patient for: follow-up.
+207,211,12,8,449.0,2025-04-15,Scheduled,Fever,Reviewed patient for: routine check-up.
+208,120,5,4,452.0,2025-01-22,Scheduled,Skin rash,Reviewed patient for: chronic disease review.
+209,213,11,1,456.0,2025-08-23,Scheduled,Skin rash,Reviewed patient for: follow-up.
+210,277,30,4,457.0,2025-08-16,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+211,105,2,2,459.0,2025-06-27,Scheduled,Fatigue,Reviewed patient for: immunization.
+212,41,25,8,460.0,2025-11-15,Scheduled,Follow-up review,Reviewed patient for: antenatal visit.
+213,91,4,5,461.0,2025-10-20,Scheduled,Wound dressing,Reviewed patient for: referral.
+214,157,32,5,465.0,2026-01-20,Scheduled,Wound dressing,Reviewed patient for: new complaint.
+215,70,34,4,466.0,2025-06-08,Scheduled,Back pain,Reviewed patient for: referral.
+216,197,36,5,468.0,2025-03-14,Scheduled,Back pain,Reviewed patient for: antenatal visit.
+217,251,17,1,470.0,2026-01-30,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+218,197,19,2,473.0,2026-06-15,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+219,204,12,1,476.0,2025-06-22,Scheduled,Abdominal pain,Reviewed patient for: routine check-up.
+220,214,23,5,477.0,2026-03-18,Scheduled,Diarrhea,Reviewed patient for: follow-up.
+221,109,15,4,479.0,2025-03-02,Scheduled,Follow-up review,Reviewed patient for: referral.
+222,210,29,2,480.0,2025-06-20,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+223,52,5,1,482.0,2025-09-30,Scheduled,Back pain,Reviewed patient for: follow-up.
+224,173,25,6,484.0,2026-01-15,Scheduled,Diarrhea,Reviewed patient for: new complaint.
+225,205,18,1,485.0,2025-12-31,Scheduled,Diarrhea,Reviewed patient for: antenatal visit.
+226,52,18,5,490.0,2025-07-19,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+227,277,4,4,492.0,2025-08-05,Scheduled,Routine antenatal check,Reviewed patient for: antenatal visit.
+228,115,31,6,495.0,2026-01-22,Scheduled,Skin rash,Reviewed patient for: follow-up.
+229,133,1,5,496.0,2025-03-31,Scheduled,Wound dressing,Reviewed patient for: chronic disease review.
+230,31,14,3,503.0,2025-08-04,Scheduled,Skin rash,Reviewed patient for: referral.
+231,250,19,5,504.0,2025-06-13,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+232,243,16,7,505.0,2026-02-05,Scheduled,Headache,Reviewed patient for: chronic disease review.
+233,235,10,3,507.0,2026-03-29,Scheduled,Abdominal pain,Reviewed patient for: follow-up.
+234,87,30,2,509.0,2025-12-31,Scheduled,Headache,Reviewed patient for: routine check-up.
+235,264,14,7,510.0,2025-06-02,Scheduled,Fever,Reviewed patient for: routine check-up.
+236,46,32,7,512.0,2025-10-09,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+237,60,33,2,513.0,2026-05-16,Scheduled,Abdominal pain,Reviewed patient for: immunization.
+238,276,15,7,516.0,2025-01-21,Scheduled,Fatigue,Reviewed patient for: immunization.
+239,300,1,4,517.0,2025-05-01,Scheduled,Abdominal pain,Reviewed patient for: immunization.
+240,45,7,1,519.0,2025-03-28,Scheduled,Follow-up review,Reviewed patient for: immunization.
+241,262,22,2,522.0,2025-02-15,Scheduled,Cough,Reviewed patient for: follow-up.
+242,154,22,3,523.0,2026-07-20,Scheduled,Skin rash,Reviewed patient for: follow-up.
+243,209,31,6,529.0,2025-04-02,Scheduled,Wound dressing,Reviewed patient for: follow-up.
+244,190,4,7,535.0,2026-04-14,Scheduled,Joint pain,Reviewed patient for: referral.
+245,240,11,5,536.0,2026-03-15,Scheduled,Chest pain,Reviewed patient for: chronic disease review.
+246,45,12,7,537.0,2025-11-17,Scheduled,Follow-up review,Reviewed patient for: chronic disease review.
+247,316,21,1,540.0,2026-03-12,Scheduled,Routine antenatal check,Reviewed patient for: chronic disease review.
+248,271,26,8,541.0,2025-06-22,Scheduled,Abdominal pain,Reviewed patient for: routine check-up.
+249,192,1,6,543.0,2025-09-13,Scheduled,Joint pain,Reviewed patient for: new complaint.
+250,248,11,5,544.0,2025-08-07,Scheduled,Fatigue,Reviewed patient for: new complaint.
+251,264,26,8,545.0,2026-05-15,Scheduled,Abdominal pain,Reviewed patient for: immunization.
+252,236,14,5,546.0,2025-12-29,Scheduled,Back pain,Reviewed patient for: chronic disease review.
+253,44,6,7,548.0,2025-05-07,Scheduled,Follow-up review,Reviewed patient for: referral.
+254,129,3,8,549.0,2026-02-09,Scheduled,Wound dressing,Reviewed patient for: antenatal visit.
+255,94,9,2,550.0,2026-03-26,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+256,223,5,6,551.0,2025-07-23,Scheduled,Fever,Reviewed patient for: routine check-up.
+257,66,13,7,554.0,2026-05-29,Scheduled,Back pain,Reviewed patient for: routine check-up.
+258,27,14,7,556.0,2025-01-09,Scheduled,Chest pain,Reviewed patient for: new complaint.
+259,249,33,7,557.0,2025-09-11,Scheduled,Skin rash,Reviewed patient for: new complaint.
+260,53,15,4,559.0,2025-06-02,Scheduled,Dizziness,Reviewed patient for: antenatal visit.
+261,27,12,2,563.0,2025-10-03,Scheduled,Dizziness,Reviewed patient for: chronic disease review.
+262,215,4,6,564.0,2025-02-18,Scheduled,Skin rash,Reviewed patient for: routine check-up.
+263,130,36,6,566.0,2025-12-09,Scheduled,Wound dressing,Reviewed patient for: chronic disease review.
+264,7,2,6,567.0,2026-01-05,Scheduled,Chest pain,Reviewed patient for: chronic disease review.
+265,309,1,1,569.0,2025-07-15,Scheduled,Fever,Reviewed patient for: routine check-up.
+266,280,14,5,570.0,2026-05-01,Scheduled,Wound dressing,Reviewed patient for: follow-up.
+267,61,25,2,572.0,2026-05-10,Scheduled,Cough,Reviewed patient for: immunization.
+268,200,19,5,575.0,2025-07-31,Scheduled,Fever,Reviewed patient for: immunization.
+269,112,5,8,576.0,2026-05-31,Scheduled,Fever,Reviewed patient for: referral.
+270,113,11,5,577.0,2026-07-20,Scheduled,Vomiting,Reviewed patient for: routine check-up.
+271,274,4,5,578.0,2025-02-10,Scheduled,Back pain,Reviewed patient for: new complaint.
+272,210,11,6,581.0,2025-02-28,Scheduled,Difficulty breathing,Reviewed patient for: chronic disease review.
+273,196,7,4,583.0,2026-03-29,Scheduled,Difficulty breathing,Reviewed patient for: follow-up.
+274,298,19,3,584.0,2026-04-02,Scheduled,Diarrhea,Reviewed patient for: follow-up.
+275,246,33,8,585.0,2025-07-05,Scheduled,Wound dressing,Reviewed patient for: follow-up.
+276,292,36,3,586.0,2025-10-16,Scheduled,Chest pain,Reviewed patient for: follow-up.
+277,202,21,2,587.0,2025-05-27,Scheduled,Routine antenatal check,Reviewed patient for: antenatal visit.
+278,57,5,1,589.0,2025-05-16,Scheduled,Joint pain,Reviewed patient for: follow-up.
+279,104,2,8,591.0,2026-07-31,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+280,64,24,1,593.0,2025-04-16,Scheduled,Cough,Reviewed patient for: immunization.
+281,172,15,7,598.0,2025-06-03,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+282,139,36,6,599.0,2025-09-29,Scheduled,Vomiting,Reviewed patient for: referral.
+283,76,13,3,600.0,2026-02-04,Scheduled,Routine antenatal check,Reviewed patient for: routine check-up.
+284,296,25,5,601.0,2025-05-29,Scheduled,Diarrhea,Reviewed patient for: follow-up.
+285,113,33,4,605.0,2026-01-06,Scheduled,Routine antenatal check,Reviewed patient for: new complaint.
+286,286,34,3,606.0,2025-04-23,Scheduled,Difficulty breathing,Reviewed patient for: referral.
+287,72,11,8,607.0,2025-05-28,Scheduled,Diarrhea,Reviewed patient for: follow-up.
+288,81,24,3,610.0,2026-01-10,Scheduled,Wound dressing,Reviewed patient for: routine check-up.
+289,154,34,7,612.0,2025-12-12,Scheduled,Chest pain,Reviewed patient for: routine check-up.
+290,80,30,1,613.0,2025-06-27,Scheduled,Abdominal pain,Reviewed patient for: antenatal visit.
+291,208,18,3,617.0,2025-02-25,Scheduled,Vomiting,Reviewed patient for: new complaint.
+292,56,35,2,618.0,2026-01-07,Scheduled,Abdominal pain,Reviewed patient for: new complaint.
+293,84,35,2,619.0,2025-08-05,Scheduled,Routine antenatal check,Reviewed patient for: immunization.
+294,134,10,6,,2025-07-28,Walk-in,Headache,Unscheduled visit.
+295,14,25,1,,2025-06-06,Walk-in,Headache,Unscheduled visit.
+296,293,18,1,,2025-05-14,Emergency,Back pain,Unscheduled visit.
+297,96,4,4,,2025-11-01,Walk-in,Chest pain,Unscheduled visit.
+298,194,7,1,,2025-10-09,Walk-in,Vomiting,Unscheduled visit.
+299,12,35,2,,2026-04-16,Walk-in,Abdominal pain,Unscheduled visit.
+300,73,11,5,,2025-07-04,Walk-in,Headache,Unscheduled visit.
+301,254,17,4,,2026-02-05,Walk-in,Fatigue,Unscheduled visit.
+302,12,23,2,,2026-05-14,Walk-in,Joint pain,Unscheduled visit.
+303,215,18,6,,2026-04-07,Walk-in,Diarrhea,Unscheduled visit.
+304,153,5,3,,2025-02-02,Walk-in,Difficulty breathing,Unscheduled visit.
+305,178,34,1,,2025-06-12,Emergency,Abdominal pain,Unscheduled visit.
+306,99,24,1,,2026-06-15,Walk-in,Joint pain,Unscheduled visit.
+307,187,1,4,,2025-01-31,Emergency,Vomiting,Unscheduled visit.
+308,113,33,3,,2025-10-02,Emergency,Fatigue,Unscheduled visit.
+309,103,33,6,,2026-07-19,Emergency,Follow-up review,Unscheduled visit.
+310,254,25,7,,2025-07-17,Emergency,Diarrhea,Unscheduled visit.
+311,102,9,7,,2025-04-16,Emergency,Diarrhea,Unscheduled visit.
+312,106,36,7,,2026-04-02,Emergency,Dizziness,Unscheduled visit.
+313,164,35,7,,2026-03-16,Walk-in,Back pain,Unscheduled visit.
+314,192,31,8,,2025-06-21,Walk-in,Dizziness,Unscheduled visit.
+315,301,23,5,,2026-06-28,Emergency,Routine antenatal check,Unscheduled visit.
+316,16,1,3,,2025-11-27,Emergency,Diarrhea,Unscheduled visit.
+317,184,4,2,,2025-08-09,Emergency,Back pain,Unscheduled visit.
+318,75,13,2,,2025-01-10,Emergency,Fever,Unscheduled visit.
+319,169,22,8,,2025-11-26,Walk-in,Headache,Unscheduled visit.
+320,198,11,4,,2026-06-24,Walk-in,Abdominal pain,Unscheduled visit.
+321,288,9,2,,2026-03-08,Emergency,Difficulty breathing,Unscheduled visit.
+322,164,21,4,,2025-02-20,Emergency,Fatigue,Unscheduled visit.
+323,24,9,7,,2025-05-03,Walk-in,Follow-up review,Unscheduled visit.
+324,88,13,7,,2025-08-31,Walk-in,Skin rash,Unscheduled visit.
+325,10,5,8,,2025-10-19,Walk-in,Routine antenatal check,Unscheduled visit.
+326,19,26,6,,2025-01-17,Walk-in,Fatigue,Unscheduled visit.
+327,49,23,5,,2025-10-09,Emergency,Back pain,Unscheduled visit.
+328,205,33,6,,2026-05-21,Walk-in,Routine antenatal check,Unscheduled visit.
+329,153,32,8,,2025-05-05,Emergency,Abdominal pain,Unscheduled visit.
+330,15,3,1,,2025-01-11,Walk-in,Abdominal pain,Unscheduled visit.
+331,166,25,4,,2025-06-24,Walk-in,Joint pain,Unscheduled visit.
+332,189,5,1,,2025-09-23,Walk-in,Abdominal pain,Unscheduled visit.
+333,25,12,2,,2025-09-28,Emergency,Routine antenatal check,Unscheduled visit.
+334,139,10,3,,2026-04-17,Walk-in,Vomiting,Unscheduled visit.
+335,164,6,7,,2026-04-03,Walk-in,Chest pain,Unscheduled visit.
+336,296,34,8,,2025-10-15,Emergency,Fatigue,Unscheduled visit.
+337,116,33,5,,2025-10-31,Walk-in,Back pain,Unscheduled visit.
+338,286,4,4,,2025-03-21,Walk-in,Fatigue,Unscheduled visit.
+339,31,22,1,,2025-08-10,Emergency,Routine antenatal check,Unscheduled visit.
+340,97,36,2,,2025-12-15,Walk-in,Difficulty breathing,Unscheduled visit.
+341,160,32,3,,2026-06-01,Walk-in,Vomiting,Unscheduled visit.
+342,113,17,7,,2026-04-09,Walk-in,Routine antenatal check,Unscheduled visit.
+343,97,31,5,,2026-03-10,Walk-in,Skin rash,Unscheduled visit.
+344,296,35,3,,2026-04-18,Walk-in,Abdominal pain,Unscheduled visit.
+345,124,24,8,,2025-07-11,Emergency,Fever,Unscheduled visit.
+346,244,29,6,,2025-09-29,Walk-in,Headache,Unscheduled visit.
+347,182,25,4,,2025-06-04,Emergency,Wound dressing,Unscheduled visit.
+348,261,14,1,,2026-03-28,Emergency,Back pain,Unscheduled visit.
+349,51,30,7,,2026-03-09,Walk-in,Skin rash,Unscheduled visit.
+350,97,19,3,,2025-10-10,Emergency,Wound dressing,Unscheduled visit.
+351,56,30,4,,2025-04-24,Walk-in,Abdominal pain,Unscheduled visit.
+352,28,26,5,,2025-09-02,Walk-in,Abdominal pain,Unscheduled visit.
+353,142,3,7,,2026-02-06,Emergency,Abdominal pain,Unscheduled visit.
+354,113,9,8,,2025-07-30,Walk-in,Joint pain,Unscheduled visit.
+355,178,11,5,,2025-01-04,Walk-in,Diarrhea,Unscheduled visit.
+356,258,34,5,,2025-09-02,Walk-in,Difficulty breathing,Unscheduled visit.
+357,36,10,3,,2025-12-07,Emergency,Vomiting,Unscheduled visit.
+358,7,34,7,,2025-12-09,Walk-in,Diarrhea,Unscheduled visit.
+359,136,31,3,,2025-01-10,Emergency,Fatigue,Unscheduled visit.
+360,299,5,8,,2025-09-11,Emergency,Abdominal pain,Unscheduled visit.
+361,24,24,5,,2025-08-22,Walk-in,Vomiting,Unscheduled visit.
+362,49,35,5,,2025-12-10,Emergency,Fatigue,Unscheduled visit.
+363,180,7,8,,2025-09-17,Emergency,Follow-up review,Unscheduled visit.
+364,7,16,5,,2025-12-08,Emergency,Abdominal pain,Unscheduled visit.
+365,139,24,3,,2026-02-25,Walk-in,Vomiting,Unscheduled visit.
+366,183,36,1,,2025-09-08,Emergency,Back pain,Unscheduled visit.
+367,106,33,4,,2026-01-22,Walk-in,Dizziness,Unscheduled visit.
+368,279,29,3,,2025-09-29,Emergency,Difficulty breathing,Unscheduled visit.
+369,201,23,5,,2025-11-13,Walk-in,Cough,Unscheduled visit.
+370,297,14,2,,2026-03-20,Emergency,Back pain,Unscheduled visit.
+371,148,1,1,,2026-05-26,Walk-in,Follow-up review,Unscheduled visit.
+372,77,11,3,,2025-11-07,Emergency,Skin rash,Unscheduled visit.
+373,34,11,1,,2026-04-10,Walk-in,Joint pain,Unscheduled visit.
+374,145,1,1,,2026-05-16,Emergency,Fever,Unscheduled visit.
+375,221,16,1,,2025-02-21,Emergency,Vomiting,Unscheduled visit.
+376,180,11,3,,2025-03-30,Emergency,Vomiting,Unscheduled visit.
+377,101,25,2,,2025-10-25,Walk-in,Cough,Unscheduled visit.
+378,243,16,4,,2026-01-31,Emergency,Routine antenatal check,Unscheduled visit.
+379,51,7,5,,2025-11-15,Walk-in,Wound dressing,Unscheduled visit.
+380,166,2,4,,2025-09-14,Walk-in,Wound dressing,Unscheduled visit.
+381,284,21,5,,2025-11-09,Walk-in,Skin rash,Unscheduled visit.
+382,291,32,3,,2026-01-20,Emergency,Abdominal pain,Unscheduled visit.
+383,71,29,6,,2026-05-31,Emergency,Follow-up review,Unscheduled visit.
+384,182,25,8,,2026-03-07,Emergency,Follow-up review,Unscheduled visit.
+385,15,24,7,,2025-04-01,Walk-in,Skin rash,Unscheduled visit.
+386,125,17,3,,2026-07-11,Emergency,Cough,Unscheduled visit.
+387,202,2,7,,2025-01-07,Emergency,Follow-up review,Unscheduled visit.
+388,28,33,1,,2025-10-04,Walk-in,Difficulty breathing,Unscheduled visit.
+389,305,35,5,,2026-05-09,Emergency,Cough,Unscheduled visit.
+390,63,30,4,,2026-06-13,Walk-in,Fatigue,Unscheduled visit.
+391,70,3,3,,2025-11-05,Emergency,Fever,Unscheduled visit.
+392,249,21,2,,2025-03-10,Walk-in,Vomiting,Unscheduled visit.
+393,310,1,2,,2025-09-11,Walk-in,Abdominal pain,Unscheduled visit.
+394,243,24,8,,2026-02-05,Walk-in,Abdominal pain,Unscheduled visit.
+395,154,19,8,,2025-07-08,Walk-in,Dizziness,Unscheduled visit.
+396,314,29,2,,2026-03-19,Walk-in,Fever,Unscheduled visit.
+397,95,6,4,,2025-06-24,Walk-in,Fatigue,Unscheduled visit.
+398,246,11,5,,2025-04-13,Emergency,Back pain,Unscheduled visit.
+399,141,19,7,,2025-04-20,Emergency,Wound dressing,Unscheduled visit.
+400,218,6,1,,2025-10-18,Emergency,Abdominal pain,Unscheduled visit.
+401,289,18,1,,2025-11-07,Walk-in,Follow-up review,Unscheduled visit.
+402,22,16,3,,2026-04-25,Emergency,Dizziness,Unscheduled visit.
+403,5,10,6,,2026-05-28,Walk-in,Back pain,Unscheduled visit.
+404,269,18,2,,2025-06-28,Walk-in,Back pain,Unscheduled visit.
+405,289,14,8,,2025-05-24,Emergency,Skin rash,Unscheduled visit.
+406,202,31,8,,2026-01-21,Emergency,Diarrhea,Unscheduled visit.
+407,295,7,3,,2025-11-28,Emergency,Routine antenatal check,Unscheduled visit.
+408,35,26,1,,2025-06-12,Walk-in,Abdominal pain,Unscheduled visit.
+409,55,36,8,,2025-11-28,Walk-in,Chest pain,Unscheduled visit.
+410,54,15,7,,2026-03-07,Walk-in,Cough,Unscheduled visit.
+411,314,7,2,,2025-02-08,Walk-in,Follow-up review,Unscheduled visit.
+412,192,24,3,,2025-11-25,Walk-in,Follow-up review,Unscheduled visit.
+413,194,2,4,,2025-07-20,Emergency,Fatigue,Unscheduled visit.
+414,225,11,4,,2025-07-26,Walk-in,Wound dressing,Unscheduled visit.
+415,271,21,2,,2025-01-25,Walk-in,Joint pain,Unscheduled visit.
+416,18,2,1,,2026-01-04,Emergency,Headache,Unscheduled visit.
+417,175,15,8,,2025-07-14,Walk-in,Fatigue,Unscheduled visit.
+418,257,16,6,,2026-07-27,Walk-in,Headache,Unscheduled visit.
+419,225,25,7,,2025-03-14,Walk-in,Vomiting,Unscheduled visit.
+420,265,12,2,,2025-05-01,Emergency,Chest pain,Unscheduled visit.
+421,27,14,1,,2025-08-18,Emergency,Dizziness,Unscheduled visit.
+422,200,16,2,,2025-06-11,Emergency,Headache,Unscheduled visit.
+423,274,4,5,,2026-02-13,Walk-in,Abdominal pain,Unscheduled visit.
+424,299,34,5,,2025-01-31,Walk-in,Difficulty breathing,Unscheduled visit.
+425,216,7,4,,2025-12-09,Walk-in,Vomiting,Unscheduled visit.
+426,105,14,1,,2025-08-30,Emergency,Headache,Unscheduled visit.
+427,289,26,6,,2025-03-14,Emergency,Headache,Unscheduled visit.
+428,283,34,3,,2025-10-05,Walk-in,Abdominal pain,Unscheduled visit.
+429,19,36,4,,2025-12-25,Emergency,Fatigue,Unscheduled visit.
+430,156,3,1,,2025-02-26,Walk-in,Joint pain,Unscheduled visit.
+431,274,18,1,,2026-07-20,Emergency,Cough,Unscheduled visit.
+432,199,18,3,,2026-03-17,Emergency,Vomiting,Unscheduled visit.
+433,60,29,2,,2026-01-12,Emergency,Joint pain,Unscheduled visit.
+434,176,25,1,,2025-09-01,Walk-in,Headache,Unscheduled visit.
+435,302,5,4,,2026-02-27,Walk-in,Fever,Unscheduled visit.
+436,128,30,2,,2025-02-28,Walk-in,Follow-up review,Unscheduled visit.
+437,93,11,1,,2025-11-18,Emergency,Chest pain,Unscheduled visit.
+438,150,2,7,,2026-05-06,Walk-in,Headache,Unscheduled visit.
+439,40,7,4,,2026-05-22,Emergency,Chest pain,Unscheduled visit.
+440,228,12,6,,2026-07-19,Emergency,Chest pain,Unscheduled visit.
+441,270,9,6,,2026-07-09,Walk-in,Cough,Unscheduled visit.
+442,178,23,8,,2025-10-14,Walk-in,Joint pain,Unscheduled visit.
+443,71,3,5,,2026-07-21,Walk-in,Abdominal pain,Unscheduled visit.
+444,191,6,1,,2025-08-29,Emergency,Follow-up review,Unscheduled visit.
+445,59,24,8,,2025-02-04,Emergency,Dizziness,Unscheduled visit.
+446,302,18,5,,2025-03-28,Walk-in,Dizziness,Unscheduled visit.
+447,313,18,8,,2025-01-20,Emergency,Routine antenatal check,Unscheduled visit.
+448,228,26,4,,2025-07-30,Emergency,Diarrhea,Unscheduled visit.
+449,221,30,5,,2025-02-02,Emergency,Fever,Unscheduled visit.
+450,312,14,5,,2025-08-10,Walk-in,Difficulty breathing,Unscheduled visit.
+451,319,25,7,,2025-02-28,Walk-in,Routine antenatal check,Unscheduled visit.
+452,148,32,7,,2026-06-16,Emergency,Diarrhea,Unscheduled visit.
+453,196,32,4,,2025-05-16,Walk-in,Dizziness,Unscheduled visit.
+454,141,33,4,,2026-07-10,Emergency,Difficulty breathing,Unscheduled visit.
+455,293,19,1,,2025-10-08,Emergency,Dizziness,Unscheduled visit.
+456,129,5,2,,2025-11-11,Emergency,Dizziness,Unscheduled visit.
+457,92,29,8,,2025-01-18,Emergency,Fever,Unscheduled visit.
+458,239,26,6,,2026-05-07,Walk-in,Wound dressing,Unscheduled visit.
+459,30,33,5,,2026-07-19,Emergency,Headache,Unscheduled visit.
+460,226,15,5,,2025-10-10,Emergency,Fatigue,Unscheduled visit.
+461,66,3,3,,2025-05-31,Walk-in,Chest pain,Unscheduled visit.
+462,59,26,3,,2026-06-03,Emergency,Difficulty breathing,Unscheduled visit.
+463,22,3,1,,2025-09-23,Emergency,Fever,Unscheduled visit.
+464,181,26,4,,2025-12-25,Walk-in,Headache,Unscheduled visit.
+465,260,29,2,,2026-06-08,Walk-in,Chest pain,Unscheduled visit.
+466,105,13,6,,2026-03-02,Walk-in,Wound dressing,Unscheduled visit.
+467,145,6,1,,2025-12-01,Emergency,Difficulty breathing,Unscheduled visit.
+468,209,17,8,,2025-10-29,Walk-in,Diarrhea,Unscheduled visit.
+469,189,26,5,,2025-06-03,Walk-in,Abdominal pain,Unscheduled visit.
+470,312,22,6,,2026-06-08,Emergency,Joint pain,Unscheduled visit.
+471,194,26,3,,2026-01-26,Walk-in,Headache,Unscheduled visit.
+472,115,23,2,,2026-06-25,Walk-in,Fatigue,Unscheduled visit.
+473,269,29,6,,2025-10-03,Walk-in,Skin rash,Unscheduled visit.

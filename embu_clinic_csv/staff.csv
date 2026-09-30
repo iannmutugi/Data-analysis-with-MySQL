@@ -1,0 +1,37 @@
+staff_id,first_name,last_name,gender,role,department_id,phone,email,hire_date,license_number
+1,Nixon,Mugambi,M,Clinical Officer,4,0723756669,nixon.mugambi1@embuclinic.ke,2020-01-03,KMPDB-28289
+2,Moses,Njoroge,M,Clinical Officer,1,0739345092,moses.njoroge2@embuclinic.ke,2015-09-02,KMPDB-22280
+3,Paul,Wangari,M,Nurse,7,0789089901,paul.wangari3@embuclinic.ke,2019-12-11,NCK-68878
+4,Alex,Wanjiru,M,Nurse,7,0730868105,alex.wanjiru4@embuclinic.ke,2022-08-19,NCK-46421
+5,Ann,Kiragu,F,Doctor,7,0756164955,ann.kiragu5@embuclinic.ke,2017-03-03,KMPDB-57052
+6,Nixon,Kariuki,M,Clinical Officer,2,0784093639,nixon.kariuki6@embuclinic.ke,2023-06-28,KMPDB-20328
+7,Winnie,Wangari,F,Nurse,2,0740587988,winnie.wangari7@embuclinic.ke,2016-01-11,NCK-96673
+8,Geoffrey,Nyaga,M,Lab Technician,2,0747308985,geoffrey.nyaga8@embuclinic.ke,2023-07-11,
+9,Joyce,Murithi,F,Nurse,6,0745833156,joyce.murithi9@embuclinic.ke,2019-09-13,NCK-97841
+10,Bernard,Wanjiru,M,Clinical Officer,4,0760929647,bernard.wanjiru10@embuclinic.ke,2018-08-31,KMPDB-70589
+11,Cyrus,Njiru,M,Nurse,1,0752339391,cyrus.njiru11@embuclinic.ke,2020-02-20,NCK-14207
+12,Samuel,Njiru,M,Nurse,4,0796282117,samuel.njiru12@embuclinic.ke,2026-03-13,NCK-61856
+13,Faith,Muriithi,F,Nurse,5,0763606628,faith.muriithi13@embuclinic.ke,2024-08-10,NCK-86484
+14,Edward,Kagwiria,M,Nurse,2,0730514014,edward.kagwiria14@embuclinic.ke,2016-01-21,NCK-24371
+15,Susan,Njeru,F,Clinical Officer,7,0772820592,susan.njeru15@embuclinic.ke,2023-07-24,KMPDB-88104
+16,Cyrus,Mutuma,M,Nurse,5,0749392920,cyrus.mutuma16@embuclinic.ke,2022-08-18,NCK-24621
+17,Mary,Kirimi,F,Nurse,3,0793926371,mary.kirimi17@embuclinic.ke,2026-05-21,NCK-23947
+18,Daniel,Murithi,M,Nurse,3,0753507489,daniel.murithi18@embuclinic.ke,2015-01-05,NCK-88504
+19,Martin,Murithi,M,Nurse,5,0742329237,martin.murithi19@embuclinic.ke,2020-05-15,NCK-17592
+20,Peter,Kagwiria,M,Pharmacist,2,0727232410,peter.kagwiria20@embuclinic.ke,2017-10-27,
+21,Francis,Karwitha,M,Clinical Officer,7,0736998038,francis.karwitha21@embuclinic.ke,2019-10-02,KMPDB-80686
+22,Consolata,Murithi,F,Clinical Officer,8,0743273328,consolata.murithi22@embuclinic.ke,2025-02-15,KMPDB-25860
+23,Mary,Nyaga,F,Nurse,4,0794705205,mary.nyaga23@embuclinic.ke,2015-02-28,NCK-19305
+24,Vincent,Muriuki,M,Doctor,6,0741944441,vincent.muriuki24@embuclinic.ke,2016-08-03,KMPDB-77391
+25,Lucy,Munyi,F,Nurse,8,0764634663,lucy.munyi25@embuclinic.ke,2020-06-13,NCK-71993
+26,Cyrus,Njoroge,M,Doctor,6,0772682989,cyrus.njoroge26@embuclinic.ke,2024-07-01,KMPDB-63883
+27,Cyrus,Kinyua,M,Pharmacist,1,0755540424,cyrus.kinyua27@embuclinic.ke,2024-01-12,
+28,Stephen,Wangari,M,Lab Technician,4,0728814949,stephen.wangari28@embuclinic.ke,2025-01-23,
+29,Emily,Muriithi,F,Nurse,2,0723141087,emily.muriithi29@embuclinic.ke,2024-12-09,NCK-82132
+30,Peter,Muriithi,M,Doctor,3,0774606833,peter.muriithi30@embuclinic.ke,2024-02-12,KMPDB-73653
+31,Sarah,Gitonga,F,Doctor,3,0762401521,sarah.gitonga31@embuclinic.ke,2023-07-02,KMPDB-10282
+32,Elizabeth,Njoroge,F,Nurse,8,0749823450,elizabeth.njoroge32@embuclinic.ke,2018-06-22,NCK-34890
+33,Moses,Gitonga,M,Doctor,6,0788406989,moses.gitonga33@embuclinic.ke,2016-04-13,KMPDB-16572
+34,John,Kawira,M,Nurse,2,0789864260,john.kawira34@embuclinic.ke,2019-03-03,NCK-18981
+35,Patrick,Mutuma,M,Doctor,4,0721003626,patrick.mutuma35@embuclinic.ke,2015-11-22,KMPDB-91183
+36,Diana,Kirimi,F,Nurse,4,0745650176,diana.kirimi36@embuclinic.ke,2022-01-17,NCK-41285

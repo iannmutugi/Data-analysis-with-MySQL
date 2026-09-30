@@ -1,0 +1,96 @@
+admission_id,patient_id,ward_id,bed_number,admitting_staff_id,admit_date,discharge_date,reason,discharge_summary
+1,318,3,3,5,2025-06-03,2025-06-04,Post-surgical recovery,Discharged in stable condition.
+2,91,4,4,33,2026-01-28,2026-02-11,Severe malnutrition,Discharged in stable condition.
+3,269,4,5,35,2025-03-03,2025-03-17,Hypertensive crisis,Discharged in stable condition.
+4,4,3,17,31,2026-01-05,2026-01-07,Road traffic accident injury,Discharged in stable condition.
+5,179,4,18,35,2025-06-16,,Diabetic ketoacidosis,
+6,214,1,15,31,2025-11-29,2025-12-13,Hypertensive crisis,Discharged in stable condition.
+7,144,3,11,31,2025-06-21,2025-06-23,Post-surgical recovery,Discharged in stable condition.
+8,144,5,12,35,2025-12-14,2025-12-28,Post-surgical recovery,Discharged in stable condition.
+9,315,3,20,5,2025-07-02,2025-07-12,Normal delivery,Discharged in stable condition.
+10,220,3,1,5,2025-01-27,,Malaria complications,
+11,80,3,8,5,2026-01-17,2026-01-19,Pneumonia,Discharged in stable condition.
+12,68,6,3,24,2025-04-29,2025-05-03,Malaria complications,Discharged in stable condition.
+13,166,3,14,31,2026-05-08,2026-05-09,Observation,Discharged in stable condition.
+14,94,6,17,31,2025-04-13,2025-04-16,Severe malnutrition,Discharged in stable condition.
+15,197,4,8,30,2026-05-18,2026-05-20,Hypertensive crisis,Discharged in stable condition.
+16,226,6,1,24,2025-10-27,2025-11-01,Post-surgical recovery,Discharged in stable condition.
+17,264,6,3,31,2025-06-21,2025-06-25,Pneumonia,Discharged in stable condition.
+18,89,6,7,35,2026-07-11,2026-07-12,Normal delivery,Discharged in stable condition.
+19,65,2,20,5,2025-05-27,2025-05-28,Malaria complications,Discharged in stable condition.
+20,194,6,14,26,2025-01-09,2025-01-10,Hypertensive crisis,Discharged in stable condition.
+21,82,2,18,24,2026-07-21,2026-07-28,Hypertensive crisis,Discharged in stable condition.
+22,207,5,6,26,2025-03-31,2025-04-07,Hypertensive crisis,Discharged in stable condition.
+23,238,3,9,30,2025-09-24,2025-09-28,C-section delivery,Discharged in stable condition.
+24,195,2,3,31,2025-02-03,2025-02-07,Typhoid fever,Discharged in stable condition.
+25,233,4,13,5,2026-07-22,2026-07-24,Road traffic accident injury,Discharged in stable condition.
+26,94,6,6,5,2026-03-27,2026-03-28,Hypertensive crisis,Discharged in stable condition.
+27,111,2,19,24,2026-03-30,,Malaria complications,
+28,167,2,19,31,2025-06-26,2025-06-28,Pneumonia,Discharged in stable condition.
+29,211,2,19,5,2025-04-14,2025-04-19,Typhoid fever,Discharged in stable condition.
+30,156,2,6,26,2026-07-21,2026-07-31,Typhoid fever,Discharged in stable condition.
+31,187,6,18,24,2025-09-08,2025-09-22,Post-surgical recovery,Discharged in stable condition.
+32,285,3,15,33,2025-10-01,2025-10-06,Observation,Discharged in stable condition.
+33,253,2,1,31,2025-06-15,2025-06-20,Post-surgical recovery,Discharged in stable condition.
+34,134,3,4,24,2026-05-26,2026-06-09,Hypertensive crisis,Discharged in stable condition.
+35,310,5,6,30,2026-03-26,2026-03-27,Normal delivery,Discharged in stable condition.
+36,83,1,20,30,2025-12-06,2025-12-08,Road traffic accident injury,Discharged in stable condition.
+37,255,6,11,24,2025-04-26,2025-04-28,Severe malnutrition,Discharged in stable condition.
+38,286,5,4,24,2025-09-06,2025-09-08,Post-surgical recovery,Discharged in stable condition.
+39,204,6,2,5,2025-02-25,2025-03-07,Severe dehydration,Discharged in stable condition.
+40,284,4,19,30,2026-04-22,2026-05-02,Post-surgical recovery,Discharged in stable condition.
+41,108,6,8,33,2026-01-17,2026-01-27,Road traffic accident injury,Discharged in stable condition.
+42,202,1,10,24,2025-02-11,2025-02-13,Diabetic ketoacidosis,Discharged in stable condition.
+43,42,5,12,35,2025-11-25,2025-11-26,C-section delivery,Discharged in stable condition.
+44,108,6,19,24,2025-04-06,2025-04-07,Observation,Discharged in stable condition.
+45,301,6,7,30,2025-12-23,2025-12-24,Severe dehydration,Discharged in stable condition.
+46,262,2,1,31,2025-02-28,2025-03-14,Diabetic ketoacidosis,Discharged in stable condition.
+47,241,1,20,5,2025-08-04,2025-08-18,C-section delivery,Discharged in stable condition.
+48,204,1,6,5,2025-06-04,2025-06-06,Typhoid fever,Discharged in stable condition.
+49,236,4,20,35,2026-04-23,2026-04-25,Observation,Discharged in stable condition.
+50,46,1,5,24,2025-04-26,2025-05-01,Malaria complications,Discharged in stable condition.
+51,62,5,11,33,2025-02-02,2025-02-09,Observation,Discharged in stable condition.
+52,271,4,7,5,2025-09-12,,Severe dehydration,
+53,293,2,18,5,2026-03-18,2026-03-23,Typhoid fever,Discharged in stable condition.
+54,92,4,10,24,2025-11-05,2025-11-15,Normal delivery,Discharged in stable condition.
+55,47,3,17,24,2025-01-24,2025-02-03,Post-surgical recovery,Discharged in stable condition.
+56,5,5,10,30,2025-12-01,2025-12-03,C-section delivery,Discharged in stable condition.
+57,9,5,12,33,2025-07-18,,Diabetic ketoacidosis,
+58,34,6,19,31,2025-01-02,2025-01-04,Post-surgical recovery,Discharged in stable condition.
+59,66,6,8,30,2026-05-24,2026-05-25,Normal delivery,Discharged in stable condition.
+60,73,3,18,26,2025-07-15,,Road traffic accident injury,
+61,188,4,1,26,2025-11-11,2025-11-13,Normal delivery,Discharged in stable condition.
+62,80,1,14,5,2025-05-25,,Post-surgical recovery,
+63,315,2,9,5,2026-05-06,2026-05-08,C-section delivery,Discharged in stable condition.
+64,307,5,3,30,2025-03-04,2025-03-11,Diabetic ketoacidosis,Discharged in stable condition.
+65,303,1,10,31,2026-02-27,2026-03-01,Typhoid fever,Discharged in stable condition.
+66,55,3,6,35,2025-11-24,,Typhoid fever,
+67,4,2,4,5,2025-10-20,2025-10-21,Severe malnutrition,Discharged in stable condition.
+68,186,4,15,26,2026-05-24,2026-06-07,Diabetic ketoacidosis,Discharged in stable condition.
+69,158,5,12,26,2025-03-08,2025-03-12,Severe dehydration,Discharged in stable condition.
+70,218,2,4,24,2025-09-10,2025-09-13,Severe dehydration,Discharged in stable condition.
+71,237,4,2,35,2025-01-03,2025-01-04,Normal delivery,Discharged in stable condition.
+72,264,1,14,31,2025-02-09,2025-02-11,Pneumonia,Discharged in stable condition.
+73,52,4,3,30,2026-02-13,2026-02-16,C-section delivery,Discharged in stable condition.
+74,217,5,4,35,2025-02-13,2025-02-23,Observation,Discharged in stable condition.
+75,188,4,4,26,2025-04-20,2025-04-22,Observation,Discharged in stable condition.
+76,32,4,14,30,2025-03-28,2025-03-30,Normal delivery,Discharged in stable condition.
+77,127,1,2,35,2026-04-19,2026-04-21,Severe dehydration,Discharged in stable condition.
+78,185,5,13,24,2025-10-10,2025-10-17,Normal delivery,Discharged in stable condition.
+79,101,1,12,31,2025-01-18,2025-02-01,Road traffic accident injury,Discharged in stable condition.
+80,182,4,16,5,2026-03-13,2026-03-18,Pneumonia,Discharged in stable condition.
+81,62,5,7,31,2025-01-06,2025-01-10,Diabetic ketoacidosis,Discharged in stable condition.
+82,81,4,14,35,2025-09-18,2025-09-23,C-section delivery,Discharged in stable condition.
+83,41,3,5,33,2025-03-07,2025-03-17,Hypertensive crisis,Discharged in stable condition.
+84,10,1,14,5,2025-02-28,2025-03-03,Severe dehydration,Discharged in stable condition.
+85,170,6,2,30,2025-01-26,2025-01-27,Severe malnutrition,Discharged in stable condition.
+86,249,6,2,5,2026-04-24,2026-04-25,Observation,Discharged in stable condition.
+87,135,5,18,5,2025-08-30,2025-09-09,Observation,Discharged in stable condition.
+88,289,6,8,33,2025-10-04,2025-10-18,Observation,Discharged in stable condition.
+89,34,3,20,31,2025-06-26,2025-06-27,Malaria complications,Discharged in stable condition.
+90,302,3,17,30,2026-05-24,2026-05-29,Typhoid fever,Discharged in stable condition.
+91,115,6,15,33,2025-03-08,2025-03-10,Normal delivery,Discharged in stable condition.
+92,213,4,13,5,2025-10-27,2025-10-28,C-section delivery,Discharged in stable condition.
+93,111,4,19,26,2025-10-21,2025-10-22,Pneumonia,Discharged in stable condition.
+94,120,2,17,33,2025-11-27,2025-12-02,Severe malnutrition,Discharged in stable condition.
+95,305,3,1,5,2025-04-27,2025-05-11,Observation,Discharged in stable condition.

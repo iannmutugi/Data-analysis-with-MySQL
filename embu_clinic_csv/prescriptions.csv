@@ -1,0 +1,563 @@
+prescription_id,visit_id,medication_id,dosage,frequency,duration_days,quantity,prescribed_date
+1,1,6,2 tablets,Three times daily,10,30,2026-06-18
+2,1,5,1 tablet,Twice daily,7,7,2026-06-18
+3,2,15,1 puff,As needed,5,15,2025-12-04
+4,3,6,1 tablet,Three times daily,10,30,2025-03-11
+5,3,6,1 tablet,Once daily,5,10,2025-03-11
+6,3,2,1 capsule,As needed,30,90,2025-03-11
+7,4,3,1 puff,Once daily,10,20,2025-04-20
+8,4,20,1 tablet,As needed,30,90,2025-04-20
+9,5,2,1 tablet,Three times daily,7,14,2025-08-26
+10,6,17,1 capsule,As needed,30,90,2025-08-20
+11,7,4,1 puff,Once daily,5,10,2025-04-03
+12,7,6,5ml,Twice daily,7,14,2025-04-03
+13,8,16,1 tablet,Three times daily,5,10,2026-02-28
+14,8,3,1 capsule,Twice daily,10,30,2026-02-28
+15,8,9,1 capsule,Three times daily,7,14,2026-02-28
+16,9,9,1 puff,Once daily,14,28,2025-04-27
+17,9,5,5ml,Once daily,5,15,2025-04-27
+18,10,12,5ml,Three times daily,14,28,2026-07-18
+19,11,6,5ml,As needed,14,42,2025-07-05
+20,11,15,2 tablets,Twice daily,30,60,2025-07-05
+21,11,5,1 capsule,Three times daily,14,28,2025-07-05
+22,12,1,5ml,Twice daily,5,15,2026-07-15
+23,12,19,5ml,As needed,3,6,2026-07-15
+24,13,6,2 tablets,Three times daily,7,21,2026-04-12
+25,15,16,1 puff,As needed,30,30,2025-10-16
+26,17,1,5ml,Twice daily,30,30,2026-07-02
+27,17,10,2 tablets,Three times daily,5,5,2026-07-02
+28,18,4,5ml,As needed,30,30,2025-02-02
+29,18,15,1 tablet,Twice daily,14,42,2025-02-02
+30,19,12,1 capsule,Once daily,30,30,2025-11-06
+31,19,11,5ml,Once daily,14,14,2025-11-06
+32,20,2,1 puff,Twice daily,10,30,2026-05-11
+33,20,8,2 tablets,Twice daily,7,21,2026-05-11
+34,20,8,1 capsule,Twice daily,30,90,2026-05-11
+35,23,3,1 tablet,Twice daily,30,30,2026-07-10
+36,26,19,1 capsule,Once daily,14,28,2025-12-26
+37,27,2,1 tablet,Twice daily,7,21,2026-01-29
+38,28,15,2 tablets,Once daily,3,6,2025-12-17
+39,29,7,5ml,Once daily,14,28,2025-03-05
+40,30,4,2 tablets,As needed,30,60,2025-05-23
+41,31,9,5ml,As needed,10,30,2025-05-09
+42,32,11,1 puff,Three times daily,14,28,2026-03-24
+43,32,10,2 tablets,Three times daily,7,21,2026-03-24
+44,33,18,1 capsule,Once daily,14,28,2025-10-29
+45,34,6,5ml,As needed,10,10,2025-10-15
+46,34,16,1 tablet,As needed,5,5,2025-10-15
+47,34,10,5ml,Twice daily,3,6,2025-10-15
+48,38,10,1 capsule,Once daily,7,21,2025-05-29
+49,39,20,2 tablets,Three times daily,5,15,2025-12-10
+50,39,6,2 tablets,Twice daily,5,10,2025-12-10
+51,40,6,1 capsule,As needed,7,21,2025-12-26
+52,40,9,1 capsule,Three times daily,5,10,2025-12-26
+53,41,10,5ml,Three times daily,7,21,2025-07-09
+54,42,14,1 capsule,Once daily,14,28,2025-10-11
+55,43,13,5ml,Twice daily,3,6,2026-01-27
+56,43,15,2 tablets,Twice daily,7,7,2026-01-27
+57,44,9,1 tablet,Three times daily,7,14,2025-05-28
+58,44,14,1 puff,Twice daily,10,20,2025-05-28
+59,45,20,5ml,Once daily,14,28,2025-04-16
+60,45,3,5ml,As needed,5,5,2025-04-16
+61,46,19,1 capsule,As needed,10,10,2026-05-25
+62,46,8,1 puff,As needed,7,21,2026-05-25
+63,46,2,5ml,Three times daily,3,3,2026-05-25
+64,47,15,1 capsule,Twice daily,7,7,2026-02-18
+65,48,3,1 capsule,Twice daily,7,21,2025-12-08
+66,48,5,1 puff,Twice daily,14,28,2025-12-08
+67,49,15,1 puff,Three times daily,5,10,2025-07-15
+68,50,10,2 tablets,Once daily,30,30,2026-03-25
+69,51,11,2 tablets,Twice daily,7,14,2025-01-15
+70,51,11,1 capsule,Three times daily,10,10,2025-01-15
+71,52,9,1 tablet,Twice daily,7,21,2026-07-13
+72,54,13,1 puff,Once daily,10,10,2026-07-21
+73,55,17,1 puff,As needed,7,7,2026-05-27
+74,55,2,1 puff,As needed,14,28,2026-05-27
+75,55,10,1 tablet,Once daily,14,28,2026-05-27
+76,56,18,2 tablets,Once daily,3,9,2025-08-02
+77,57,15,2 tablets,Once daily,14,42,2025-06-30
+78,58,14,1 capsule,Twice daily,7,14,2025-02-23
+79,58,11,1 puff,Three times daily,3,3,2025-02-23
+80,59,14,1 puff,Three times daily,3,6,2025-11-30
+81,61,1,5ml,As needed,3,3,2025-05-11
+82,61,5,1 puff,Three times daily,7,7,2025-05-11
+83,62,7,1 puff,Twice daily,14,28,2026-03-05
+84,65,4,1 puff,Once daily,3,9,2025-02-11
+85,66,18,5ml,Three times daily,7,7,2025-12-28
+86,66,8,2 tablets,Three times daily,30,30,2025-12-28
+87,68,8,1 tablet,Twice daily,5,10,2026-03-28
+88,68,15,1 tablet,As needed,3,6,2026-03-28
+89,68,7,1 capsule,As needed,10,10,2026-03-28
+90,69,7,1 tablet,Once daily,10,30,2025-01-26
+91,70,17,1 puff,Once daily,14,42,2026-07-19
+92,70,6,1 capsule,Three times daily,5,5,2026-07-19
+93,70,11,2 tablets,Once daily,10,10,2026-07-19
+94,71,12,1 puff,Once daily,10,20,2026-01-01
+95,71,15,1 capsule,As needed,3,3,2026-01-01
+96,72,4,5ml,Once daily,7,14,2026-02-12
+97,73,10,1 tablet,As needed,5,15,2026-03-31
+98,74,1,5ml,Once daily,7,21,2025-03-30
+99,74,5,1 puff,Once daily,5,5,2025-03-30
+100,77,2,2 tablets,Three times daily,3,9,2025-09-22
+101,77,12,2 tablets,As needed,14,28,2025-09-22
+102,79,5,2 tablets,Three times daily,30,90,2025-04-09
+103,79,4,1 capsule,Twice daily,5,5,2025-04-09
+104,79,10,5ml,Three times daily,10,30,2025-04-09
+105,80,1,1 tablet,As needed,3,6,2026-05-12
+106,80,2,1 capsule,Once daily,30,30,2026-05-12
+107,81,20,2 tablets,Twice daily,30,90,2025-01-18
+108,83,8,1 tablet,Once daily,3,6,2026-03-12
+109,84,15,1 capsule,Twice daily,10,30,2025-05-02
+110,85,1,1 capsule,Three times daily,7,14,2025-10-12
+111,85,5,1 puff,Three times daily,7,21,2025-10-12
+112,86,4,1 puff,Twice daily,10,20,2025-04-12
+113,86,5,2 tablets,Twice daily,5,15,2025-04-12
+114,86,8,1 tablet,As needed,30,30,2025-04-12
+115,87,20,2 tablets,Three times daily,3,3,2026-01-05
+116,89,11,1 puff,Three times daily,30,60,2026-01-08
+117,89,5,5ml,Twice daily,7,14,2026-01-08
+118,90,2,1 tablet,Twice daily,30,60,2026-07-08
+119,91,1,1 tablet,Twice daily,5,15,2025-06-18
+120,91,6,1 tablet,As needed,10,20,2025-06-18
+121,91,16,1 puff,As needed,7,7,2025-06-18
+122,92,7,5ml,As needed,10,30,2025-03-04
+123,94,17,2 tablets,Three times daily,7,14,2025-11-09
+124,95,16,1 tablet,Three times daily,14,28,2026-04-17
+125,96,9,1 capsule,Once daily,3,6,2025-12-11
+126,96,18,2 tablets,As needed,5,5,2025-12-11
+127,97,4,5ml,Twice daily,14,42,2026-06-13
+128,98,10,1 puff,Once daily,10,20,2025-03-03
+129,99,17,1 puff,Twice daily,5,10,2025-11-04
+130,99,5,1 tablet,Twice daily,30,30,2025-11-04
+131,99,12,2 tablets,Once daily,14,42,2025-11-04
+132,100,12,1 puff,Twice daily,14,14,2025-10-01
+133,100,12,2 tablets,Twice daily,5,5,2025-10-01
+134,101,5,1 capsule,Twice daily,14,42,2025-09-02
+135,102,13,1 puff,As needed,7,14,2025-10-07
+136,103,15,5ml,Once daily,7,7,2026-05-13
+137,103,3,1 puff,Three times daily,7,21,2026-05-13
+138,104,20,1 tablet,As needed,14,14,2026-07-01
+139,106,6,2 tablets,As needed,5,10,2025-11-05
+140,107,7,1 tablet,Twice daily,5,10,2026-02-21
+141,108,9,1 tablet,Twice daily,5,10,2025-12-07
+142,108,7,5ml,Three times daily,10,10,2025-12-07
+143,108,1,1 puff,Three times daily,30,30,2025-12-07
+144,110,20,1 capsule,Three times daily,10,10,2025-07-23
+145,110,4,1 puff,As needed,14,42,2025-07-23
+146,112,11,1 capsule,Three times daily,7,7,2025-05-02
+147,112,4,1 capsule,Twice daily,30,60,2025-05-02
+148,113,16,1 puff,Once daily,7,7,2026-01-27
+149,113,3,1 puff,Three times daily,30,90,2026-01-27
+150,114,16,1 capsule,Once daily,30,60,2026-03-05
+151,115,9,5ml,Three times daily,30,90,2026-04-28
+152,115,17,5ml,Three times daily,7,14,2026-04-28
+153,118,8,2 tablets,As needed,14,28,2025-07-13
+154,118,9,1 capsule,As needed,3,9,2025-07-13
+155,119,13,1 tablet,Once daily,3,9,2025-06-17
+156,119,19,2 tablets,Three times daily,3,3,2025-06-17
+157,120,20,1 tablet,Three times daily,10,20,2025-04-06
+158,121,15,1 puff,Once daily,10,30,2025-04-19
+159,121,13,1 capsule,Once daily,30,90,2025-04-19
+160,122,6,5ml,Once daily,3,9,2025-10-03
+161,123,14,1 capsule,Three times daily,3,9,2025-04-02
+162,125,12,1 capsule,Once daily,5,10,2025-02-18
+163,125,11,5ml,Twice daily,10,30,2025-02-18
+164,126,18,1 capsule,Three times daily,30,60,2025-04-07
+165,127,6,5ml,Three times daily,10,10,2025-04-27
+166,127,20,2 tablets,Three times daily,14,42,2025-04-27
+167,128,4,1 capsule,Three times daily,30,30,2025-12-16
+168,128,20,2 tablets,As needed,10,30,2025-12-16
+169,129,16,1 capsule,Three times daily,7,14,2026-03-21
+170,130,6,1 tablet,Twice daily,7,7,2026-01-05
+171,130,19,1 puff,Three times daily,7,21,2026-01-05
+172,131,18,1 puff,Once daily,5,10,2025-04-25
+173,131,7,1 puff,As needed,3,3,2025-04-25
+174,132,5,1 puff,Three times daily,30,60,2026-03-23
+175,133,13,5ml,Once daily,3,9,2026-03-09
+176,135,2,2 tablets,Three times daily,5,15,2026-07-25
+177,138,8,1 capsule,Twice daily,5,5,2025-06-07
+178,138,5,2 tablets,Once daily,3,6,2025-06-07
+179,139,16,1 puff,Twice daily,10,20,2025-01-07
+180,139,14,1 puff,As needed,5,15,2025-01-07
+181,140,13,5ml,Three times daily,30,60,2025-09-30
+182,140,14,2 tablets,Three times daily,7,14,2025-09-30
+183,144,8,2 tablets,Once daily,14,42,2025-01-06
+184,145,17,1 puff,Three times daily,30,60,2025-12-02
+185,145,4,5ml,Twice daily,14,14,2025-12-02
+186,145,15,1 tablet,As needed,7,21,2025-12-02
+187,146,16,1 tablet,Twice daily,14,28,2026-02-26
+188,146,1,1 puff,Once daily,14,28,2026-02-26
+189,147,16,1 tablet,Three times daily,30,30,2026-02-23
+190,147,3,1 puff,Three times daily,30,60,2026-02-23
+191,148,1,1 capsule,As needed,30,90,2025-05-01
+192,149,5,1 capsule,Three times daily,10,10,2025-05-27
+193,149,18,5ml,Three times daily,30,90,2025-05-27
+194,151,17,1 puff,Three times daily,10,10,2025-04-02
+195,151,1,5ml,Once daily,14,14,2025-04-02
+196,152,3,1 puff,As needed,14,14,2026-05-03
+197,152,6,2 tablets,Twice daily,30,30,2026-05-03
+198,153,1,1 tablet,Three times daily,30,60,2026-03-24
+199,153,3,1 puff,As needed,3,6,2026-03-24
+200,154,13,2 tablets,Three times daily,30,60,2025-09-21
+201,154,6,5ml,Twice daily,3,6,2025-09-21
+202,155,9,2 tablets,Three times daily,10,10,2025-07-07
+203,156,8,1 tablet,Three times daily,7,21,2025-11-24
+204,157,4,1 tablet,Once daily,14,28,2025-01-30
+205,158,2,1 tablet,Twice daily,30,60,2025-05-26
+206,158,1,1 tablet,Three times daily,14,14,2025-05-26
+207,158,13,1 puff,Three times daily,7,7,2025-05-26
+208,159,6,1 puff,As needed,5,15,2025-10-07
+209,159,6,5ml,Once daily,14,14,2025-10-07
+210,160,5,1 puff,Twice daily,14,28,2025-06-15
+211,160,15,1 puff,Twice daily,30,30,2025-06-15
+212,161,15,1 tablet,Once daily,3,9,2026-07-24
+213,161,10,5ml,Twice daily,7,7,2026-07-24
+214,162,6,2 tablets,Twice daily,3,6,2025-09-25
+215,163,11,1 puff,As needed,10,30,2025-07-17
+216,164,4,1 tablet,Three times daily,30,90,2025-07-20
+217,164,8,2 tablets,As needed,7,7,2025-07-20
+218,167,16,1 puff,Once daily,30,90,2025-01-03
+219,168,3,5ml,As needed,30,90,2026-06-15
+220,168,18,5ml,Three times daily,30,30,2026-06-15
+221,170,10,1 capsule,As needed,30,60,2025-06-18
+222,170,13,1 tablet,As needed,3,6,2025-06-18
+223,173,10,1 tablet,Once daily,10,20,2025-04-15
+224,173,7,1 puff,Twice daily,3,6,2025-04-15
+225,174,2,1 tablet,Three times daily,14,14,2025-05-21
+226,174,13,1 puff,Once daily,5,10,2025-05-21
+227,175,14,1 puff,Twice daily,30,90,2025-11-15
+228,175,17,1 tablet,Twice daily,7,21,2025-11-15
+229,177,8,1 tablet,Twice daily,30,60,2025-07-19
+230,177,16,1 puff,Once daily,5,15,2025-07-19
+231,177,2,1 tablet,Three times daily,10,10,2025-07-19
+232,179,11,2 tablets,Three times daily,5,10,2025-07-20
+233,180,13,2 tablets,Twice daily,3,3,2025-04-24
+234,180,20,1 capsule,Three times daily,30,60,2025-04-24
+235,180,7,5ml,As needed,30,90,2025-04-24
+236,181,14,5ml,Twice daily,10,20,2025-02-17
+237,181,16,1 tablet,As needed,7,21,2025-02-17
+238,183,5,2 tablets,Once daily,30,90,2026-06-16
+239,183,4,1 capsule,Once daily,3,3,2026-06-16
+240,185,9,1 capsule,Three times daily,30,90,2026-01-22
+241,186,10,1 tablet,Once daily,14,28,2025-10-30
+242,187,7,1 capsule,Twice daily,3,9,2025-10-07
+243,189,16,1 tablet,Twice daily,10,10,2025-07-21
+244,191,3,2 tablets,As needed,30,30,2026-07-26
+245,192,15,1 capsule,Once daily,30,30,2026-05-27
+246,192,17,5ml,Once daily,5,5,2026-05-27
+247,193,5,2 tablets,Three times daily,7,14,2025-11-30
+248,194,2,2 tablets,Three times daily,10,20,2025-12-03
+249,195,8,2 tablets,Three times daily,5,15,2026-05-16
+250,196,15,1 tablet,Twice daily,3,6,2025-12-01
+251,196,20,1 puff,Twice daily,14,28,2025-12-01
+252,198,2,1 tablet,As needed,3,9,2025-02-14
+253,198,17,1 puff,Twice daily,14,14,2025-02-14
+254,198,11,2 tablets,Once daily,7,7,2025-02-14
+255,199,1,1 puff,Once daily,10,10,2026-02-13
+256,199,13,2 tablets,Once daily,14,14,2026-02-13
+257,202,16,1 capsule,Three times daily,14,42,2026-03-28
+258,202,20,2 tablets,As needed,10,20,2026-03-28
+259,203,12,1 capsule,Twice daily,30,60,2025-01-05
+260,203,15,2 tablets,Twice daily,14,28,2025-01-05
+261,204,6,2 tablets,Three times daily,10,20,2025-04-04
+262,205,14,1 tablet,As needed,7,7,2025-05-04
+263,206,18,2 tablets,Three times daily,5,10,2025-10-13
+264,207,13,1 capsule,As needed,10,20,2025-04-15
+265,208,13,5ml,Three times daily,10,20,2025-01-22
+266,209,5,2 tablets,Twice daily,30,90,2025-08-23
+267,209,7,1 puff,Twice daily,30,30,2025-08-23
+268,210,20,1 puff,As needed,7,14,2025-08-16
+269,210,12,2 tablets,As needed,30,60,2025-08-16
+270,210,5,1 puff,As needed,10,10,2025-08-16
+271,211,20,2 tablets,Twice daily,10,10,2025-06-27
+272,212,6,1 puff,As needed,30,60,2025-11-15
+273,214,7,2 tablets,Three times daily,10,30,2026-01-20
+274,215,19,1 capsule,Twice daily,5,15,2025-06-08
+275,215,5,1 capsule,Twice daily,10,20,2025-06-08
+276,215,5,1 puff,Once daily,10,20,2025-06-08
+277,216,3,1 tablet,Once daily,3,3,2025-03-14
+278,216,11,5ml,Twice daily,3,6,2025-03-14
+279,217,7,5ml,Three times daily,7,7,2026-01-30
+280,217,19,5ml,Twice daily,10,20,2026-01-30
+281,218,4,2 tablets,Twice daily,14,14,2026-06-15
+282,219,18,2 tablets,As needed,14,28,2025-06-22
+283,220,9,1 tablet,Twice daily,30,30,2026-03-18
+284,220,15,2 tablets,As needed,3,3,2026-03-18
+285,221,16,1 puff,Three times daily,5,5,2025-03-02
+286,222,19,1 capsule,Once daily,14,14,2025-06-20
+287,222,16,5ml,Three times daily,30,90,2025-06-20
+288,222,3,2 tablets,Twice daily,7,7,2025-06-20
+289,224,5,2 tablets,Three times daily,3,9,2026-01-15
+290,224,10,5ml,As needed,30,30,2026-01-15
+291,226,14,5ml,Twice daily,5,10,2025-07-19
+292,227,17,5ml,Twice daily,3,6,2025-08-05
+293,229,10,1 capsule,Three times daily,7,14,2025-03-31
+294,231,15,5ml,Once daily,30,30,2025-06-13
+295,231,5,1 puff,Once daily,14,14,2025-06-13
+296,232,7,1 capsule,Once daily,10,20,2026-02-05
+297,233,9,5ml,Three times daily,30,60,2026-03-29
+298,233,17,5ml,Twice daily,10,20,2026-03-29
+299,234,9,1 capsule,Three times daily,14,14,2025-12-31
+300,234,9,1 tablet,Three times daily,3,6,2025-12-31
+301,234,17,2 tablets,Once daily,3,3,2025-12-31
+302,235,6,2 tablets,Twice daily,7,7,2025-06-02
+303,236,3,1 tablet,Three times daily,3,9,2025-10-09
+304,236,20,1 puff,As needed,3,3,2025-10-09
+305,237,11,1 puff,Once daily,30,30,2026-05-16
+306,237,2,2 tablets,Once daily,30,30,2026-05-16
+307,239,3,2 tablets,Twice daily,3,6,2025-05-01
+308,239,2,1 capsule,Three times daily,30,30,2025-05-01
+309,240,7,1 capsule,Twice daily,10,10,2025-03-28
+310,240,16,1 puff,Once daily,7,21,2025-03-28
+311,241,17,2 tablets,Twice daily,3,3,2025-02-15
+312,242,18,1 tablet,Once daily,14,14,2026-07-20
+313,244,8,1 puff,Three times daily,5,10,2026-04-14
+314,244,20,5ml,Twice daily,10,30,2026-04-14
+315,245,12,1 puff,Once daily,30,30,2026-03-15
+316,246,9,1 tablet,Once daily,7,7,2025-11-17
+317,246,3,1 tablet,As needed,10,20,2025-11-17
+318,248,15,1 tablet,Three times daily,3,9,2025-06-22
+319,248,19,1 puff,Once daily,7,21,2025-06-22
+320,249,11,1 capsule,Three times daily,10,20,2025-09-13
+321,250,16,2 tablets,Twice daily,7,21,2025-08-07
+322,253,15,1 capsule,As needed,10,20,2025-05-07
+323,254,15,2 tablets,As needed,10,10,2026-02-09
+324,254,14,5ml,As needed,3,3,2026-02-09
+325,255,5,1 tablet,As needed,10,20,2026-03-26
+326,255,6,2 tablets,Twice daily,5,15,2026-03-26
+327,255,4,1 capsule,Twice daily,3,6,2026-03-26
+328,256,7,1 capsule,Twice daily,3,6,2025-07-23
+329,257,18,2 tablets,As needed,7,7,2026-05-29
+330,260,6,1 tablet,Three times daily,10,30,2025-06-02
+331,261,3,1 capsule,Three times daily,7,21,2025-10-03
+332,261,5,1 capsule,Twice daily,5,15,2025-10-03
+333,261,14,5ml,Twice daily,10,10,2025-10-03
+334,263,20,1 tablet,Twice daily,10,30,2025-12-09
+335,264,11,2 tablets,Three times daily,30,60,2026-01-05
+336,265,16,1 capsule,Three times daily,3,3,2025-07-15
+337,266,7,2 tablets,Three times daily,7,21,2026-05-01
+338,267,16,5ml,Three times daily,7,21,2026-05-10
+339,267,7,1 puff,Twice daily,5,10,2026-05-10
+340,268,20,1 capsule,As needed,5,5,2025-07-31
+341,268,1,1 tablet,As needed,7,21,2025-07-31
+342,269,20,1 puff,As needed,7,7,2026-05-31
+343,269,15,5ml,Once daily,14,42,2026-05-31
+344,270,7,2 tablets,Three times daily,7,21,2026-07-20
+345,271,2,2 tablets,Once daily,10,10,2025-02-10
+346,271,11,1 capsule,Twice daily,7,21,2025-02-10
+347,272,11,1 puff,Twice daily,10,20,2025-02-28
+348,273,7,1 tablet,Three times daily,14,42,2026-03-29
+349,273,2,1 puff,Three times daily,30,30,2026-03-29
+350,274,13,1 tablet,Three times daily,10,30,2026-04-02
+351,275,5,1 tablet,As needed,7,7,2025-07-05
+352,277,5,1 capsule,Twice daily,10,30,2025-05-27
+353,278,11,1 capsule,Three times daily,3,6,2025-05-16
+354,280,10,2 tablets,Three times daily,5,15,2025-04-16
+355,280,1,5ml,As needed,3,3,2025-04-16
+356,281,11,1 puff,Once daily,30,60,2025-06-03
+357,282,11,5ml,Once daily,10,10,2025-09-29
+358,282,10,1 puff,Once daily,7,21,2025-09-29
+359,283,2,2 tablets,As needed,30,90,2026-02-04
+360,283,3,2 tablets,Once daily,3,3,2026-02-04
+361,284,8,5ml,Three times daily,3,6,2025-05-29
+362,286,3,1 puff,Once daily,10,20,2025-04-23
+363,287,13,1 puff,Once daily,30,30,2025-05-28
+364,288,15,5ml,Twice daily,5,5,2026-01-10
+365,288,8,1 puff,Once daily,3,9,2026-01-10
+366,290,8,1 tablet,Twice daily,10,10,2025-06-27
+367,290,8,1 puff,Three times daily,5,5,2025-06-27
+368,291,13,5ml,As needed,3,9,2025-02-25
+369,293,14,1 tablet,Twice daily,14,14,2025-08-05
+370,293,19,2 tablets,As needed,3,3,2025-08-05
+371,295,19,2 tablets,As needed,7,21,2025-06-06
+372,295,7,1 tablet,Three times daily,5,15,2025-06-06
+373,296,12,2 tablets,Twice daily,14,28,2025-05-14
+374,297,9,5ml,Three times daily,7,7,2025-11-01
+375,297,13,5ml,As needed,3,9,2025-11-01
+376,299,17,2 tablets,Once daily,10,10,2026-04-16
+377,299,2,2 tablets,Twice daily,10,10,2026-04-16
+378,300,10,2 tablets,Three times daily,30,90,2025-07-04
+379,300,12,2 tablets,Three times daily,10,10,2025-07-04
+380,301,1,2 tablets,Twice daily,7,7,2026-02-05
+381,302,7,1 capsule,Three times daily,10,30,2026-05-14
+382,302,15,2 tablets,As needed,10,30,2026-05-14
+383,304,8,1 tablet,Once daily,3,9,2025-02-02
+384,305,20,5ml,Once daily,3,3,2025-06-12
+385,305,10,1 puff,Twice daily,10,20,2025-06-12
+386,308,14,1 tablet,Three times daily,30,60,2025-10-02
+387,308,14,5ml,Once daily,30,30,2025-10-02
+388,309,10,1 capsule,Twice daily,5,10,2026-07-19
+389,309,4,1 tablet,As needed,30,90,2026-07-19
+390,312,15,1 puff,Three times daily,14,42,2026-04-02
+391,312,9,1 puff,As needed,3,9,2026-04-02
+392,314,7,1 capsule,Once daily,3,6,2025-06-21
+393,314,2,1 capsule,As needed,10,20,2025-06-21
+394,317,3,5ml,As needed,7,21,2025-08-09
+395,317,7,5ml,Twice daily,7,7,2025-08-09
+396,318,15,1 tablet,As needed,3,9,2025-01-10
+397,319,16,1 tablet,Three times daily,5,15,2025-11-26
+398,320,20,1 capsule,Twice daily,7,14,2026-06-24
+399,321,12,1 puff,Twice daily,30,90,2026-03-08
+400,322,12,1 puff,As needed,10,10,2025-02-20
+401,323,12,1 capsule,As needed,7,7,2025-05-03
+402,325,20,5ml,Three times daily,7,7,2025-10-19
+403,327,18,1 tablet,Three times daily,30,30,2025-10-09
+404,328,5,1 puff,Twice daily,14,28,2026-05-21
+405,329,19,1 capsule,Once daily,5,5,2025-05-05
+406,329,14,1 puff,Once daily,3,9,2025-05-05
+407,330,19,1 puff,Twice daily,3,6,2025-01-11
+408,331,11,5ml,Three times daily,10,10,2025-06-24
+409,331,18,1 capsule,Twice daily,10,30,2025-06-24
+410,332,14,2 tablets,As needed,30,30,2025-09-23
+411,334,7,1 puff,Once daily,30,30,2026-04-17
+412,334,16,5ml,Twice daily,5,5,2026-04-17
+413,335,10,1 tablet,Twice daily,5,15,2026-04-03
+414,335,1,5ml,Once daily,3,3,2026-04-03
+415,336,3,1 capsule,Once daily,3,6,2025-10-15
+416,338,13,1 puff,Three times daily,3,9,2025-03-21
+417,339,12,1 capsule,As needed,5,10,2025-08-10
+418,340,19,1 capsule,Once daily,3,9,2025-12-15
+419,340,16,1 tablet,Three times daily,7,14,2025-12-15
+420,341,13,1 capsule,Three times daily,14,14,2026-06-01
+421,341,16,1 tablet,As needed,3,6,2026-06-01
+422,342,3,1 puff,Once daily,10,20,2026-04-09
+423,342,3,1 tablet,As needed,5,15,2026-04-09
+424,343,11,1 capsule,Once daily,5,15,2026-03-10
+425,344,18,2 tablets,As needed,30,60,2026-04-18
+426,346,19,1 puff,As needed,30,30,2025-09-29
+427,346,3,1 capsule,Three times daily,14,14,2025-09-29
+428,347,13,1 tablet,Three times daily,14,42,2025-06-04
+429,347,19,1 puff,As needed,3,9,2025-06-04
+430,349,6,1 puff,Three times daily,3,6,2026-03-09
+431,350,5,1 capsule,As needed,3,3,2025-10-10
+432,351,13,2 tablets,As needed,30,90,2025-04-24
+433,354,19,1 capsule,Once daily,10,10,2025-07-30
+434,357,20,1 capsule,As needed,14,14,2025-12-07
+435,358,14,1 puff,Three times daily,3,9,2025-12-09
+436,359,4,1 tablet,Three times daily,10,20,2025-01-10
+437,359,14,1 capsule,Once daily,14,42,2025-01-10
+438,361,12,1 puff,Twice daily,10,20,2025-08-22
+439,362,5,2 tablets,Once daily,3,3,2025-12-10
+440,363,7,1 puff,Three times daily,10,30,2025-09-17
+441,364,16,2 tablets,As needed,3,9,2025-12-08
+442,367,10,1 capsule,Once daily,5,15,2026-01-22
+443,368,17,1 puff,Three times daily,3,3,2025-09-29
+444,369,1,5ml,Twice daily,7,7,2025-11-13
+445,370,7,1 capsule,As needed,5,15,2026-03-20
+446,370,16,2 tablets,As needed,5,5,2026-03-20
+447,371,18,2 tablets,Twice daily,3,3,2026-05-26
+448,372,3,1 tablet,Twice daily,10,30,2025-11-07
+449,372,8,5ml,Twice daily,30,60,2025-11-07
+450,373,14,1 tablet,Three times daily,3,6,2026-04-10
+451,373,13,5ml,As needed,3,3,2026-04-10
+452,374,8,1 capsule,As needed,30,30,2026-05-16
+453,375,6,1 puff,Three times daily,5,15,2025-02-21
+454,375,16,1 puff,Once daily,3,6,2025-02-21
+455,376,18,2 tablets,Once daily,3,9,2025-03-30
+456,377,13,5ml,Three times daily,7,14,2025-10-25
+457,378,20,1 capsule,As needed,7,14,2026-01-31
+458,379,19,1 puff,Twice daily,30,90,2025-11-15
+459,380,3,5ml,Once daily,30,60,2025-09-14
+460,381,9,1 puff,Twice daily,7,14,2025-11-09
+461,382,11,2 tablets,Three times daily,5,15,2026-01-20
+462,383,7,1 capsule,Three times daily,7,21,2026-05-31
+463,383,9,2 tablets,Twice daily,14,28,2026-05-31
+464,383,10,5ml,Three times daily,5,15,2026-05-31
+465,385,17,5ml,Twice daily,5,5,2025-04-01
+466,386,11,1 capsule,Three times daily,5,15,2026-07-11
+467,388,9,1 puff,Three times daily,14,28,2025-10-04
+468,390,9,1 puff,As needed,3,6,2026-06-13
+469,390,1,5ml,As needed,3,3,2026-06-13
+470,391,18,1 puff,As needed,14,28,2025-11-05
+471,394,16,1 capsule,As needed,14,14,2026-02-05
+472,395,4,1 tablet,Three times daily,5,5,2025-07-08
+473,396,2,5ml,Once daily,3,3,2026-03-19
+474,396,18,2 tablets,Once daily,14,28,2026-03-19
+475,397,14,1 puff,Once daily,5,5,2025-06-24
+476,397,1,1 puff,Three times daily,3,6,2025-06-24
+477,397,10,2 tablets,Twice daily,10,10,2025-06-24
+478,398,19,5ml,Twice daily,7,21,2025-04-13
+479,398,5,1 puff,Three times daily,3,9,2025-04-13
+480,399,6,1 puff,Once daily,10,10,2025-04-20
+481,399,6,1 puff,Three times daily,3,9,2025-04-20
+482,400,4,1 capsule,Twice daily,3,3,2025-10-18
+483,400,8,2 tablets,Twice daily,10,30,2025-10-18
+484,401,9,2 tablets,Three times daily,3,3,2025-11-07
+485,401,14,1 capsule,As needed,14,42,2025-11-07
+486,401,7,1 tablet,As needed,5,5,2025-11-07
+487,402,15,1 capsule,As needed,5,15,2026-04-25
+488,404,7,1 capsule,Three times daily,30,60,2025-06-28
+489,404,11,1 puff,As needed,3,6,2025-06-28
+490,405,20,2 tablets,Once daily,5,10,2025-05-24
+491,405,20,1 capsule,Twice daily,30,90,2025-05-24
+492,406,7,5ml,As needed,5,10,2026-01-21
+493,406,9,5ml,Twice daily,5,15,2026-01-21
+494,407,16,1 puff,Twice daily,3,9,2025-11-28
+495,408,3,1 tablet,As needed,10,30,2025-06-12
+496,408,19,1 capsule,Once daily,7,14,2025-06-12
+497,409,15,1 capsule,Three times daily,10,10,2025-11-28
+498,410,9,1 capsule,Twice daily,7,14,2026-03-07
+499,412,17,2 tablets,Once daily,14,42,2025-11-25
+500,412,13,2 tablets,Once daily,7,7,2025-11-25
+501,413,6,1 puff,Once daily,3,9,2025-07-20
+502,413,9,5ml,As needed,3,9,2025-07-20
+503,416,6,5ml,Twice daily,5,10,2026-01-04
+504,417,8,1 tablet,Twice daily,3,9,2025-07-14
+505,418,16,2 tablets,Once daily,10,10,2026-07-27
+506,419,7,1 tablet,Once daily,14,42,2025-03-14
+507,419,4,1 puff,Once daily,7,7,2025-03-14
+508,420,18,2 tablets,Twice daily,7,21,2025-05-01
+509,420,18,1 tablet,Three times daily,5,5,2025-05-01
+510,421,9,1 puff,Once daily,14,14,2025-08-18
+511,421,13,1 tablet,As needed,5,5,2025-08-18
+512,424,12,1 capsule,Twice daily,14,28,2025-01-31
+513,424,15,1 tablet,Twice daily,5,15,2025-01-31
+514,426,2,2 tablets,Once daily,3,6,2025-08-30
+515,426,10,1 capsule,As needed,10,30,2025-08-30
+516,427,13,1 puff,Three times daily,14,28,2025-03-14
+517,428,19,1 capsule,Three times daily,30,90,2025-10-05
+518,428,17,1 puff,As needed,10,10,2025-10-05
+519,432,10,1 capsule,As needed,3,9,2026-03-17
+520,432,13,1 tablet,Three times daily,7,14,2026-03-17
+521,432,16,2 tablets,As needed,5,5,2026-03-17
+522,433,5,2 tablets,Three times daily,10,30,2026-01-12
+523,433,13,1 tablet,Twice daily,5,5,2026-01-12
+524,434,9,1 capsule,As needed,10,20,2025-09-01
+525,434,12,2 tablets,As needed,5,10,2025-09-01
+526,434,2,1 tablet,Three times daily,5,5,2025-09-01
+527,435,12,1 capsule,Once daily,10,20,2026-02-27
+528,437,17,1 tablet,As needed,14,28,2025-11-18
+529,439,10,1 tablet,Once daily,14,14,2026-05-22
+530,441,9,1 puff,Twice daily,3,3,2026-07-09
+531,441,17,1 capsule,As needed,7,7,2026-07-09
+532,442,20,1 puff,Three times daily,10,20,2025-10-14
+533,443,2,1 tablet,As needed,14,42,2026-07-21
+534,444,14,1 puff,Once daily,14,14,2025-08-29
+535,444,5,1 capsule,Three times daily,10,20,2025-08-29
+536,446,7,1 capsule,Three times daily,3,9,2025-03-28
+537,446,13,1 tablet,Three times daily,5,5,2025-03-28
+538,449,7,1 capsule,Three times daily,10,10,2025-02-02
+539,450,7,2 tablets,Once daily,3,3,2025-08-10
+540,450,9,1 tablet,Twice daily,30,60,2025-08-10
+541,450,15,1 capsule,Once daily,5,15,2025-08-10
+542,452,11,5ml,As needed,14,42,2026-06-16
+543,453,9,1 puff,Three times daily,14,42,2025-05-16
+544,453,11,1 puff,Three times daily,14,14,2025-05-16
+545,453,20,1 tablet,As needed,5,5,2025-05-16
+546,454,11,1 capsule,As needed,14,28,2026-07-10
+547,456,9,1 puff,Twice daily,3,3,2025-11-11
+548,457,8,2 tablets,Once daily,5,10,2025-01-18
+549,457,18,1 capsule,As needed,14,28,2025-01-18
+550,458,11,2 tablets,Twice daily,7,7,2026-05-07
+551,459,3,1 capsule,As needed,7,7,2026-07-19
+552,459,14,1 capsule,Once daily,5,10,2026-07-19
+553,461,10,1 capsule,As needed,5,10,2025-05-31
+554,463,8,1 puff,Twice daily,7,7,2025-09-23
+555,464,20,1 capsule,Once daily,7,21,2025-12-25
+556,467,5,1 capsule,Once daily,14,28,2025-12-01
+557,467,5,1 capsule,Twice daily,3,3,2025-12-01
+558,469,12,5ml,Once daily,30,90,2025-06-03
+559,471,11,1 puff,Once daily,3,3,2026-01-26
+560,471,2,2 tablets,Twice daily,14,14,2026-01-26
+561,472,16,1 puff,Three times daily,3,6,2026-06-25
+562,472,20,1 puff,Three times daily,14,14,2026-06-25
